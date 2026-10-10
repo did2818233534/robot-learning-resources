@@ -1,0 +1,1602 @@
+<!-- source: pdf=409; section=索引; unit=p0409_b000_u00 -->
+# 索引 {#index}
+
+本索引沿用英文原书的字母顺序和条目层级，并附英文词条以便对照。“原书 n”保留原书页码，点击可跳转到本译文中对应的内容；它不是中文版的排版页码。
+
+
+<!-- source: pdf=409; section=索引; unit=p0409_b001_u00; entry=idx0001 -->
+## 符号
+
+- #define 声明（#define declarations），[原书 289](ch11_zh.md#src-p309), [原书 325](ch12_zh.md#src-p345) <!-- source: pdf=409; section=索引; unit=p0409_b001_u01; entry=idx0002 -->
+- &（按位与）运算符（& (bitwise AND) operator），[原书 89](ch04_zh.md#src-p109), [原书 205](ch07_zh.md#src-p225) <!-- source: pdf=409; section=索引; unit=p0409_b001_u01; entry=idx0003 -->
+    - 检查寄存器中的某位是否置位（testing if bit is set in register），[原书 91](ch04_zh.md#src-p111) <!-- source: pdf=409; section=索引; unit=p0409_b002_u00; entry=idx0004 -->
+    - 用于清除寄存器中的某位（using in clearing bit in a register），[原书 91](ch04_zh.md#src-p111) <!-- source: pdf=409; section=索引; unit=p0409_b002_u00; entry=idx0005 -->
+- <<（按位左移）运算符（&lt;&lt; (bitwise shift left) operator），[原书 91](ch04_zh.md#src-p111) <!-- source: pdf=409; section=索引; unit=p0409_b002_u00; entry=idx0006 -->
+- ?:（三目条件）运算符（?: (ternary conditional) operator），[原书 292](ch11_zh.md#src-p312) <!-- source: pdf=409; section=索引; unit=p0409_b002_u00; entry=idx0007 -->
+- \^（按位异或）运算符（\^ (XOR) bitwise operator） <!-- source: pdf=409; section=索引; unit=p0409_b002_u00; entry=idx0008 -->
+    - 用于翻转寄存器中的某位（using to toggle bit in a register），[原书 91](ch04_zh.md#src-p111) <!-- source: pdf=409; section=索引; unit=p0409_b002_u00; entry=idx0009 -->
+- |（按位或）运算符（| (bitwise OR) operator），[原书 89](ch04_zh.md#src-p109) <!-- source: pdf=409; section=索引; unit=p0409_b002_u00; entry=idx0010 -->
+    - 设置寄存器中的某位（setting bit in a register），[原书 91](ch04_zh.md#src-p111) <!-- source: pdf=409; section=索引; unit=p0409_b003_u00; entry=idx0011 -->
+- \~（按位取反）运算符（\~ (bitwise NOT) operator），[原书 89](ch04_zh.md#src-p109) <!-- source: pdf=409; section=索引; unit=p0409_b003_u00; entry=idx0012 -->
+    - 清除寄存器中的某位（clearing bit in a register），[原书 91](ch04_zh.md#src-p111) <!-- source: pdf=409; section=索引; unit=p0409_b004_u00; entry=idx0013 -->
+
+<!-- source: pdf=409; section=索引; unit=p0409_b005_u00; entry=idx0014 -->
+## A
+
+- abs 函数（abs function），[原书 118](ch04_zh.md#src-p138), [原书 290](ch11_zh.md#src-p310) <!-- source: pdf=409; section=索引; unit=p0409_b005_u01; entry=idx0015 -->
+- 加速度（acceleration），[原书 378](ch14_zh.md#src-p398) <!-- source: pdf=409; section=索引; unit=p0409_b005_u01; entry=idx0016 -->
+    - 运动曲线（motion profiles），[原书 382](ch14_zh.md#src-p402)-[原书 384](ch14_zh.md#src-p404) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0017 -->
+- 准确度（accuracy） <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0018 -->
+    - 时钟源的准确度（of clock sources），[原书 363](ch13_zh.md#src-p383) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0019 -->
+    - 正弦泰勒级数不同项数的准确度（of different numbers of terms for sine Taylor series），[原书 334](ch12_zh.md#src-p354) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0020 -->
+    - 使用显式查表提高查找表的准确度（increased in lookup table with explicit lookup），[原书 344](ch12_zh.md#src-p364) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0021 -->
+    - 与精度的区别（versus precision），[原书 323](ch12_zh.md#src-p343) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0022 -->
+    - 电阻对应的准确度（resistors associated with），[原书 359](ch13_zh.md#src-p379) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0023 -->
+    - 正弦查找表结果（sine lookup table results），[原书 339](ch12_zh.md#src-p359) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0024 -->
+- 动作寄存器（action register），[原书 113](ch04_zh.md#src-p133) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0025 -->
+- 低电平有效引脚（active low pins），[原书 48](ch03_zh.md#src-p68), [原书 101](ch04_zh.md#src-p121) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0026 -->
+- 主动对象（active objects），[原书 174](ch06_zh.md#src-p194)-[原书 177](ch06_zh.md#src-p197) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0027 -->
+- Actor 模式（actor pattern），[原书 177](ch06_zh.md#src-p197) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0028 -->
+- 执行器（actuators），[原书 373](ch14_zh.md#src-p393) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0029 -->
+- 适配器模式（adapter pattern），[原书 25](ch02_zh.md#src-p45), [原书 100](ch04_zh.md#src-p120) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0030 -->
+- ADC（模数转换器）（ADCs (analog-to-digital converters)），[原书 127](ch05_zh.md#src-p147), [原书 195](ch07_zh.md#src-p215) <!-- source: pdf=409; section=索引; unit=p0409_b006_u00; entry=idx0031 -->
+    - ADC 到 DAC 的数据驱动系统，循环缓冲区中有多个指针（ADC to DAC data-driven system with multiple pointers into a circular buffer），[原书 209](ch07_zh.md#src-p229) <!-- source: pdf=409; section=索引; unit=p0409_b007_u00; entry=idx0032 -->
+    - 外部 ADC 示例：数据就绪信号与 SPI（external ADC example, data ready with SPI），[原书 196](ch07_zh.md#src-p216)-[原书 197](ch07_zh.md#src-p217) <!-- source: pdf=409; section=索引; unit=p0409_b007_u00,p0409_b008_u00; entry=idx0033 -->
+    - 外部 ADC 示例：SPI 与 DMA（external ADC example, SPI and DMA），[原书 200](ch07_zh.md#src-p220)-[原书 203](ch07_zh.md#src-p223) <!-- source: pdf=409; section=索引; unit=p0409_b008_u00,p0409_b009_u00; entry=idx0034 -->
+    - 采样频率（sample frequencies），[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=409; section=索引; unit=p0409_b009_u00; entry=idx0035 -->
+    - ADC 输入的温度补偿（temperature compensation in ADC input），[原书 345](ch12_zh.md#src-p365) <!-- source: pdf=409; section=索引; unit=p0409_b009_u00,p0409_b010_u00; entry=idx0036 -->
+- AES 加密算法（AES encryption algorithm），[原书 271](ch10_zh.md#src-p291) <!-- source: pdf=409; section=索引; unit=p0409_b010_u00; entry=idx0037 -->
+- 敏捷开发（Agile development），[原书 43](ch03_zh.md#src-p63) <!-- source: pdf=409; section=索引; unit=p0409_b010_u00; entry=idx0038 -->
+- 算法（algorithms） <!-- source: pdf=409; section=索引; unit=p0409_b010_u00; entry=idx0039 -->
+    - 模拟浮点数的加法和乘法算法：精度不足（for addition and multiplication of fake floating-point numbers, lack of precision），[原书 351](ch12_zh.md#src-p371) <!-- source: pdf=409; section=索引; unit=p0409_b010_u00; entry=idx0040 -->
+    - 身份认证与加密算法的安全性（authentication and encryption, security of），[原书 271](ch10_zh.md#src-p291) <!-- source: pdf=409; section=索引; unit=p0409_b010_u00,p0409_b011_u00; entry=idx0041 -->
+    - 结合策略模式与模板模式（combining strategy and template patterns），[原书 233](ch08_zh.md#src-p253) <!-- source: pdf=409; section=索引; unit=p0409_b011_u00,p0409_b012_u00; entry=idx0042 -->
+    - 设计与修改（designing and modifying），[原书 332](ch12_zh.md#src-p352)-[原书 344](ch12_zh.md#src-p364) <!-- source: pdf=409; section=索引; unit=p0409_b012_u00; entry=idx0043 -->
+        - 多项式因式分解（factor polynomials），[原书 332](ch12_zh.md#src-p352) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0044 -->
+        - 输入缩放（scaling the input），[原书 336](ch12_zh.md#src-p356) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0045 -->
+        - 使用查找表（using lookup tables），[原书 338](ch12_zh.md#src-p358)-[原书 344](ch12_zh.md#src-p364) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0046 -->
+        - 使用泰勒级数（using Taylor series），[原书 333](ch12_zh.md#src-p353)-[原书 335](ch12_zh.md#src-p355) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0047 -->
+    - 加密（encryption），[原书 271](ch10_zh.md#src-p291) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0048 -->
+    - 实现方式：速度快或体积大（implementations, fast or large），[原书 317](ch11_zh.md#src-p337) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0049 -->
+    - 三个变量的最小值：实现示例（minimum of three variables, implementation example），[原书 292](ch11_zh.md#src-p312) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0050 -->
+    - 阶段、管道与过滤器（stages, pipelines and filters），[原书 233](ch08_zh.md#src-p253) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0051 -->
+    - 策略模式（strategy pattern），[原书 232](ch08_zh.md#src-p252) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0052 -->
+    - 模板模式（template pattern），[原书 232](ch08_zh.md#src-p252) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0053 -->
+    - 使用已有算法（using an existing algorithm），[原书 329](ch12_zh.md#src-p349)-[原书 332](ch12_zh.md#src-p352) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0054 -->
+- Allen, Charles，[原书 212](ch08_zh.md#src-p232) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0055 -->
+- 模拟信号（analog signals），[原书 227](ch08_zh.md#src-p247)-[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=409; section=索引; unit=p0409_b013_u00; entry=idx0056 -->
+    - 噪声（noise），[原书 230](ch08_zh.md#src-p250) <!-- source: pdf=409; section=索引; unit=p0409_b014_u00; entry=idx0057 -->
+- 模拟—数字—模拟系统（analog-to-digital-to-analog system），[原书 228](ch08_zh.md#src-p248), [原书 231](ch08_zh.md#src-p251) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0058 -->
+- 抗锯齿（antialiasing），[原书 216](ch08_zh.md#src-p236) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0059 -->
+- Arduino UNO 原理图的阅读（Arduino UNO schematic, reading），[原书 62](ch03_zh.md#src-p82)-[原书 64](ch03_zh.md#src-p84) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0060 -->
+- Arduino：setup 与隐藏的初始化（Arduino, setup and hidden initialization），[原书 166](ch06_zh.md#src-p186) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0061 -->
+- ASCII 字符（ASCII characters），[原书 194](ch07_zh.md#src-p214) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0062 -->
+- 汇编代码（assembly code） <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0063 -->
+    - 故障处理函数（fault handlers），[原书 255](ch09_zh.md#src-p275) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0064 -->
+    - 使用汇编语言编程（programming in assembly language），[原书 318](ch11_zh.md#src-p338) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0065 -->
+    - rts 和 rti 操作码（rts and rti opcodes），[原书 139](ch05_zh.md#src-p159) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0066 -->
+- 原子操作（atomic actions），[原书 154](ch06_zh.md#src-p174) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0067 -->
+- 身份认证（authentication），[原书 270](ch10_zh.md#src-p290) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0068 -->
+- 平均值（averages），[原书 325](ch12_zh.md#src-p345)-[原书 329](ch12_zh.md#src-p349) <!-- source: pdf=410; section=索引; unit=p0410_b000_u00; entry=idx0069 -->
+
+<!-- source: pdf=410; section=索引; unit=p0410_b001_u00; entry=idx0070 -->
+## B
+
+- 带宽（bandwidth），[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=410; section=索引; unit=p0410_b001_u01; entry=idx0071 -->
+    - 数据带宽（data），[原书 236](ch08_zh.md#src-p256) <!-- source: pdf=410; section=索引; unit=p0410_b002_u00; entry=idx0072 -->
+- 裸机文件系统（bare metal filesystems），[原书 224](ch08_zh.md#src-p244) <!-- source: pdf=410; section=索引; unit=p0410_b002_u00; entry=idx0073 -->
+- 电池（batteries） <!-- source: pdf=410; section=索引; unit=p0410_b002_u00; entry=idx0074 -->
+    - 成本预算与寿命（cost budget and life of），[原书 361](ch13_zh.md#src-p381) <!-- source: pdf=410; section=索引; unit=p0410_b002_u00; entry=idx0075 -->
+    - 额定电压与容量（voltage rating and capacity），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=410; section=索引; unit=p0410_b002_u00; entry=idx0076 -->
+- 波特率（baud rates），[原书 185](ch07_zh.md#src-p205), [原书 187](ch07_zh.md#src-p207) <!-- source: pdf=410; section=索引; unit=p0410_b002_u00; entry=idx0077 -->
+- 物料清单（BOM）（bill of materials (BOM)），[原书 44](ch03_zh.md#src-p64) <!-- source: pdf=410; section=索引; unit=p0410_b002_u00; entry=idx0078 -->
+- 二进制运算（binary math），[原书 87](ch04_zh.md#src-p107) <!-- source: pdf=410; section=索引; unit=p0410_b002_u00; entry=idx0079 -->
+- 二进制缩放（binary scaling），[原书 346](ch12_zh.md#src-p366) <!-- source: pdf=410; section=索引; unit=p0410_b002_u00; entry=idx0080 -->
+    - 算法的局限（limitations of algorithms），[原书 351](ch12_zh.md#src-p371) <!-- source: pdf=410; section=索引; unit=p0410_b003_u00; entry=idx0081 -->
+- 位移（bit shifts），[原书 335](ch12_zh.md#src-p355) <!-- source: pdf=410; section=索引; unit=p0410_b003_u00; entry=idx0082 -->
+    - 将线性插值中的除法转换为位移（converting division in linear interpretation to），[原书 342](ch12_zh.md#src-p362) <!-- source: pdf=410; section=索引; unit=p0410_b004_u00; entry=idx0083 -->
+    - 查找表减少对位移的需求（lookup tables reducing need for），[原书 338](ch12_zh.md#src-p358) <!-- source: pdf=410; section=索引; unit=p0410_b004_u00; entry=idx0084 -->
+- 软件模拟时序驱动程序（bit-bang drivers），[原书 189](ch07_zh.md#src-p209), [原书 193](ch07_zh.md#src-p213) <!-- source: pdf=410; section=索引; unit=p0410_b004_u00; entry=idx0085 -->
+- 位图（bitmaps），[原书 215](ch08_zh.md#src-p235) <!-- source: pdf=410; section=索引; unit=p0410_b004_u00; entry=idx0086 -->
+    - 位图中的抗锯齿（antialiasing in），[原书 217](ch08_zh.md#src-p237) <!-- source: pdf=410; section=索引; unit=p0410_b005_u00; entry=idx0087 -->
+- 位（bits） <!-- source: pdf=410; section=索引; unit=p0410_b005_u00; entry=idx0088 -->
+    - 确定一个数需要多少位（determining how many bits in a number），[原书 114](ch04_zh.md#src-p134) <!-- source: pdf=410; section=索引; unit=p0410_b005_u00,p0410_b006_u00; entry=idx0089 -->
+    - 置位寄存器与清位寄存器（register to set and register to clear），[原书 136](ch05_zh.md#src-p156) <!-- source: pdf=410; section=索引; unit=p0410_b006_u00; entry=idx0090 -->
+    - 反转一个字节中的各位（面试题）（reversing in a byte (interview question)），[原书 321](ch11_zh.md#src-p341) <!-- source: pdf=410; section=索引; unit=p0410_b006_u00; entry=idx0091 -->
+- 位运算（bitwise operations），[原书 89](ch04_zh.md#src-p109) <!-- source: pdf=410; section=索引; unit=p0410_b006_u00; entry=idx0092 -->
+    - 替代取模运算（replacing modulo math with），[原书 324](ch12_zh.md#src-p344) <!-- source: pdf=410; section=索引; unit=p0410_b007_u00; entry=idx0093 -->
+- BLE（低功耗蓝牙）（BLE (Bluetooth Low Energy)），[原书 266](ch10_zh.md#src-p286) <!-- source: pdf=410; section=索引; unit=p0410_b007_u00; entry=idx0094 -->
+- 分块平均（block average），[原书 325](ch12_zh.md#src-p345) <!-- source: pdf=410; section=索引; unit=p0410_b007_u00; entry=idx0095 -->
+    - 在方差计算中的应用（in variance calculation），[原书 330](ch12_zh.md#src-p350) <!-- source: pdf=410; section=索引; unit=p0410_b008_u00; entry=idx0096 -->
+- 框图（block diagrams），[原书 14](ch02_zh.md#src-p34), [原书 38](ch02_zh.md#src-p58) <!-- source: pdf=410; section=索引; unit=p0410_b008_u00; entry=idx0097 -->
+    - 帮助解读原理图（helping to decode a schematic），[原书 60](ch03_zh.md#src-p80) <!-- source: pdf=410; section=索引; unit=p0410_b009_u00; entry=idx0098 -->
+- 阻塞式主循环（blocking main loop），[原书 167](ch06_zh.md#src-p187) <!-- source: pdf=410; section=索引; unit=p0410_b009_u00; entry=idx0099 -->
+- 电路板初始调试（board bring-up），[原书 45](ch03_zh.md#src-p65) <!-- source: pdf=410; section=索引; unit=p0410_b009_u00; entry=idx0100 -->
+    - 在此过程中建立的测试（tests created during），[原书 71](ch03_zh.md#src-p91) <!-- source: pdf=410; section=索引; unit=p0410_b010_u00; entry=idx0101 -->
+- 电路板（boards），[原书 42](ch03_zh.md#src-p62) <!-- source: pdf=410; section=索引; unit=p0410_b010_u00; entry=idx0102 -->
+    - 保护电路板安全（keeping your board safe），[原书 64](ch03_zh.md#src-p84) <!-- source: pdf=410; section=索引; unit=p0410_b011_u00; entry=idx0103 -->
+    - 布局布线（layout），[原书 44](ch03_zh.md#src-p64) <!-- source: pdf=410; section=索引; unit=p0410_b011_u00; entry=idx0104 -->
+    - 现成的开发板（off-the-shelf development boards），[原书 8](ch01_zh.md#src-p28) <!-- source: pdf=410; section=索引; unit=p0410_b012_u00; entry=idx0105 -->
+    - 使用电路板专用头文件修改引脚（using board-specific header file for pin modifications），[原书 97](ch04_zh.md#src-p117) <!-- source: pdf=410; section=索引; unit=p0410_b012_u00; entry=idx0106 -->
+- 引导加载程序：用于代码更新（bootloader, using in code updates），[原书 272](ch10_zh.md#src-p292)-[原书 275](ch10_zh.md#src-p295) <!-- source: pdf=410; section=索引; unit=p0410_b012_u00; entry=idx0107 -->
+    - 使用安全引导加载程序（working with secure bootloader），[原书 275](ch10_zh.md#src-p295)-[原书 277](ch10_zh.md#src-p297) <!-- source: pdf=410; section=索引; unit=p0410_b013_u00; entry=idx0108 -->
+- 启动：重新启动的原因（boots, cause for reboots），[原书 281](ch10_zh.md#src-p301) <!-- source: pdf=410; section=索引; unit=p0410_b013_u00; entry=idx0109 -->
+- 自底向上设计（bottom-up design），[原书 23](ch02_zh.md#src-p43) <!-- source: pdf=410; section=索引; unit=p0410_b013_u00; entry=idx0110 -->
+- 抖动：开关去抖（bouncing, debouncing switches），[原书 105](ch04_zh.md#src-p125)-[原书 108](ch04_zh.md#src-p128) <!-- source: pdf=410; section=索引; unit=p0410_b013_u00; entry=idx0111 -->
+- 电机造成的损坏（breakage caused by motors），[原书 385](ch14_zh.md#src-p405) <!-- source: pdf=410; section=索引; unit=p0410_b013_u00; entry=idx0112 -->
+- 断点（breakpoints），[原书 255](ch09_zh.md#src-p275) <!-- source: pdf=410; section=索引; unit=p0410_b013_u00; entry=idx0113 -->
+    - 汇编指令（assembly instruction），[原书 81](ch03_zh.md#src-p101) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0114 -->
+    - 观察点（watchpoints），[原书 250](ch09_zh.md#src-p270) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0115 -->
+- 有刷直流电机（brushed DC motors），[原书 374](ch14_zh.md#src-p394) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0116 -->
+- 无刷电机（brushless motors），[原书 374](ch14_zh.md#src-p394) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0117 -->
+- bss 段（bss section） <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0118 -->
+    - 链接器脚本（linker scripts），[原书 257](ch09_zh.md#src-p277) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0119 -->
+    - 映射文件（map files），[原书 296](ch11_zh.md#src-p316) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0120 -->
+- 缓冲区（buffers） <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0121 -->
+    - 循环缓冲区（circular），[原书 203](ch07_zh.md#src-p223)-[原书 209](ch07_zh.md#src-p229) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0122 -->
+    - 数字通信缓冲方案的比较（comparison of digital communication buffering schemes），[原书 202](ch07_zh.md#src-p222) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0123 -->
+    - 在系统中使用大型缓冲区（large buffers in a system, use of），[原书 302](ch11_zh.md#src-p322) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0124 -->
+    - malloc 与堆碎片（malloc and heap fragmentation），[原书 295](ch11_zh.md#src-p315) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0125 -->
+    - 在缓冲区中实现内存覆盖（memory overlays, implementing in），[原书 303](ch11_zh.md#src-p323) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0126 -->
+    - 溢出（overflows），[原书 253](ch09_zh.md#src-p273), [原书 260](ch09_zh.md#src-p280) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0127 -->
+    - DMA 实现中的乒乓缓冲区（ping-pong, in DMA implementation），[原书 199](ch07_zh.md#src-p219) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0128 -->
+- 按钮（buttons） <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0129 -->
+    - 矩阵连接（matrixing），[原书 211](ch08_zh.md#src-p231), [原书 214](ch08_zh.md#src-p234) <!-- source: pdf=410; section=索引; unit=p0410_b014_u00; entry=idx0130 -->
+        - 行列矩阵与 Charlieplexing（row/column matrix and Charlieplexing），[原书 213](ch08_zh.md#src-p233) <!-- source: pdf=410; section=索引; unit=p0410_b015_u00,p0410_b016_u00; entry=idx0131 -->
+    - 瞬时按钮按下（momentary button press），[原书 103](ch04_zh.md#src-p123)-[原书 108](ch04_zh.md#src-p128) <!-- source: pdf=410; section=索引; unit=p0410_b016_u00; entry=idx0132 -->
+        - 开关去抖（debouncing switches），[原书 105](ch04_zh.md#src-p125)-[原书 108](ch04_zh.md#src-p128) <!-- source: pdf=410; section=索引; unit=p0410_b017_u00; entry=idx0133 -->
+        - 按钮按下时触发中断（interrupt on a button press），[原书 104](ch04_zh.md#src-p124) <!-- source: pdf=410; section=索引; unit=p0410_b017_u00; entry=idx0134 -->
+- 字节/秒：数据吞吐量（bytes/second, data throughput），[原书 237](ch08_zh.md#src-p257) <!-- source: pdf=410; section=索引; unit=p0410_b017_u00; entry=idx0135 -->
+
+<!-- source: pdf=410; section=索引; unit=p0410_b018_u00; entry=idx0136 -->
+## C
+
+- C/C++，[原书 2](ch01_zh.md#src-p22) <!-- source: pdf=410; section=索引; unit=p0410_b018_u01; entry=idx0137 -->
+    - Embedded Artistry 的 C 标准库（LibC）（C standard library (LibC) from Embedded Artistry），[原书 291](ch11_zh.md#src-p311) <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0138 -->
+    - 在 C 中进行面向对象编程（object-oriented programming in C），[原书 31](ch02_zh.md#src-p51) <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0139 -->
+    - C 中的 register 关键字（register keyword in C），[原书 298](ch11_zh.md#src-p318) <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0140 -->
+    - static 关键字（static keyword），[原书 33](ch02_zh.md#src-p53), [原书 287](ch11_zh.md#src-p307) <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0141 -->
+    - volatile 关键字（volatile keyword），[原书 104](ch04_zh.md#src-p124), [原书 221](ch08_zh.md#src-p241) <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0142 -->
+- 字符（characters） <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0143 -->
+    - ASCII，[原书 194](ch07_zh.md#src-p214) <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0144 -->
+    - 使用 Unicode 进行本地化（localization with Unicode），[原书 195](ch07_zh.md#src-p215) <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0145 -->
+    - 像素显示器中的字符（in pixel displays），[原书 215](ch08_zh.md#src-p235) <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0146 -->
+    - 存储和检索像素显示器的字符字形（storing and retrieving character glyphs for pixel displays），[原书 218](ch08_zh.md#src-p238) <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0147 -->
+- Charlieplexing（查理复用）（Charlieplexing），[原书 211](ch08_zh.md#src-p231) <!-- source: pdf=410; section=索引; unit=p0410_b019_u00; entry=idx0148 -->
+- 校验和（checksums），[原书 269](ch10_zh.md#src-p289) <!-- source: pdf=411; section=索引; unit=p0411_b000_u00; entry=idx0149 -->
+- 鸡按按钮（chicken presses a button），[原书 125](ch05_zh.md#src-p145)-[原书 127](ch05_zh.md#src-p147) <!-- source: pdf=411; section=索引; unit=p0411_b000_u00; entry=idx0150 -->
+- 块分配器（chunk allocators），[原书 296](ch11_zh.md#src-p316) <!-- source: pdf=411; section=索引; unit=p0411_b000_u00; entry=idx0151 -->
+- 循环缓冲区（circular buffers），[原书 203](ch07_zh.md#src-p223)-[原书 209](ch07_zh.md#src-p229), [原书 296](ch11_zh.md#src-p316) <!-- source: pdf=411; section=索引; unit=p0411_b000_u00; entry=idx0152 -->
+    - 确定可用数据的长度（determining length of data available to），[原书 204](ch07_zh.md#src-p224) <!-- source: pdf=411; section=索引; unit=p0411_b001_u00; entry=idx0153 -->
+    - 相关延伸阅读（further reading on），[原书 209](ch07_zh.md#src-p229) <!-- source: pdf=411; section=索引; unit=p0411_b001_u00; entry=idx0154 -->
+    - 带多个指针（with multiple pointers），[原书 208](ch07_zh.md#src-p228) <!-- source: pdf=411; section=索引; unit=p0411_b001_u00; entry=idx0155 -->
+- 清除寄存器中的某位（clearing a bit in a register），[原书 94](ch04_zh.md#src-p114) <!-- source: pdf=411; section=索引; unit=p0411_b001_u00; entry=idx0156 -->
+- 时钟（clocks），[原书 111](ch04_zh.md#src-p131) <!-- source: pdf=411; section=索引; unit=p0411_b001_u00; entry=idx0157 -->
+    - 时钟配置寄存器（clock configure register），[原书 113](ch04_zh.md#src-p133) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0158 -->
+    - 时钟输入（clock input） <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0159 -->
+        - 确定定时器的时钟输入（determining for timers），[原书 111](ch04_zh.md#src-p131) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0160 -->
+        - 与中断频率、预分频器及比较寄存器的关系（relationship between interrupt frequency, prescaler, compare registers and），[原书 114](ch04_zh.md#src-p134) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0161 -->
+    - 降低时钟频率以节省功耗（lowering clock frequency to save power），[原书 363](ch13_zh.md#src-p383) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0162 -->
+    - 多个时钟源（multiple clock sources），[原书 363](ch13_zh.md#src-p383) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0163 -->
+    - 时钟产生的噪声（noise from），[原书 230](ch08_zh.md#src-p250) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0164 -->
+    - 用于时间戳的实时时钟（RTC）（real-time clock (RTC) for timestamps），[原书 226](ch08_zh.md#src-p246) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0165 -->
+    - SPI 通信中的 SCK、CLK 或 SCLK（SCK, CLK, or SCLK in SPI communications），[原书 188](ch07_zh.md#src-p208) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0166 -->
+    - I²C 中的 SCL（串行时钟线）（SCL (serial clock line) in I²C），[原书 190](ch07_zh.md#src-p210) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0167 -->
+    - 通信中的同步与异步路径（synchronous and asynchronous pathways in communication），[原书 182](ch07_zh.md#src-p202) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0168 -->
+- 闭环控制（closed-loop control），[原书 379](ch14_zh.md#src-p399) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0169 -->
+- 云端（cloud） <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0170 -->
+    - 设备直接连接云端（connecting device directly to），[原书 264](ch10_zh.md#src-p284) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0171 -->
+    - 经网关联网时传往云端的数据（data going to, in gateway networking），[原书 266](ch10_zh.md#src-p286) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0172 -->
+    - 为大型系统提供仪表板或数据访问方式（providing dashboard or means to access data for large systems），[原书 281](ch10_zh.md#src-p301) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0173 -->
+- 代码（code） <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0174 -->
+    - 更新（见“更新代码”）（updating (see updating code)） <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0175 -->
+    - 版本管理（versioning），[原书 29](ch02_zh.md#src-p49) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0176 -->
+- 代码空间（code space），[原书 286](ch11_zh.md#src-p306)-[原书 294](ch11_zh.md#src-p314) <!-- source: pdf=411; section=索引; unit=p0411_b002_u00; entry=idx0177 -->
+    - 阅读映射文件（reading a map file），[原书 286](ch11_zh.md#src-p306)-[原书 289](ch11_zh.md#src-p309) <!-- source: pdf=411; section=索引; unit=p0411_b003_u00; entry=idx0178 -->
+        - 其中的 RAM 细节（RAM details in），[原书 289](ch11_zh.md#src-p309) <!-- source: pdf=411; section=索引; unit=p0411_b004_u00; entry=idx0179 -->
+        - 只读数据（read-only data），[原书 288](ch11_zh.md#src-p308) <!-- source: pdf=411; section=索引; unit=p0411_b004_u00; entry=idx0180 -->
+    - 减少代码空间（reducing），[原书 290](ch11_zh.md#src-p310)-[原书 294](ch11_zh.md#src-p314) <!-- source: pdf=411; section=索引; unit=p0411_b004_u00; entry=idx0181 -->
+        - 常量与字符串（constants and strings），[原书 294](ch11_zh.md#src-p314) <!-- source: pdf=411; section=索引; unit=p0411_b005_u00; entry=idx0182 -->
+        - 常量与宏：哪种更小（constants versus macros, which are smaller），[原书 292](ch11_zh.md#src-p312) <!-- source: pdf=411; section=索引; unit=p0411_b005_u00; entry=idx0183 -->
+        - 库（libraries），[原书 291](ch11_zh.md#src-p311) <!-- source: pdf=411; section=索引; unit=p0411_b005_u00; entry=idx0184 -->
+        - 使用编译器优化（using compiler optimizations），[原书 290](ch11_zh.md#src-p310) <!-- source: pdf=411; section=索引; unit=p0411_b005_u00; entry=idx0185 -->
+- 代码读取保护（code-read protection），[原书 275](ch10_zh.md#src-p295) <!-- source: pdf=411; section=索引; unit=p0411_b005_u00; entry=idx0186 -->
+- 命令模式（command pattern），[原书 79](ch03_zh.md#src-p99) <!-- source: pdf=411; section=索引; unit=p0411_b005_u00; entry=idx0187 -->
+    - 命令与响应（command and response），[原书 76](ch03_zh.md#src-p96)-[原书 79](ch03_zh.md#src-p99) <!-- source: pdf=411; section=索引; unit=p0411_b006_u00; entry=idx0188 -->
+        - 创建命令（creating a command），[原书 76](ch03_zh.md#src-p96) <!-- source: pdf=411; section=索引; unit=p0411_b007_u00; entry=idx0189 -->
+        - 调用命令（invoking a command），[原书 79](ch03_zh.md#src-p99) <!-- source: pdf=411; section=索引; unit=p0411_b007_u00; entry=idx0190 -->
+- 通信（communication） <!-- source: pdf=411; section=索引; unit=p0411_b007_u00; entry=idx0191 -->
+    - 联网设备（connected devices），[原书 268](ch10_zh.md#src-p288)-[原书 272](ch10_zh.md#src-p292) <!-- source: pdf=411; section=索引; unit=p0411_b007_u00; entry=idx0192 -->
+    - 与数字传感器通信（with digital sensors），[原书 230](ch08_zh.md#src-p250) <!-- source: pdf=411; section=索引; unit=p0411_b008_u00; entry=idx0193 -->
+    - 通信分层模型（OSI）（layered model of (OSI)），[原书 186](ch07_zh.md#src-p206) <!-- source: pdf=411; section=索引; unit=p0411_b008_u00; entry=idx0194 -->
+    - 通信实践（in practice），[原书 195](ch07_zh.md#src-p215)-[原书 203](ch07_zh.md#src-p223) <!-- source: pdf=411; section=索引; unit=p0411_b008_u00; entry=idx0195 -->
+        - 直接存储器访问（DMA）（direct memory access (DMA)），[原书 199](ch07_zh.md#src-p219) <!-- source: pdf=411; section=索引; unit=p0411_b009_u00; entry=idx0196 -->
+        - 外部 ADC 示例：数据就绪信号与 SPI（external ADC example, data ready with SPI），[原书 196](ch07_zh.md#src-p216)-[原书 197](ch07_zh.md#src-p217) <!-- source: pdf=411; section=索引; unit=p0411_b009_u00; entry=idx0197 -->
+        - 外部 ADC 示例：SPI 与 DMA（external ADC example, SPI and DMA），[原书 200](ch07_zh.md#src-p220)-[原书 203](ch07_zh.md#src-p223) <!-- source: pdf=411; section=索引; unit=p0411_b009_u00,p0411_b010_u00; entry=idx0198 -->
+- Compiler Explorer（又名 Godbolt）（Compiler Explorer (or Godbolt)），[原书 320](ch11_zh.md#src-p340) <!-- source: pdf=411; section=索引; unit=p0411_b010_u00; entry=idx0199 -->
+- 编译器（compilers），[原书 2](ch01_zh.md#src-p22) <!-- source: pdf=411; section=索引; unit=p0411_b010_u00; entry=idx0200 -->
+    - 编译器警告（compiler warnings） <!-- source: pdf=411; section=索引; unit=p0411_b011_u00; entry=idx0201 -->
+        - 忽略警告的后果（consequences of ignoring），[原书 261](ch09_zh.md#src-p281) <!-- source: pdf=411; section=索引; unit=p0411_b011_u00; entry=idx0202 -->
+    - 向编译器提示更快的选择（giving hints to about faster choices），[原书 313](ch11_zh.md#src-p333) <!-- source: pdf=411; section=索引; unit=p0411_b011_u00; entry=idx0203 -->
+    - 启动时将函数加载到 RAM（loading function into RAM at boot），[原书 309](ch11_zh.md#src-p329) <!-- source: pdf=411; section=索引; unit=p0411_b011_u00; entry=idx0204 -->
+    - 优化（optimizations），[原书 290](ch11_zh.md#src-p310) <!-- source: pdf=411; section=索引; unit=p0411_b011_u00; entry=idx0205 -->
+        - 从汇编代码中了解优化（learning about in assembly code），[原书 300](ch11_zh.md#src-p320) <!-- source: pdf=411; section=索引; unit=p0411_b012_u00; entry=idx0206 -->
+    - 编译器优化的问题（problems with compiler optimizations），[原书 244](ch09_zh.md#src-p264)-[原书 246](ch09_zh.md#src-p266) <!-- source: pdf=411; section=索引; unit=p0411_b012_u00,p0411_b013_u00; entry=idx0207 -->
+    - 栈破坏保护选项（stack-smashing protection options），[原书 254](ch09_zh.md#src-p274) <!-- source: pdf=411; section=索引; unit=p0411_b013_u00; entry=idx0208 -->
+- 复杂度（complexity） <!-- source: pdf=411; section=索引; unit=p0411_b013_u00; entry=idx0209 -->
+    - 代码更新中的复杂度（in code updates），[原书 272](ch10_zh.md#src-p292) <!-- source: pdf=411; section=索引; unit=p0411_b013_u00; entry=idx0210 -->
+    - 带定时器中断的主循环中的复杂度（in main loop with timer interrupt），[原书 168](ch06_zh.md#src-p188) <!-- source: pdf=411; section=索引; unit=p0411_b013_u00; entry=idx0211 -->
+    - 分层图中的复杂度与对象大小（and object size in layering diagrams），[原书 20](ch02_zh.md#src-p40) <!-- source: pdf=411; section=索引; unit=p0411_b013_u00; entry=idx0212 -->
+- 组合（composition），[原书 12](ch02_zh.md#src-p32), [原书 233](ch08_zh.md#src-p253) <!-- source: pdf=411; section=索引; unit=p0411_b013_u00; entry=idx0213 -->
+- 构建联网设备（connected devices, building），[原书 263](ch10_zh.md#src-p283)-[原书 283](ch10_zh.md#src-p303) <!-- source: pdf=411; section=索引; unit=p0411_b013_u00; entry=idx0214 -->
+    - 远程连接（connecting remotely），[原书 263](ch10_zh.md#src-p283)-[原书 268](ch10_zh.md#src-p288) <!-- source: pdf=411; section=索引; unit=p0411_b014_u00; entry=idx0215 -->
+        - 连接云端（to the cloud），[原书 264](ch10_zh.md#src-p284) <!-- source: pdf=411; section=索引; unit=p0411_b015_u00; entry=idx0216 -->
+        - 直接连接：以太网与 WiFi（direct connections, Ethernet and WiFi），[原书 265](ch10_zh.md#src-p285) <!-- source: pdf=411; section=索引; unit=p0411_b015_u00,p0411_b016_u00; entry=idx0217 -->
+        - 通过网关连接（through a gateway），[原书 266](ch10_zh.md#src-p286) <!-- source: pdf=411; section=索引; unit=p0411_b016_u00; entry=idx0218 -->
+        - 通过网状网络连接（via a mesh），[原书 266](ch10_zh.md#src-p286) <!-- source: pdf=411; section=索引; unit=p0411_b016_u00; entry=idx0219 -->
+    - 管理大型系统（managing large systems），[原书 280](ch10_zh.md#src-p300) <!-- source: pdf=411; section=索引; unit=p0411_b016_u00; entry=idx0220 -->
+    - 稳健的通信（robust communication），[原书 268](ch10_zh.md#src-p288)-[原书 272](ch10_zh.md#src-p292) <!-- source: pdf=411; section=索引; unit=p0411_b016_u00; entry=idx0221 -->
+        - 校验和、CRC 与哈希（checksums, CRCs, and hashes），[原书 269](ch10_zh.md#src-p289) <!-- source: pdf=411; section=索引; unit=p0411_b017_u00; entry=idx0222 -->
+        - 加密与身份认证（encryption and authentication），[原书 270](ch10_zh.md#src-p290) <!-- source: pdf=411; section=索引; unit=p0411_b017_u00; entry=idx0223 -->
+        - 协议版本（protocol versions），[原书 269](ch10_zh.md#src-p289) <!-- source: pdf=411; section=索引; unit=p0411_b017_u00; entry=idx0224 -->
+        - 风险分析（risk analysis），[原书 271](ch10_zh.md#src-p291) <!-- source: pdf=411; section=索引; unit=p0411_b017_u00; entry=idx0225 -->
+    - 更新代码（updating code），[原书 272](ch10_zh.md#src-p292)-[原书 280](ch10_zh.md#src-p300) <!-- source: pdf=411; section=索引; unit=p0411_b017_u00; entry=idx0226 -->
+        - 引导加载程序方案（bootloader solution），[原书 273](ch10_zh.md#src-p293) <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0227 -->
+        - 备用救生艇（fallback lifeboat），[原书 278](ch10_zh.md#src-p298) <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0228 -->
+        - 固件更新安全性（firmware update security），[原书 275](ch10_zh.md#src-p295) <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0229 -->
+        - 多份代码（multiple pieces of code），[原书 277](ch10_zh.md#src-p297) <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0230 -->
+        - 分阶段发布（staged rollout），[原书 279](ch10_zh.md#src-p299) <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0231 -->
+- const 关键字（const keyword），[原书 289](ch11_zh.md#src-p309), [原书 325](ch12_zh.md#src-p345) <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0232 -->
+- 上下文图（context diagrams），[原书 13](ch02_zh.md#src-p33), [原书 38](ch02_zh.md#src-p58) <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0233 -->
+- 合同制造商（CM）（contract manufacturers (CMs)），[原书 282](ch10_zh.md#src-p302) <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0234 -->
+- 控制理论（control theory），[原书 387](ch14_zh.md#src-p407) <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0235 -->
+- 控制器（电机）（见“电机与运动”）（controllers (motor) (see motors and movement)） <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0236 -->
+- 转换到频域（conversion to the frequency domain），[原书 228](ch08_zh.md#src-p248) <!-- source: pdf=411; section=索引; unit=p0411_b018_u00; entry=idx0237 -->
+- 核心转储（core dumps） <!-- source: pdf=412; section=索引; unit=p0412_b000_u00; entry=idx0238 -->
+    - 创建（creating），[原书 256](ch09_zh.md#src-p276)-[原书 259](ch09_zh.md#src-p279) <!-- source: pdf=412; section=索引; unit=p0412_b000_u00; entry=idx0239 -->
+    - 使用（using），[原书 259](ch09_zh.md#src-p279) <!-- source: pdf=412; section=索引; unit=p0412_b000_u00; entry=idx0240 -->
+- 处理器中的计数器／定时器（counters/timers in processors），[原书 376](ch14_zh.md#src-p396) <!-- source: pdf=412; section=索引; unit=p0412_b000_u00; entry=idx0241 -->
+- CRC（循环冗余校验）（CRCs (cyclic redundancy checks)），[原书 269](ch10_zh.md#src-p289) <!-- source: pdf=412; section=索引; unit=p0412_b000_u00; entry=idx0242 -->
+- 代码的临界区（critical sections of code），[原书 138](ch05_zh.md#src-p158), [原书 154](ch06_zh.md#src-p174) <!-- source: pdf=412; section=索引; unit=p0412_b000_u00; entry=idx0243 -->
+    - 中断的全局启用／禁用函数（global enable/disable functions for interrupts），[原书 139](ch05_zh.md#src-p159) <!-- source: pdf=412; section=索引; unit=p0412_b001_u00; entry=idx0244 -->
+    - 避免嵌套以缩短临界区（keeping short by not nesting），[原书 138](ch05_zh.md#src-p158) <!-- source: pdf=412; section=索引; unit=p0412_b001_u00; entry=idx0245 -->
+    - 其中的不可屏蔽中断（nonmaskable interrupts in），[原书 128](ch05_zh.md#src-p148) <!-- source: pdf=412; section=索引; unit=p0412_b001_u00; entry=idx0246 -->
+- 密码学（cryptography），[原书 270](ch10_zh.md#src-p290) <!-- source: pdf=412; section=索引; unit=p0412_b001_u00; entry=idx0247 -->
+    - 另见“加密”（(see also encryption)） <!-- source: pdf=412; section=索引; unit=p0412_b002_u00; entry=idx0248 -->
+    - 密码学进展与嵌入式设备安全性（advances in, and security on embedded devices），[原书 276](ch10_zh.md#src-p296) <!-- source: pdf=412; section=索引; unit=p0412_b002_u00; entry=idx0249 -->
+- CS（芯片选择）或 SS（传感器选择）线（CS (Chip Select) or SS (Sensor Select) lines），[原书 188](ch07_zh.md#src-p208) <!-- source: pdf=412; section=索引; unit=p0412_b002_u00; entry=idx0250 -->
+- 累积平均（cumulative average），[原书 327](ch12_zh.md#src-p347) <!-- source: pdf=412; section=索引; unit=p0412_b002_u00; entry=idx0251 -->
+- 电流（current） <!-- source: pdf=412; section=索引; unit=p0412_b002_u00; entry=idx0252 -->
+    - 变化的电流与数量级问题（changing current and orders of magnitude problem），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=412; section=索引; unit=p0412_b002_u00; entry=idx0253 -->
+    - 处理器睡眠时的电流消耗（consumption while processor sleeps），[原书 367](ch13_zh.md#src-p387) <!-- source: pdf=412; section=索引; unit=p0412_b002_u00; entry=idx0254 -->
+    - 功率计算公式中的电流（in equations measuring power），[原书 356](ch13_zh.md#src-p376) <!-- source: pdf=412; section=索引; unit=p0412_b002_u00; entry=idx0255 -->
+    - 确定直流电机所需的电流（finding requirement for DC motor），[原书 377](ch14_zh.md#src-p397) <!-- source: pdf=412; section=索引; unit=p0412_b002_u00; entry=idx0256 -->
+    - 测量方法（methods of measuring），[原书 358](ch13_zh.md#src-p378) <!-- source: pdf=412; section=索引; unit=p0412_b002_u00; entry=idx0257 -->
+        - 使用电源测量（measuring with a power supply），[原书 357](ch13_zh.md#src-p377) <!-- source: pdf=412; section=索引; unit=p0412_b003_u00; entry=idx0258 -->
+        - 使用串联电阻与负担电压（using resistor in series and burden voltage），[原书 358](ch13_zh.md#src-p378) <!-- source: pdf=412; section=索引; unit=p0412_b003_u00; entry=idx0259 -->
+    - 电机消耗过大的电流（motors drawing excessive current），[原书 385](ch14_zh.md#src-p405) <!-- source: pdf=412; section=索引; unit=p0412_b003_u00; entry=idx0260 -->
+    - 降低电流（reducing），[原书 357](ch13_zh.md#src-p377) <!-- source: pdf=412; section=索引; unit=p0412_b003_u00; entry=idx0261 -->
+    - 电流与有刷直流电机的转矩（and torque of brushed DC motors），[原书 374](ch14_zh.md#src-p394), [原书 377](ch14_zh.md#src-p397) <!-- source: pdf=412; section=索引; unit=p0412_b003_u00; entry=idx0262 -->
+- 循环冗余校验（CRC）（cyclic redundancy checks (CRCs)），[原书 269](ch10_zh.md#src-p289) <!-- source: pdf=412; section=索引; unit=p0412_b003_u00; entry=idx0263 -->
+
+<!-- source: pdf=412; section=索引; unit=p0412_b004_u00; entry=idx0264 -->
+## D
+
+- DAC（数模转换器）（DACs (digital-to-analog converters)），[原书 37](ch02_zh.md#src-p57) <!-- source: pdf=412; section=索引; unit=p0412_b004_u01; entry=idx0265 -->
+    - 采样频率（sample frequency），[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=412; section=索引; unit=p0412_b005_u00; entry=idx0266 -->
+- 数据处理（data handling），[原书 231](ch08_zh.md#src-p251)-[原书 236](ch08_zh.md#src-p256) <!-- source: pdf=412; section=索引; unit=p0412_b005_u00; entry=idx0267 -->
+    - 算法阶段、管道与过滤器（algorithm stages, pipelines and filters），[原书 233](ch08_zh.md#src-p253) <!-- source: pdf=412; section=索引; unit=p0412_b006_u00; entry=idx0268 -->
+    - 改变算法：策略模式（changing algorithms, strategy pattern），[原书 232](ch08_zh.md#src-p252) <!-- source: pdf=412; section=索引; unit=p0412_b006_u00; entry=idx0269 -->
+- .data 段（映射文件）（.data section (map files)），[原书 296](ch11_zh.md#src-p316) <!-- source: pdf=412; section=索引; unit=p0412_b006_u00; entry=idx0270 -->
+- 数据段（链接器脚本）（data segment (linker script)），[原书 257](ch09_zh.md#src-p277) <!-- source: pdf=412; section=索引; unit=p0412_b006_u00; entry=idx0271 -->
+- 在 SPI 闪存中存储数据（data storage on SPI flash），[原书 225](ch08_zh.md#src-p245) <!-- source: pdf=412; section=索引; unit=p0412_b006_u00; entry=idx0272 -->
+- 数据表：用来定义状态机（data table, defining state machine as），[原书 162](ch06_zh.md#src-p182) <!-- source: pdf=412; section=索引; unit=p0412_b006_u00; entry=idx0273 -->
+- 数据驱动系统（data-driven systems），[原书 231](ch08_zh.md#src-p251) <!-- source: pdf=412; section=索引; unit=p0412_b006_u00; entry=idx0274 -->
+    - 其中的循环缓冲区（circular buffers in），[原书 203](ch07_zh.md#src-p223) <!-- source: pdf=412; section=索引; unit=p0412_b007_u00; entry=idx0275 -->
+- 数据手册（datasheets），[原书 46](ch03_zh.md#src-p66)-[原书 56](ch03_zh.md#src-p76) <!-- source: pdf=412; section=索引; unit=p0412_b007_u00; entry=idx0276 -->
+    - ATMEGA328 数据手册（ATMEGA328 datasheet），[原书 64](ch03_zh.md#src-p84) <!-- source: pdf=412; section=索引; unit=p0412_b008_u00; entry=idx0277 -->
+    - 电池的数据手册（for batteries），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=412; section=索引; unit=p0412_b008_u00; entry=idx0278 -->
+    - 仔细阅读描述部分（description section, reading thoroughly），[原书 47](ch03_zh.md#src-p67) <!-- source: pdf=412; section=索引; unit=p0412_b008_u00; entry=idx0279 -->
+    - 使用数据手册评估元件（evaluating components with），[原书 53](ch03_zh.md#src-p73)-[原书 56](ch03_zh.md#src-p76) <!-- source: pdf=412; section=索引; unit=p0412_b008_u00; entry=idx0280 -->
+    - 开头的概览或功能列表（overview or feature list at top of），[原书 47](ch03_zh.md#src-p67) <!-- source: pdf=412; section=索引; unit=p0412_b008_u00; entry=idx0281 -->
+    - 处理器的数据手册（processor），[原书 58](ch03_zh.md#src-p78) <!-- source: pdf=412; section=索引; unit=p0412_b008_u00; entry=idx0282 -->
+    - 软件开发人员需要阅读的部分（sections for software developers），[原书 50](ch03_zh.md#src-p70)-[原书 53](ch03_zh.md#src-p73) <!-- source: pdf=412; section=索引; unit=p0412_b009_u00; entry=idx0283 -->
+    - 出问题时需要阅读的部分（sections you need when things go wrong），[原书 48](ch03_zh.md#src-p68)-[原书 49](ch03_zh.md#src-p69) <!-- source: pdf=412; section=索引; unit=p0412_b009_u00,p0412_b010_u00; entry=idx0284 -->
+- 直流电机（DC motors） <!-- source: pdf=412; section=索引; unit=p0412_b010_u00; entry=idx0285 -->
+    - 有刷直流电机（brushed DC motor），[原书 374](ch14_zh.md#src-p394) <!-- source: pdf=412; section=索引; unit=p0412_b010_u00; entry=idx0286 -->
+    - 无刷电机（brushless），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=412; section=索引; unit=p0412_b010_u00; entry=idx0287 -->
+    - 使用 PWM 驱动简单的直流电机（driving simple DC motor with PWM），[原书 376](ch14_zh.md#src-p396)-[原书 379](ch14_zh.md#src-p399) <!-- source: pdf=412; section=索引; unit=p0412_b010_u00,p0412_b011_u00; entry=idx0288 -->
+    - 伺服电机（servo），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=412; section=索引; unit=p0412_b011_u00; entry=idx0289 -->
+- 开关去抖（debouncing switches），[原书 105](ch04_zh.md#src-p125)-[原书 108](ch04_zh.md#src-p128) <!-- source: pdf=412; section=索引; unit=p0412_b011_u00; entry=idx0290 -->
+- 调试（debugging），[原书 3](ch01_zh.md#src-p23), [原书 243](ch09_zh.md#src-p263)-[原书 262](ch09_zh.md#src-p282) <!-- source: pdf=412; section=索引; unit=p0412_b011_u00; entry=idx0291 -->
+    - 调试检查清单（checklist for），[原书 243](ch09_zh.md#src-p263) <!-- source: pdf=412; section=索引; unit=p0412_b012_u00; entry=idx0292 -->
+    - 制造混乱和硬故障（creating chaos and hard faults），[原书 248](ch09_zh.md#src-p268)-[原书 254](ch09_zh.md#src-p274) <!-- source: pdf=412; section=索引; unit=p0412_b012_u00; entry=idx0293 -->
+        - 除以零（dividing by zero），[原书 248](ch09_zh.md#src-p268) <!-- source: pdf=412; section=索引; unit=p0412_b013_u00; entry=idx0294 -->
+        - 错误的（未对齐）内存访问（incorrect (unaligned) memory access），[原书 251](ch09_zh.md#src-p271) <!-- source: pdf=412; section=索引; unit=p0412_b013_u00,p0412_b014_u00; entry=idx0295 -->
+        - 返回指向栈内存的指针（returning pointer to stack memory），[原书 252](ch09_zh.md#src-p272) <!-- source: pdf=412; section=索引; unit=p0412_b014_u00; entry=idx0296 -->
+        - 执行未定义指令（running undefined instructions），[原书 250](ch09_zh.md#src-p270) <!-- source: pdf=412; section=索引; unit=p0412_b014_u00; entry=idx0297 -->
+        - 栈溢出与缓冲区溢出（stack overflows and buffer overflows），[原书 253](ch09_zh.md#src-p273) <!-- source: pdf=412; section=索引; unit=p0412_b014_u00,p0412_b015_u00; entry=idx0298 -->
+        - 访问 NULL 或未初始化的指针（talking to NULL or uninitialized pointers），[原书 249](ch09_zh.md#src-p269) <!-- source: pdf=412; section=索引; unit=p0412_b015_u00; entry=idx0299 -->
+    - 映射文件中的调试信息（debug information in map files），[原书 289](ch11_zh.md#src-p309) <!-- source: pdf=412; section=索引; unit=p0412_b015_u00; entry=idx0300 -->
+    - 调试硬故障（of hard faults），[原书 254](ch09_zh.md#src-p274)-[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=412; section=索引; unit=p0412_b015_u00; entry=idx0301 -->
+        - 创建核心转储（creating core dumps），[原书 256](ch09_zh.md#src-p276)-[原书 259](ch09_zh.md#src-p279) <!-- source: pdf=412; section=索引; unit=p0412_b016_u00; entry=idx0302 -->
+        - 揭示错误原因的处理器寄存器（processor registers showing what went wrong），[原书 255](ch09_zh.md#src-p275) <!-- source: pdf=412; section=索引; unit=p0412_b016_u00; entry=idx0303 -->
+        - 使用核心转储（using the core dump），[原书 259](ch09_zh.md#src-p279) <!-- source: pdf=412; section=索引; unit=p0412_b016_u00; entry=idx0304 -->
+    - 看似不可能的 bug（impossible bugs），[原书 246](ch09_zh.md#src-p266)-[原书 248](ch09_zh.md#src-p268) <!-- source: pdf=412; section=索引; unit=p0412_b016_u00; entry=idx0305 -->
+        - 解释 bug（explaining the bug），[原书 247](ch09_zh.md#src-p267) <!-- source: pdf=412; section=索引; unit=p0412_b017_u00; entry=idx0306 -->
+        - 复现 bug（reproducing the bug），[原书 246](ch09_zh.md#src-p266) <!-- source: pdf=412; section=索引; unit=p0412_b017_u00; entry=idx0307 -->
+    - 大型系统中的调试（in large systems），[原书 280](ch10_zh.md#src-p300) <!-- source: pdf=412; section=索引; unit=p0412_b017_u00; entry=idx0308 -->
+    - 使系统易于调试（making a system debuggable），[原书 27](ch02_zh.md#src-p47) <!-- source: pdf=412; section=索引; unit=p0412_b017_u00; entry=idx0309 -->
+    - 调试内存 bug（of memory bugs），[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=412; section=索引; unit=p0412_b017_u00; entry=idx0310 -->
+    - 编译器优化的问题（problems with compiler optimizations），[原书 244](ch09_zh.md#src-p264)-[原书 246](ch09_zh.md#src-p266) <!-- source: pdf=412; section=索引; unit=p0412_b017_u00,p0412_b018_u00; entry=idx0311 -->
+    - 减少代码空间中的调试字符串（reducing debug strings in code space），[原书 294](ch11_zh.md#src-p314) <!-- source: pdf=412; section=索引; unit=p0412_b018_u00; entry=idx0312 -->
+    - 与处理器的调试串口通信（talking to processor's debug serial port），[原书 185](ch07_zh.md#src-p205) <!-- source: pdf=412; section=索引; unit=p0412_b018_u00; entry=idx0313 -->
+    - 调试定时错误（of timing errors），[原书 84](ch03_zh.md#src-p104) <!-- source: pdf=412; section=索引; unit=p0412_b018_u00; entry=idx0314 -->
+    - 未处理的中断进入无限循环（unhandled interrupts going into infinite loop），[原书 132](ch05_zh.md#src-p152) <!-- source: pdf=412; section=索引; unit=p0412_b018_u00; entry=idx0315 -->
+    - 利用编译器警告（using compiler warnings），[原书 261](ch09_zh.md#src-p281) <!-- source: pdf=412; section=索引; unit=p0412_b018_u00; entry=idx0316 -->
+- 建立硬件调试工具箱（debugging toolbox for hardware, creating），[原书 65](ch03_zh.md#src-p85)-[原书 70](ch03_zh.md#src-p90) <!-- source: pdf=412; section=索引; unit=p0412_b018_u00,p0412_b019_u00; entry=idx0317 -->
+    - 数字万用表（DMM）（digital multimeter (DMM)），[原书 66](ch03_zh.md#src-p86) <!-- source: pdf=412; section=索引; unit=p0412_b019_u00; entry=idx0318 -->
+    - 示波器与逻辑分析仪（oscilloscopes and logic analyzers），[原书 67](ch03_zh.md#src-p87) <!-- source: pdf=412; section=索引; unit=p0412_b019_u00; entry=idx0319 -->
+    - 设置示波器（setting up a scope），[原书 67](ch03_zh.md#src-p87)-[原书 70](ch03_zh.md#src-p90) <!-- source: pdf=412; section=索引; unit=p0412_b019_u00; entry=idx0320 -->
+- 分解（decomposition），[原书 12](ch02_zh.md#src-p32) <!-- source: pdf=412; section=索引; unit=p0412_b019_u00; entry=idx0321 -->
+- 任务委派（delegation of tasks），[原书 22](ch02_zh.md#src-p42) <!-- source: pdf=412; section=索引; unit=p0412_b019_u00; entry=idx0322 -->
+- 依赖关系（dependencies） <!-- source: pdf=412; section=索引; unit=p0412_b019_u00; entry=idx0323 -->
+    - 系统架构中的隐藏依赖（hidden, in system architecture），[原书 11](ch02_zh.md#src-p31) <!-- source: pdf=413; section=索引; unit=p0413_b000_u00; entry=idx0324 -->
+    - 在系统图中识别依赖（identifying in system diagrams），[原书 13](ch02_zh.md#src-p33) <!-- source: pdf=413; section=索引; unit=p0413_b000_u00; entry=idx0325 -->
+        - 组织结构图（organigram），[原书 17](ch02_zh.md#src-p37) <!-- source: pdf=413; section=索引; unit=p0413_b001_u00; entry=idx0326 -->
+    - 存在依赖关系的模块（modules having），[原书 22](ch02_zh.md#src-p42) <!-- source: pdf=413; section=索引; unit=p0413_b001_u00; entry=idx0327 -->
+    - 状态之间的依赖（between states），[原书 164](ch06_zh.md#src-p184) <!-- source: pdf=413; section=索引; unit=p0413_b001_u00; entry=idx0328 -->
+- 依赖注入（dependency injection），[原书 109](ch04_zh.md#src-p129), [原书 122](ch04_zh.md#src-p142) <!-- source: pdf=413; section=索引; unit=p0413_b001_u00; entry=idx0329 -->
+    - 应对运行时不确定性的架构（architecture for runtime uncertainty），[原书 110](ch04_zh.md#src-p130) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0330 -->
+- 微分（PID 控制中）（derivative (in PID control)），[原书 380](ch14_zh.md#src-p400) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0331 -->
+- DES 加密算法（DES encryption algorithm），[原书 271](ch10_zh.md#src-p291) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0332 -->
+- 设计模式（design patterns） <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0333 -->
+    - Actor 模式（actor），[原书 177](ch06_zh.md#src-p197) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0334 -->
+    - 适配器模式（adapter），[原书 25](ch02_zh.md#src-p45) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0335 -->
+    - 命令模式（command），[原书 79](ch03_zh.md#src-p99) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0336 -->
+    - 外观模式（facade），[原书 99](ch04_zh.md#src-p119), [原书 110](ch04_zh.md#src-p130) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0337 -->
+    - 享元模式与工厂模式（flyweight and factory patterns），[原书 218](ch08_zh.md#src-p238) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0338 -->
+    - 更多相关资料（further information on），[原书 9](ch01_zh.md#src-p29) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0339 -->
+    - MVC（模型—视图—控制器）（MVC (model-view-controller)），[原书 34](ch02_zh.md#src-p54)-[原书 37](ch02_zh.md#src-p57) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0340 -->
+    - 管道模式（pipeline），[原书 233](ch08_zh.md#src-p253) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0341 -->
+    - 发布／订阅模式（publish/subscribe），[原书 147](ch05_zh.md#src-p167) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0342 -->
+    - 单例模式（singleton），[原书 32](ch02_zh.md#src-p52) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0343 -->
+    - 专用于内存受限系统的模式（specific to systems with memory constraints），[原书 320](ch11_zh.md#src-p340) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0344 -->
+    - 状态模式（state），[原书 156](ch06_zh.md#src-p176), [原书 160](ch06_zh.md#src-p180) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0345 -->
+    - 策略模式（strategy），[原书 232](ch08_zh.md#src-p252) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0346 -->
+    - 模板模式（template），[原书 232](ch08_zh.md#src-p252) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0347 -->
+- 为变化而设计（designing for change），[原书 21](ch02_zh.md#src-p41)-[原书 27](ch02_zh.md#src-p47) <!-- source: pdf=413; section=索引; unit=p0413_b002_u00; entry=idx0348 -->
+    - 适配器模式（adapter pattern），[原书 25](ch02_zh.md#src-p45) <!-- source: pdf=413; section=索引; unit=p0413_b003_u00; entry=idx0349 -->
+    - 任务委派（delegation of tasks），[原书 22](ch02_zh.md#src-p42) <!-- source: pdf=413; section=索引; unit=p0413_b003_u00; entry=idx0350 -->
+    - 驱动程序接口（driver interface），[原书 23](ch02_zh.md#src-p43) <!-- source: pdf=413; section=索引; unit=p0413_b003_u00; entry=idx0351 -->
+    - 封装模块（encapsulating modules），[原书 21](ch02_zh.md#src-p41) <!-- source: pdf=413; section=索引; unit=p0413_b003_u00; entry=idx0352 -->
+- 面向低功耗的设计（designing for lower power consumption），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=413; section=索引; unit=p0413_b003_u00; entry=idx0353 -->
+- 面向安全性、隐私与健壮性的设计（designing for security, privacy, and robustness），[原书 272](ch10_zh.md#src-p292) <!-- source: pdf=413; section=索引; unit=p0413_b003_u00,p0413_b004_u00; entry=idx0354 -->
+- 开发套件（development kits），[原书 43](ch03_zh.md#src-p63) <!-- source: pdf=413; section=索引; unit=p0413_b004_u00; entry=idx0355 -->
+    - 现成与定制开发板（development boards, off-the-shelf and custom），[原书 8](ch01_zh.md#src-p28) <!-- source: pdf=413; section=索引; unit=p0413_b005_u00; entry=idx0356 -->
+    - 使用新处理器时从开发套件起步（starting with when working with new processor），[原书 57](ch03_zh.md#src-p77) <!-- source: pdf=413; section=索引; unit=p0413_b005_u00; entry=idx0357 -->
+- 设备固件更新（DFU）（device firmware updates (DFU)），[原书 272](ch10_zh.md#src-p292) <!-- source: pdf=413; section=索引; unit=p0413_b005_u00; entry=idx0358 -->
+- 设备健康信息（device health information），[原书 281](ch10_zh.md#src-p301) <!-- source: pdf=413; section=索引; unit=p0413_b005_u00; entry=idx0359 -->
+- 设备端机器学习（device-based machine learning），[原书 353](ch12_zh.md#src-p373) <!-- source: pdf=413; section=索引; unit=p0413_b005_u00; entry=idx0360 -->
+- 设备，联网（见“构建联网设备”）（devices, connected (see connected devices, building)） <!-- source: pdf=413; section=索引; unit=p0413_b005_u00; entry=idx0361 -->
+- 软件系统架构图（diagrams of software system architecture），[原书 13](ch02_zh.md#src-p33)-[原书 21](ch02_zh.md#src-p41) <!-- source: pdf=413; section=索引; unit=p0413_b005_u00; entry=idx0362 -->
+    - 更新（updating），[原书 38](ch02_zh.md#src-p58) <!-- source: pdf=413; section=索引; unit=p0413_b006_u00; entry=idx0363 -->
+- 数字万用表（DMM）（digital multimeter (DMM)），[原书 66](ch03_zh.md#src-p86) <!-- source: pdf=413; section=索引; unit=p0413_b006_u00; entry=idx0364 -->
+    - 用来测量电流（measuring current with），[原书 357](ch13_zh.md#src-p377) <!-- source: pdf=413; section=索引; unit=p0413_b007_u00; entry=idx0365 -->
+    - 静态测量电流消耗（static measure of current consumption），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=413; section=索引; unit=p0413_b007_u00; entry=idx0366 -->
+    - 电压模式（voltage mode），[原书 358](ch13_zh.md#src-p378) <!-- source: pdf=413; section=索引; unit=p0413_b007_u00; entry=idx0367 -->
+- 数字电源（digital power supply），[原书 359](ch13_zh.md#src-p379) <!-- source: pdf=413; section=索引; unit=p0413_b007_u00; entry=idx0368 -->
+- 数字传感器（digital sensors），[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=413; section=索引; unit=p0413_b008_u00; entry=idx0369 -->
+- 数字信号处理（digital signal processing），[原书 228](ch08_zh.md#src-p248), [原书 240](ch08_zh.md#src-p260) <!-- source: pdf=413; section=索引; unit=p0413_b008_u00; entry=idx0370 -->
+- 数字信号处理器（DSP）（digital signal processors (DSPs)），[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=413; section=索引; unit=p0413_b008_u00; entry=idx0371 -->
+    - 其上的快速乘法（fast multiplication on），[原书 324](ch12_zh.md#src-p344) <!-- source: pdf=413; section=索引; unit=p0413_b009_u00; entry=idx0372 -->
+- 数字签名（digital signatures），[原书 275](ch10_zh.md#src-p295) <!-- source: pdf=413; section=索引; unit=p0413_b009_u00; entry=idx0373 -->
+    - 引导加载程序检查闪存代码的数字签名（bootloader checking for flash code），[原书 276](ch10_zh.md#src-p296) <!-- source: pdf=413; section=索引; unit=p0413_b010_u00; entry=idx0374 -->
+    - 充当数字签名的加密哈希（encrypted hash acting as），[原书 270](ch10_zh.md#src-p290) <!-- source: pdf=413; section=索引; unit=p0413_b010_u00; entry=idx0375 -->
+- 数模转换器（见“DAC”）（digital-to-analog converters (see DACs)） <!-- source: pdf=413; section=索引; unit=p0413_b010_u00; entry=idx0376 -->
+- 直接存储器访问（DMA）（direct memory access (DMA)），[原书 199](ch07_zh.md#src-p219), [原书 237](ch08_zh.md#src-p257) <!-- source: pdf=413; section=索引; unit=p0413_b010_u00; entry=idx0377 -->
+    - 与其他缓冲方法的比较（comparison with other buffering methods），[原书 202](ch07_zh.md#src-p222) <!-- source: pdf=413; section=索引; unit=p0413_b011_u00,p0413_b012_u00; entry=idx0378 -->
+    - 在外部 ADC 示例中与 SPI 配合使用（using with SPI in external ADC example），[原书 200](ch07_zh.md#src-p220)-[原书 203](ch07_zh.md#src-p223) <!-- source: pdf=413; section=索引; unit=p0413_b012_u00,p0413_b013_u00; entry=idx0379 -->
+- 显示器（displays），[原书 21](ch02_zh.md#src-p41) <!-- source: pdf=413; section=索引; unit=p0413_b013_u00; entry=idx0380 -->
+    - 显示资源（display assets），[原书 221](ch08_zh.md#src-p241) <!-- source: pdf=413; section=索引; unit=p0413_b014_u00; entry=idx0381 -->
+        - 存储在外部 SPI 闪存中（stored on external SPI flash），[原书 222](ch08_zh.md#src-p242) <!-- source: pdf=413; section=索引; unit=p0413_b015_u00; entry=idx0382 -->
+    - 像素显示器（pixel），[原书 215](ch08_zh.md#src-p235)-[原书 220](ch08_zh.md#src-p240) <!-- source: pdf=413; section=索引; unit=p0413_b015_u00; entry=idx0383 -->
+    - 段式显示器（segmented），[原书 213](ch08_zh.md#src-p233)-[原书 214](ch08_zh.md#src-p234) <!-- source: pdf=413; section=索引; unit=p0413_b015_u00; entry=idx0384 -->
+- 除法（division），[原书 324](ch12_zh.md#src-p344) <!-- source: pdf=413; section=索引; unit=p0413_b015_u00; entry=idx0385 -->
+    - 在方差计算中求均值（to calculate mean in variance calculation），[原书 332](ch12_zh.md#src-p352) <!-- source: pdf=413; section=索引; unit=p0413_b016_u00,p0413_b017_u00; entry=idx0386 -->
+    - 除以常量（dividing by a constant），[原书 335](ch12_zh.md#src-p355) <!-- source: pdf=413; section=索引; unit=p0413_b017_u00; entry=idx0387 -->
+    - 除以零（dividing by zero），[原书 248](ch09_zh.md#src-p268) <!-- source: pdf=413; section=索引; unit=p0413_b017_u00; entry=idx0388 -->
+    - 模拟浮点数的除法（of fake floating-point numbers），[原书 350](ch12_zh.md#src-p370) <!-- source: pdf=413; section=索引; unit=p0413_b017_u00; entry=idx0389 -->
+    - 整数除法（integer），[原书 328](ch12_zh.md#src-p348) <!-- source: pdf=413; section=索引; unit=p0413_b017_u00; entry=idx0390 -->
+    - 将线性插值中的除法转换为位移（in linear interpolation, converting to bit shift），[原书 342](ch12_zh.md#src-p362) <!-- source: pdf=413; section=索引; unit=p0413_b017_u00; entry=idx0391 -->
+    - 除数为 2 的幂（power-of-two divisor），[原书 335](ch12_zh.md#src-p355) <!-- source: pdf=413; section=索引; unit=p0413_b017_u00; entry=idx0392 -->
+    - 有符号长整数除法（signed long divides），[原书 288](ch11_zh.md#src-p308) <!-- source: pdf=413; section=索引; unit=p0413_b017_u00; entry=idx0393 -->
+- DMM（见“数字万用表”）（DMM (see digital multimeter)） <!-- source: pdf=413; section=索引; unit=p0413_b017_u00; entry=idx0394 -->
+- 通过记录代码文档减少 bug（documenting code to reduce bugs），[原书 7](ch01_zh.md#src-p27) <!-- source: pdf=413; section=索引; unit=p0413_b017_u00; entry=idx0395 -->
+- 用更少的资源做更多的事（doing more with less），[原书 285](ch11_zh.md#src-p305) <!-- source: pdf=413; section=索引; unit=p0413_b017_u00; entry=idx0396 -->
+    - 另见“优化”（(see also optimizations)） <!-- source: pdf=413; section=索引; unit=p0413_b018_u00; entry=idx0397 -->
+- 驱动芯片（电机）（driver chips (motor)） <!-- source: pdf=413; section=索引; unit=p0413_b018_u00; entry=idx0398 -->
+    - 发热（getting hot），[原书 385](ch14_zh.md#src-p405) <!-- source: pdf=413; section=索引; unit=p0413_b018_u00; entry=idx0399 -->
+    - H 桥与驱动芯片（H-bridge and），[原书 377](ch14_zh.md#src-p397) <!-- source: pdf=413; section=索引; unit=p0413_b018_u00; entry=idx0400 -->
+- 驱动程序（drivers），[原书 219](ch08_zh.md#src-p239) <!-- source: pdf=413; section=索引; unit=p0413_b018_u00; entry=idx0401 -->
+    - 软件模拟时序（bit-bang），[原书 189](ch07_zh.md#src-p209), [原书 193](ch07_zh.md#src-p213) <!-- source: pdf=413; section=索引; unit=p0413_b019_u00; entry=idx0402 -->
+    - 通信（communications），[原书 181](ch07_zh.md#src-p201) <!-- source: pdf=413; section=索引; unit=p0413_b019_u00; entry=idx0403 -->
+    - 实现适配器模式（implementing the adapter pattern），[原书 25](ch02_zh.md#src-p45) <!-- source: pdf=413; section=索引; unit=p0413_b019_u00; entry=idx0404 -->
+    - 标准接口（standard interface），[原书 23](ch02_zh.md#src-p43) <!-- source: pdf=413; section=索引; unit=p0413_b019_u00; entry=idx0405 -->
+- DSP（见“数字信号处理器”）（DSPs (see digital signal processors)） <!-- source: pdf=413; section=索引; unit=p0413_b019_u00; entry=idx0406 -->
+- 占空比（duty cycles），[原书 120](ch04_zh.md#src-p140), [原书 380](ch14_zh.md#src-p400) <!-- source: pdf=413; section=索引; unit=p0413_b019_u00; entry=idx0407 -->
+- 动态内存分配（dynamic memory allocation），[原书 302](ch11_zh.md#src-p322) <!-- source: pdf=413; section=索引; unit=p0413_b019_u00; entry=idx0408 -->
+    - 消除动态内存分配（eliminating），[原书 295](ch11_zh.md#src-p315) <!-- source: pdf=413; section=索引; unit=p0413_b020_u00; entry=idx0409 -->
+
+<!-- source: pdf=413; section=索引; unit=p0413_b021_u00; entry=idx0410 -->
+## E
+
+- EEPROM（EEPROMs），[原书 26](ch02_zh.md#src-p46), [原书 72](ch03_zh.md#src-p92), [原书 221](ch08_zh.md#src-p241), [原书 223](ch08_zh.md#src-p243) <!-- source: pdf=413; section=索引; unit=p0413_b021_u01; entry=idx0411 -->
+    - 仿真 EEPROM（emulated），[原书 224](ch08_zh.md#src-p244) <!-- source: pdf=413; section=索引; unit=p0413_b022_u00; entry=idx0412 -->
+- 电可擦可编程只读存储器（见“EEPROM”）（electrically erasable programmable read-only memory (see EEPROMs)） <!-- source: pdf=414; section=索引; unit=p0414_b000_u00; entry=idx0413 -->
+- 电子学：延伸阅读（electronics, further reading on），[原书 370](ch13_zh.md#src-p390) <!-- source: pdf=414; section=索引; unit=p0414_b000_u00; entry=idx0414 -->
+- 封装（encapsulation），[原书 6](ch01_zh.md#src-p26) <!-- source: pdf=414; section=索引; unit=p0414_b000_u00; entry=idx0415 -->
+    - 模块的封装（of modules），[原书 21](ch02_zh.md#src-p41) <!-- source: pdf=414; section=索引; unit=p0414_b001_u00; entry=idx0416 -->
+- 编码器（encoders），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=414; section=索引; unit=p0414_b001_u00; entry=idx0417 -->
+    - 电机与编码器系统示例（motor and encoder system example），[原书 376](ch14_zh.md#src-p396) <!-- source: pdf=414; section=索引; unit=p0414_b002_u00; entry=idx0418 -->
+- 加密（encryption），[原书 270](ch10_zh.md#src-p290) <!-- source: pdf=414; section=索引; unit=p0414_b002_u00; entry=idx0419 -->
+    - 相关挑战（challenges with），[原书 270](ch10_zh.md#src-p290) <!-- source: pdf=414; section=索引; unit=p0414_b003_u00; entry=idx0420 -->
+    - 固件包（firmware bundle），[原书 275](ch10_zh.md#src-p295) <!-- source: pdf=414; section=索引; unit=p0414_b003_u00; entry=idx0421 -->
+- 能量（energy） <!-- source: pdf=414; section=索引; unit=p0414_b003_u00; entry=idx0422 -->
+    - 通过降速节省能量（conserving by slowing down），[原书 363](ch13_zh.md#src-p383) <!-- source: pdf=414; section=索引; unit=p0414_b003_u00; entry=idx0423 -->
+        - 另见“功率与功耗”（(see also power)） <!-- source: pdf=414; section=索引; unit=p0414_b004_u00; entry=idx0424 -->
+    - 能效（energy efficiency），[原书 367](ch13_zh.md#src-p387) <!-- source: pdf=414; section=索引; unit=p0414_b004_u00; entry=idx0425 -->
+    - 能量公式（equation for），[原书 356](ch13_zh.md#src-p376) <!-- source: pdf=414; section=索引; unit=p0414_b004_u00; entry=idx0426 -->
+    - 减少设备的能量消耗（reducing how much the device uses），[原书 356](ch13_zh.md#src-p376) <!-- source: pdf=414; section=索引; unit=p0414_b004_u00; entry=idx0427 -->
+- 数据手册勘误表（errata for datasheets），[原书 50](ch03_zh.md#src-p70) <!-- source: pdf=414; section=索引; unit=p0414_b004_u00; entry=idx0428 -->
+- 处理器勘误表（errata for processors），[原书 58](ch03_zh.md#src-p78) <!-- source: pdf=414; section=索引; unit=p0414_b004_u00; entry=idx0429 -->
+- 错误（errors），[原书 81](ch03_zh.md#src-p101)-[原书 84](ch03_zh.md#src-p104) <!-- source: pdf=414; section=索引; unit=p0414_b004_u00; entry=idx0430 -->
+    - 校验和中的错误（with checksums），[原书 269](ch10_zh.md#src-p289) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0431 -->
+    - 一致的错误处理方法（consistent methodology for handling），[原书 81](ch03_zh.md#src-p101) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0432 -->
+    - 错误检查流程（error checking flow），[原书 82](ch03_zh.md#src-p102) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0433 -->
+    - 错误处理库（error-handling library），[原书 83](ch03_zh.md#src-p103) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0434 -->
+    - 栅栏柱错误（fencepost），[原书 144](ch05_zh.md#src-p164) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0435 -->
+    - 错误发生后触发的中断（interrupts occurring after），[原书 127](ch05_zh.md#src-p147) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0436 -->
+    - 大型系统中的错误（in large systems），[原书 281](ch10_zh.md#src-p301) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0437 -->
+    - 内存对齐错误（memory alignment），[原书 251](ch09_zh.md#src-p271) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0438 -->
+    - 统一错误返回码（return codes for, standardizing），[原书 82](ch03_zh.md#src-p102) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0439 -->
+    - 定时器值中的错误（in timer values），[原书 116](ch04_zh.md#src-p136) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0440 -->
+- 以太网（Ethernet） <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0441 -->
+    - 通过以太网远程连接（remote connections via），[原书 265](ch10_zh.md#src-p285) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0442 -->
+    - 串口转以太网转换器（serial-to-Ethernet converters），[原书 186](ch07_zh.md#src-p206) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0443 -->
+- 事件处理函数（event handlers） <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0444 -->
+    - 表驱动状态机中的事件处理函数（in table-driven state machine），[原书 162](ch06_zh.md#src-p182) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0445 -->
+    - 状态对象中的事件处理函数（in state objects），[原书 160](ch06_zh.md#src-p180) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0446 -->
+- 以事件为中心的状态机（event-centric state machines），[原书 159](ch06_zh.md#src-p179) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0447 -->
+- 事件驱动系统（event-driven systems），[原书 231](ch08_zh.md#src-p251) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0448 -->
+- 事件（events） <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0449 -->
+    - 改变状态的事件（that change state），[原书 157](ch06_zh.md#src-p177) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0450 -->
+    - 中断引发的事件（interrupts causing），[原书 171](ch06_zh.md#src-p191) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0451 -->
+    - 与事件无关的状态转换（state transitions independent of），[原书 159](ch06_zh.md#src-p179) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0452 -->
+- 异常（exceptions），[原书 2](ch01_zh.md#src-p22), [原书 119](ch04_zh.md#src-p139), [原书 140](ch05_zh.md#src-p160) <!-- source: pdf=414; section=索引; unit=p0414_b005_u00; entry=idx0453 -->
+    - 另见“错误”（(see also errors)） <!-- source: pdf=414; section=索引; unit=p0414_b006_u00; entry=idx0454 -->
+    - 异常中断（exception interrupts），[原书 133](ch05_zh.md#src-p153) <!-- source: pdf=414; section=索引; unit=p0414_b006_u00; entry=idx0455 -->
+    - 中断与异常的相似性（similarity of interrupts to），[原书 127](ch05_zh.md#src-p147) <!-- source: pdf=414; section=索引; unit=p0414_b006_u00; entry=idx0456 -->
+
+<!-- source: pdf=414; section=索引; unit=p0414_b007_u00; entry=idx0457 -->
+## F
+
+- 外观模式（facade pattern），[原书 99](ch04_zh.md#src-p119), [原书 110](ch04_zh.md#src-p130) <!-- source: pdf=414; section=索引; unit=p0414_b007_u01; entry=idx0458 -->
+- 多项式因式分解（factoring polynomials），[原书 332](ch12_zh.md#src-p352) <!-- source: pdf=414; section=索引; unit=p0414_b007_u01; entry=idx0459 -->
+- 工厂模式（factory pattern），[原书 218](ch08_zh.md#src-p238) <!-- source: pdf=414; section=索引; unit=p0414_b007_u01; entry=idx0460 -->
+    - 以面向对象方式实现（implemented in object-oriented way），[原书 219](ch08_zh.md#src-p239) <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0461 -->
+- 失败与故障（failures） <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0462 -->
+    - 系统立即并显著地报告故障（system failing loudly and immediately），[原书 81](ch03_zh.md#src-p101) <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0463 -->
+    - 系统故障与看门狗（system, watchdog and），[原书 164](ch06_zh.md#src-p184) <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0464 -->
+    - 谈论失败（面试题）（talking about (interview question)），[原书 85](ch03_zh.md#src-p105) <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0465 -->
+- 故障处理函数（fault handlers），[原书 249](ch09_zh.md#src-p269) <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0466 -->
+- 故障状态寄存器（fault status registers），[原书 255](ch09_zh.md#src-p275) <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0467 -->
+- 反馈控制（feedback control），[原书 379](ch14_zh.md#src-p399) <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0468 -->
+- 栅栏柱错误与抖动（fenceposts and jitter），[原书 144](ch05_zh.md#src-p164) <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0469 -->
+- FET（场效应晶体管）（FETs (field-effect transistors)），[原书 386](ch14_zh.md#src-p406) <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0470 -->
+- FIFO（先进先出）（FIFO (first in, first out)），[原书 268](ch10_zh.md#src-p288) <!-- source: pdf=414; section=索引; unit=p0414_b008_u00; entry=idx0471 -->
+    - 循环缓冲区（circular buffers），[原书 203](ch07_zh.md#src-p223) <!-- source: pdf=414; section=索引; unit=p0414_b009_u00; entry=idx0472 -->
+    - 与其他缓冲方法的比较（comparison with other buffering methods），[原书 202](ch07_zh.md#src-p222) <!-- source: pdf=414; section=索引; unit=p0414_b009_u00,p0414_b010_u00; entry=idx0473 -->
+    - 用于发送和接收数据（using to transmit and receive data），[原书 198](ch07_zh.md#src-p218) <!-- source: pdf=414; section=索引; unit=p0414_b010_u00; entry=idx0474 -->
+- 文件系统（闪存）（file systems (flash)），[原书 224](ch08_zh.md#src-p244) <!-- source: pdf=414; section=索引; unit=p0414_b010_u00; entry=idx0475 -->
+- 过滤器（filters），[原书 234](ch08_zh.md#src-p254) <!-- source: pdf=414; section=索引; unit=p0414_b010_u00; entry=idx0476 -->
+- 有限状态自动机（finite state automata），[原书 156](ch06_zh.md#src-p176) <!-- source: pdf=414; section=索引; unit=p0414_b010_u00; entry=idx0477 -->
+    - 另见“状态机”（(see also state machines)） <!-- source: pdf=414; section=索引; unit=p0414_b011_u00; entry=idx0478 -->
+- 固件更新（firmware, updating），[原书 272](ch10_zh.md#src-p292)-[原书 280](ch10_zh.md#src-p300) <!-- source: pdf=414; section=索引; unit=p0414_b011_u00; entry=idx0479 -->
+- 闪存（flash memory），[原书 14](ch02_zh.md#src-p34), [原书 221](ch08_zh.md#src-p241)-[原书 227](ch08_zh.md#src-p247) <!-- source: pdf=414; section=索引; unit=p0414_b011_u00; entry=idx0480 -->
+    - 辅助闪存与代码更新（auxiliary flash and code updates），[原书 273](ch10_zh.md#src-p293) <!-- source: pdf=414; section=索引; unit=p0414_b012_u00; entry=idx0481 -->
+    - 在 SPI 闪存中存储数据（data storage on SPI flash），[原书 225](ch08_zh.md#src-p245) <!-- source: pdf=414; section=索引; unit=p0414_b012_u00; entry=idx0482 -->
+    - 显示资源（display assets），[原书 221](ch08_zh.md#src-p241) <!-- source: pdf=414; section=索引; unit=p0414_b012_u00; entry=idx0483 -->
+    - 闪存中的仿真 EEPROM 与键值存储（emulated EEPROMs ad KV stores on），[原书 223](ch08_zh.md#src-p243) <!-- source: pdf=414; section=索引; unit=p0414_b012_u00; entry=idx0484 -->
+    - 固件更新失败时的备用救生艇（fallback lifeboat for failed firmware updates），[原书 278](ch10_zh.md#src-p298) <!-- source: pdf=414; section=索引; unit=p0414_b012_u00,p0414_b013_u00; entry=idx0485 -->
+    - 闪存上的小型文件系统（little file systems on），[原书 224](ch08_zh.md#src-p244) <!-- source: pdf=414; section=索引; unit=p0414_b013_u00; entry=idx0486 -->
+    - 防止微处理器闪存损坏（preventing corruption of microprocessor flash），[原书 277](ch10_zh.md#src-p297) <!-- source: pdf=414; section=索引; unit=p0414_b013_u00; entry=idx0487 -->
+    - 测试示例（test example），[原书 72](ch03_zh.md#src-p92)-[原书 75](ch03_zh.md#src-p95) <!-- source: pdf=414; section=索引; unit=p0414_b013_u00; entry=idx0488 -->
+- 悬空输入（floating inputs），[原书 62](ch03_zh.md#src-p82), [原书 362](ch13_zh.md#src-p382) <!-- source: pdf=414; section=索引; unit=p0414_b013_u00; entry=idx0489 -->
+- 浮点数（floating-point numbers） <!-- source: pdf=414; section=索引; unit=p0414_b013_u00; entry=idx0490 -->
+    - 在正弦函数中消除浮点数（eliminating in sine function），[原书 336](ch12_zh.md#src-p356) <!-- source: pdf=414; section=索引; unit=p0414_b013_u00; entry=idx0491 -->
+    - 模拟浮点数（faking），[原书 345](ch12_zh.md#src-p365)-[原书 351](ch12_zh.md#src-p371) <!-- source: pdf=414; section=索引; unit=p0414_b013_u00; entry=idx0492 -->
+        - 模拟浮点变量的加减法（addition and subtraction of fake variables），[原书 348](ch12_zh.md#src-p368) <!-- source: pdf=414; section=索引; unit=p0414_b014_u00; entry=idx0493 -->
+        - 模拟浮点数的乘除法（multiplication and division of fake numbers），[原书 349](ch12_zh.md#src-p369) <!-- source: pdf=414; section=索引; unit=p0414_b014_u00; entry=idx0494 -->
+        - 精度（precision），[原书 347](ch12_zh.md#src-p367) <!-- source: pdf=414; section=索引; unit=p0414_b014_u00; entry=idx0495 -->
+        - 有理数（rational numbers），[原书 346](ch12_zh.md#src-p366) <!-- source: pdf=414; section=索引; unit=p0414_b014_u00; entry=idx0496 -->
+    - 以定点表示替代（replacing with fixed-point representations），[原书 291](ch11_zh.md#src-p311) <!-- source: pdf=414; section=索引; unit=p0414_b014_u00,p0414_b015_u00; entry=idx0497 -->
+- 浮点运算单元（FPU）（floating-point unit (FPU)），[原书 324](ch12_zh.md#src-p344) <!-- source: pdf=414; section=索引; unit=p0414_b015_u00; entry=idx0498 -->
+- 通信中的流量控制（flow control in communications），[原书 185](ch07_zh.md#src-p205) <!-- source: pdf=414; section=索引; unit=p0414_b015_u00; entry=idx0499 -->
+- 管理活动流程（flow of activity, managing），[原书 151](ch06_zh.md#src-p171)-[原书 179](ch06_zh.md#src-p199) <!-- source: pdf=414; section=索引; unit=p0414_b015_u00; entry=idx0500 -->
+    - 主循环（main loops），[原书 166](ch06_zh.md#src-p186) <!-- source: pdf=414; section=索引; unit=p0414_b016_u00; entry=idx0501 -->
+    - 调度与操作系统基础（scheduling and operating system basics），[原书 151](ch06_zh.md#src-p171)-[原书 155](ch06_zh.md#src-p175) <!-- source: pdf=414; section=索引; unit=p0414_b016_u00,p0414_b017_u00; entry=idx0502 -->
+    - 使用状态机（using state machines），[原书 156](ch06_zh.md#src-p176)-[原书 164](ch06_zh.md#src-p184) <!-- source: pdf=414; section=索引; unit=p0414_b017_u00; entry=idx0503 -->
+    - 看门狗（watchdog），[原书 164](ch06_zh.md#src-p184)-[原书 166](ch06_zh.md#src-p186) <!-- source: pdf=415; section=索引; unit=p0415_b000_u00; entry=idx0504 -->
+- 续流二极管（flyback diodes），[原书 386](ch14_zh.md#src-p406) <!-- source: pdf=415; section=索引; unit=p0415_b000_u00; entry=idx0505 -->
+- 享元模式（flyweight pattern），[原书 218](ch08_zh.md#src-p238) <!-- source: pdf=415; section=索引; unit=p0415_b000_u00; entry=idx0506 -->
+    - 享元工厂模式（flyweight factory pattern），[原书 218](ch08_zh.md#src-p238), [原书 220](ch08_zh.md#src-p240) <!-- source: pdf=415; section=索引; unit=p0415_b001_u00; entry=idx0507 -->
+- 字体（fonts），[原书 215](ch08_zh.md#src-p235), [原书 221](ch08_zh.md#src-p241) <!-- source: pdf=415; section=索引; unit=p0415_b001_u00; entry=idx0508 -->
+- 碎片化（堆）（fragmentation (heap)），[原书 295](ch11_zh.md#src-p315) <!-- source: pdf=415; section=索引; unit=p0415_b001_u00; entry=idx0509 -->
+- FTDI 线缆（FTDI cables），[原书 184](ch07_zh.md#src-p204) <!-- source: pdf=415; section=索引; unit=p0415_b001_u00; entry=idx0510 -->
+- 全双工通信（full duplex communication），[原书 183](ch07_zh.md#src-p203) <!-- source: pdf=415; section=索引; unit=p0415_b001_u00; entry=idx0511 -->
+- 函数调用链（function chains），[原书 300](ch11_zh.md#src-p320) <!-- source: pdf=415; section=索引; unit=p0415_b001_u00; entry=idx0512 -->
+    - 用全局变量保存所有函数都需要的参数（global variable for parameter needed by all functions），[原书 302](ch11_zh.md#src-p322) <!-- source: pdf=415; section=索引; unit=p0415_b002_u00; entry=idx0513 -->
+    - 优化（optimizing），[原书 310](ch11_zh.md#src-p330), [原书 312](ch11_zh.md#src-p332) <!-- source: pdf=415; section=索引; unit=p0415_b002_u00; entry=idx0514 -->
+- 函数指针（function pointers），[原书 78](ch03_zh.md#src-p98), [原书 126](ch05_zh.md#src-p146), [原书 232](ch08_zh.md#src-p252) <!-- source: pdf=415; section=索引; unit=p0415_b002_u00; entry=idx0515 -->
+    - C 中的函数指针结构体（structure of, in C），[原书 110](ch04_zh.md#src-p130) <!-- source: pdf=415; section=索引; unit=p0415_b003_u00; entry=idx0516 -->
+- 函数（functions） <!-- source: pdf=415; section=索引; unit=p0415_b003_u00; entry=idx0517 -->
+    - 映射文件中的函数地址（address of, in map files），[原书 288](ch11_zh.md#src-p308) <!-- source: pdf=415; section=索引; unit=p0415_b003_u00; entry=idx0518 -->
+    - 映射文件中的函数信息（information about, in map files），[原书 287](ch11_zh.md#src-p307) <!-- source: pdf=415; section=索引; unit=p0415_b003_u00; entry=idx0519 -->
+    - 栈帧上的局部变量与函数调用（local variables and function calls on stack frame），[原书 129](ch05_zh.md#src-p149), [原书 252](ch09_zh.md#src-p272) <!-- source: pdf=415; section=索引; unit=p0415_b003_u00; entry=idx0520 -->
+    - 编译器优化对局部变量的改变（local variables, changes from compiler optimizations），[原书 246](ch09_zh.md#src-p266) <!-- source: pdf=415; section=索引; unit=p0415_b003_u00; entry=idx0521 -->
+    - 函数与宏：确定哪种更小（versus macros, determining which are smaller），[原书 292](ch11_zh.md#src-p312) <!-- source: pdf=415; section=索引; unit=p0415_b003_u00; entry=idx0522 -->
+    - 不可重入函数（nonreentrant），[原书 134](ch05_zh.md#src-p154) <!-- source: pdf=415; section=索引; unit=p0415_b003_u00; entry=idx0523 -->
+    - 宏与函数的优化评分表（optimization scorecard of macros versus），[原书 293](ch11_zh.md#src-p313) <!-- source: pdf=415; section=索引; unit=p0415_b003_u00,p0415_b004_u00; entry=idx0524 -->
+    - 限制参数数量（parameters, limiting），[原书 298](ch11_zh.md#src-p318) <!-- source: pdf=415; section=索引; unit=p0415_b004_u00; entry=idx0525 -->
+    - 性能分析（profiling），[原书 305](ch11_zh.md#src-p325) <!-- source: pdf=415; section=索引; unit=p0415_b004_u00; entry=idx0526 -->
+    - 可重入函数（reentrant），[原书 134](ch05_zh.md#src-p154) <!-- source: pdf=415; section=索引; unit=p0415_b004_u00; entry=idx0527 -->
+    - 返回地址损坏（return address corrupted），[原书 129](ch05_zh.md#src-p149) <!-- source: pdf=415; section=索引; unit=p0415_b004_u00; entry=idx0528 -->
+    - 向调用函数返回栈内存（returning stack memory to calling function），[原书 252](ch09_zh.md#src-p272) <!-- source: pdf=415; section=索引; unit=p0415_b004_u00,p0415_b005_u00; entry=idx0529 -->
+    - 映射文件中的函数大小（sizes of, in map files），[原书 288](ch11_zh.md#src-p308) <!-- source: pdf=415; section=索引; unit=p0415_b005_u00; entry=idx0530 -->
+    - 编写函数替代库（writing to replace a library），[原书 291](ch11_zh.md#src-p311) <!-- source: pdf=415; section=索引; unit=p0415_b005_u00; entry=idx0531 -->
+
+<!-- source: pdf=415; section=索引; unit=p0415_b006_u00; entry=idx0532 -->
+## G
+
+- 垃圾回收（garbage collection），[原书 295](ch11_zh.md#src-p315) <!-- source: pdf=415; section=索引; unit=p0415_b006_u01; entry=idx0533 -->
+- 网关（gateway） <!-- source: pdf=415; section=索引; unit=p0415_b006_u01; entry=idx0534 -->
+    - 通过网关联网（networking through），[原书 266](ch10_zh.md#src-p286) <!-- source: pdf=415; section=索引; unit=p0415_b006_u01; entry=idx0535 -->
+    - 网关上运行的软件（software that runs the gateway），[原书 266](ch10_zh.md#src-p286) <!-- source: pdf=415; section=索引; unit=p0415_b006_u01; entry=idx0536 -->
+- 通用输入／输出（GPIO）引脚（general-purpose I/O (GPIO) pins），[原书 92](ch04_zh.md#src-p112), [原书 94](ch04_zh.md#src-p114), [原书 376](ch14_zh.md#src-p396) <!-- source: pdf=415; section=索引; unit=p0415_b006_u01; entry=idx0537 -->
+    - 确定触发中断的具体引脚（determining specific pin that caused an interrupt），[原书 138](ch05_zh.md#src-p158) <!-- source: pdf=415; section=索引; unit=p0415_b007_u00; entry=idx0538 -->
+    - 处理器 GPIO 驱动 PWM，切勿直接连接电机（processor GPIO driving PWM, never connected directly to the motor），[原书 376](ch14_zh.md#src-p396) <!-- source: pdf=415; section=索引; unit=p0415_b007_u00; entry=idx0539 -->
+- 全局变量（global variables），[原书 129](ch05_zh.md#src-p149), [原书 287](ch11_zh.md#src-p307) <!-- source: pdf=415; section=索引; unit=p0415_b007_u00; entry=idx0540 -->
+    - 用于按钮按下（for button presses），[原书 104](ch04_zh.md#src-p124) <!-- source: pdf=415; section=索引; unit=p0415_b008_u00; entry=idx0541 -->
+    - 核心转储与全局变量（core dumps and），[原书 256](ch09_zh.md#src-p276) <!-- source: pdf=415; section=索引; unit=p0415_b008_u00; entry=idx0542 -->
+    - 优缺点（pros and cons of），[原书 302](ch11_zh.md#src-p322) <!-- source: pdf=415; section=索引; unit=p0415_b008_u00; entry=idx0543 -->
+    - 利用全局变量节省 RAM（saving on RAM with），[原书 302](ch11_zh.md#src-p322) <!-- source: pdf=415; section=索引; unit=p0415_b008_u00; entry=idx0544 -->
+    - 共享私有全局变量（sharing private globals），[原书 33](ch02_zh.md#src-p53) <!-- source: pdf=415; section=索引; unit=p0415_b009_u00; entry=idx0545 -->
+    - 未初始化的全局变量（uninitialized） <!-- source: pdf=415; section=索引; unit=p0415_b009_u00; entry=idx0546 -->
+        - 位于映射文件的 .bss 段（in .bss section of map file），[原书 297](ch11_zh.md#src-p317) <!-- source: pdf=415; section=索引; unit=p0415_b009_u00; entry=idx0547 -->
+        - 初始化时置零（set to zero on initialization），[原书 246](ch09_zh.md#src-p266) <!-- source: pdf=415; section=索引; unit=p0415_b009_u00; entry=idx0548 -->
+    - 中断与普通代码之间共享的 volatile 全局变量（volatile, shared between interrupts and normal code），[原书 104](ch04_zh.md#src-p124) <!-- source: pdf=415; section=索引; unit=p0415_b009_u00; entry=idx0549 -->
+- GPS，[原书 226](ch08_zh.md#src-p246) <!-- source: pdf=415; section=索引; unit=p0415_b009_u00; entry=idx0550 -->
+- 平稳降级（graceful degradation），[原书 81](ch03_zh.md#src-p101) <!-- source: pdf=415; section=索引; unit=p0415_b009_u00; entry=idx0551 -->
+- 图形资源（graphic assets），[原书 215](ch08_zh.md#src-p235) <!-- source: pdf=415; section=索引; unit=p0415_b009_u00; entry=idx0552 -->
+    - 在存储中的打包方式（how they're packed into storage），[原书 217](ch08_zh.md#src-p237) <!-- source: pdf=415; section=索引; unit=p0415_b010_u00; entry=idx0553 -->
+    - 在图形子系统组织结构中设置（setting up in graphic subsystem organization），[原书 215](ch08_zh.md#src-p235) <!-- source: pdf=415; section=索引; unit=p0415_b010_u00; entry=idx0554 -->
+
+<!-- source: pdf=415; section=索引; unit=p0415_b011_u00; entry=idx0555 -->
+## H
+
+- H 桥（H-bridge），[原书 377](ch14_zh.md#src-p397), [原书 386](ch14_zh.md#src-p406) <!-- source: pdf=415; section=索引; unit=p0415_b011_u01; entry=idx0556 -->
+    - 面试题：H 桥如何工作？（interview questions, How does an H-bridge work?），[原书 387](ch14_zh.md#src-p407) <!-- source: pdf=415; section=索引; unit=p0415_b012_u00; entry=idx0557 -->
+- 半双工通信（half duplex communication），[原书 183](ch07_zh.md#src-p203) <!-- source: pdf=415; section=索引; unit=p0415_b012_u00; entry=idx0558 -->
+    - 半双工、点对点、非对称协议（ISO-7816）（half-duplex, point-to-point, asymmetric protocol (ISO-7816)），[原书 194](ch07_zh.md#src-p214) <!-- source: pdf=415; section=索引; unit=p0415_b013_u00; entry=idx0559 -->
+    - 比全双工更难实现（harder to implement than full duplex），[原书 193](ch07_zh.md#src-p213) <!-- source: pdf=415; section=索引; unit=p0415_b013_u00; entry=idx0560 -->
+    - 并行总线（parallel buses），[原书 192](ch07_zh.md#src-p212) <!-- source: pdf=415; section=索引; unit=p0415_b013_u00; entry=idx0561 -->
+- 触觉反馈（haptics），[原书 373](ch14_zh.md#src-p393) <!-- source: pdf=415; section=索引; unit=p0415_b013_u00; entry=idx0562 -->
+- 硬故障（hard faults），[原书 248](ch09_zh.md#src-p268) <!-- source: pdf=415; section=索引; unit=p0415_b013_u00; entry=idx0563 -->
+    - 制造硬故障（creating） <!-- source: pdf=415; section=索引; unit=p0415_b014_u00; entry=idx0564 -->
+        - 除以零（dividing by zero），[原书 248](ch09_zh.md#src-p268) <!-- source: pdf=415; section=索引; unit=p0415_b014_u00; entry=idx0565 -->
+        - 错误的或未对齐的内存访问（incorrect or unaligned memory access），[原书 251](ch09_zh.md#src-p271) <!-- source: pdf=415; section=索引; unit=p0415_b014_u00,p0415_b015_u00; entry=idx0566 -->
+        - 返回指向栈内存的指针（returning pointer to stack memory），[原书 252](ch09_zh.md#src-p272) <!-- source: pdf=415; section=索引; unit=p0415_b015_u00; entry=idx0567 -->
+        - 执行错误指令（running bad instructions），[原书 250](ch09_zh.md#src-p270) <!-- source: pdf=415; section=索引; unit=p0415_b015_u00; entry=idx0568 -->
+        - 向没有对应内存的地址写入（writing to address with no associated memory），[原书 249](ch09_zh.md#src-p269) <!-- source: pdf=415; section=索引; unit=p0415_b015_u00; entry=idx0569 -->
+    - 调试（debugging），[原书 254](ch09_zh.md#src-p274)-[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=415; section=索引; unit=p0415_b015_u00; entry=idx0570 -->
+        - 创建核心转储（creating core dumps），[原书 256](ch09_zh.md#src-p276)-[原书 259](ch09_zh.md#src-p279) <!-- source: pdf=415; section=索引; unit=p0415_b016_u00; entry=idx0571 -->
+        - 揭示错误原因的处理器寄存器（processor registers showing what went wrong），[原书 255](ch09_zh.md#src-p275) <!-- source: pdf=415; section=索引; unit=p0415_b016_u00; entry=idx0572 -->
+        - 使用核心转储（using the core dump），[原书 259](ch09_zh.md#src-p279) <!-- source: pdf=415; section=索引; unit=p0415_b016_u00; entry=idx0573 -->
+    - 利用编译器警告查找并修复（finding and fixing using compiler warnings），[原书 261](ch09_zh.md#src-p281) <!-- source: pdf=415; section=索引; unit=p0415_b016_u00,p0415_b017_u00; entry=idx0574 -->
+    - 延伸阅读（further reading on），[原书 262](ch09_zh.md#src-p282) <!-- source: pdf=415; section=索引; unit=p0415_b017_u00; entry=idx0575 -->
+- 硬件（hardware），[原书 41](ch03_zh.md#src-p61)-[原书 86](ch03_zh.md#src-p106) <!-- source: pdf=415; section=索引; unit=p0415_b017_u00; entry=idx0576 -->
+    - 框图（block diagrams），[原书 14](ch02_zh.md#src-p34) <!-- source: pdf=415; section=索引; unit=p0415_b018_u00; entry=idx0577 -->
+    - 选择合适的元件以降低功耗（choosing right components to reduce power usage），[原书 355](ch13_zh.md#src-p375) <!-- source: pdf=415; section=索引; unit=p0415_b018_u00; entry=idx0578 -->
+    - 建立自己的硬件调试工具箱（creating your own debugging toolbox for），[原书 65](ch03_zh.md#src-p85)-[原书 70](ch03_zh.md#src-p90) <!-- source: pdf=415; section=索引; unit=p0415_b018_u00,p0415_b019_u00; entry=idx0579 -->
+    - 处理错误（dealing with errors），[原书 81](ch03_zh.md#src-p101)-[原书 84](ch03_zh.md#src-p104) <!-- source: pdf=415; section=索引; unit=p0415_b019_u00; entry=idx0580 -->
+    - 延伸阅读（further reading on），[原书 84](ch03_zh.md#src-p104) <!-- source: pdf=415; section=索引; unit=p0415_b019_u00; entry=idx0581 -->
+    - 与软件集成（integration with software），[原书 41](ch03_zh.md#src-p61)-[原书 46](ch03_zh.md#src-p66) <!-- source: pdf=415; section=索引; unit=p0415_b019_u00; entry=idx0582 -->
+        - 电路板初始调试（board bring-up），[原书 45](ch03_zh.md#src-p65) <!-- source: pdf=415; section=索引; unit=p0415_b020_u00; entry=idx0583 -->
+        - 硬件设计（hardware design），[原书 43](ch03_zh.md#src-p63) <!-- source: pdf=416; section=索引; unit=p0416_b000_u00; entry=idx0584 -->
+        - 理想的项目流程（ideal project flow），[原书 42](ch03_zh.md#src-p62) <!-- source: pdf=416; section=索引; unit=p0416_b000_u00; entry=idx0585 -->
+    - 保护电路板安全（keeping your board safe），[原书 64](ch03_zh.md#src-p84) <!-- source: pdf=416; section=索引; unit=p0416_b000_u00; entry=idx0586 -->
+    - 了解处理器（learning about your processor），[原书 56](ch03_zh.md#src-p76)-[原书 58](ch03_zh.md#src-p78) <!-- source: pdf=416; section=索引; unit=p0416_b000_u00; entry=idx0587 -->
+    - 阅读数据手册（reading datasheets），[原书 46](ch03_zh.md#src-p66)-[原书 56](ch03_zh.md#src-p76) <!-- source: pdf=416; section=索引; unit=p0416_b000_u00; entry=idx0588 -->
+        - 使用数据手册评估元件（evaluating components using datasheets），[原书 53](ch03_zh.md#src-p73)-[原书 56](ch03_zh.md#src-p76) <!-- source: pdf=416; section=索引; unit=p0416_b001_u00,p0416_b002_u00; entry=idx0589 -->
+        - 软件开发人员需要的部分（sections for software developers），[原书 50](ch03_zh.md#src-p70)-[原书 53](ch03_zh.md#src-p73) <!-- source: pdf=416; section=索引; unit=p0416_b002_u00; entry=idx0590 -->
+        - 出问题时需要的部分（sections you need when things go wrong），[原书 48](ch03_zh.md#src-p68)-[原书 49](ch03_zh.md#src-p69) <!-- source: pdf=416; section=索引; unit=p0416_b002_u00; entry=idx0591 -->
+    - 阅读原理图（reading schematics），[原书 58](ch03_zh.md#src-p78)-[原书 62](ch03_zh.md#src-p82) <!-- source: pdf=416; section=索引; unit=p0416_b002_u00; entry=idx0592 -->
+        - Arduino 原理图（Arduino schematic），[原书 62](ch03_zh.md#src-p82)-[原书 64](ch03_zh.md#src-p84) <!-- source: pdf=416; section=索引; unit=p0416_b003_u00; entry=idx0593 -->
+    - 将硬件与动作分离（separating from the action），[原书 97](ch04_zh.md#src-p117)-[原书 100](ch04_zh.md#src-p120) <!-- source: pdf=416; section=索引; unit=p0416_b003_u00; entry=idx0594 -->
+        - 外观模式（facade pattern），[原书 99](ch04_zh.md#src-p119) <!-- source: pdf=416; section=索引; unit=p0416_b004_u00; entry=idx0595 -->
+        - 主循环（main loop），[原书 99](ch04_zh.md#src-p119) <!-- source: pdf=416; section=索引; unit=p0416_b004_u00; entry=idx0596 -->
+        - 使用电路板专用头文件（using board-specific header file），[原书 97](ch04_zh.md#src-p117) <!-- source: pdf=416; section=索引; unit=p0416_b004_u00; entry=idx0597 -->
+        - 使用 I/O 处理代码（using I/O handling code），[原书 98](ch04_zh.md#src-p118) <!-- source: pdf=416; section=索引; unit=p0416_b004_u00; entry=idx0598 -->
+    - 测试（testing），[原书 70](ch03_zh.md#src-p90)-[原书 81](ch03_zh.md#src-p101) <!-- source: pdf=416; section=索引; unit=p0416_b004_u00; entry=idx0599 -->
+        - 建立测试（building tests），[原书 71](ch03_zh.md#src-p91) <!-- source: pdf=416; section=索引; unit=p0416_b005_u00; entry=idx0600 -->
+        - 命令与响应（command and response），[原书 76](ch03_zh.md#src-p96)-[原书 79](ch03_zh.md#src-p99) <!-- source: pdf=416; section=索引; unit=p0416_b005_u00; entry=idx0601 -->
+        - 命令模式（command pattern），[原书 79](ch03_zh.md#src-p99) <!-- source: pdf=416; section=索引; unit=p0416_b005_u00; entry=idx0602 -->
+        - 闪存测试示例（flash test example），[原书 72](ch03_zh.md#src-p92)-[原书 75](ch03_zh.md#src-p95) <!-- source: pdf=416; section=索引; unit=p0416_b005_u00; entry=idx0603 -->
+- 硬件抽象层（HAL）（hardware abstraction layer (HAL)），[原书 93](ch04_zh.md#src-p113) <!-- source: pdf=416; section=索引; unit=p0416_b005_u00; entry=idx0604 -->
+    - 来自 HAL 的驱动程序（drivers from），[原书 181](ch07_zh.md#src-p201) <!-- source: pdf=416; section=索引; unit=p0416_b006_u00; entry=idx0605 -->
+    - 展示如何屏蔽原始地址的 GPIO 头文件（GPIO header file showing masking of raw addresses），[原书 94](ch04_zh.md#src-p114) <!-- source: pdf=416; section=索引; unit=p0416_b006_u00; entry=idx0606 -->
+- 硬件外设接口（hardware peripheral interface），[原书 202](ch07_zh.md#src-p222) <!-- source: pdf=416; section=索引; unit=p0416_b006_u00; entry=idx0607 -->
+- 哈希函数（hash functions），[原书 269](ch10_zh.md#src-p289) <!-- source: pdf=416; section=索引; unit=p0416_b006_u00; entry=idx0608 -->
+    - 引导加载程序检查闪存代码的哈希（bootloader checking flash code's hash），[原书 276](ch10_zh.md#src-p296) <!-- source: pdf=416; section=索引; unit=p0416_b007_u00; entry=idx0609 -->
+    - 充当数字签名的加密哈希（encrypted hash acting as digital signature），[原书 270](ch10_zh.md#src-p290) <!-- source: pdf=416; section=索引; unit=p0416_b007_u00,p0416_b008_u00; entry=idx0610 -->
+- 芯片内存映射的头文件（headers for memory map of chip），[原书 93](ch04_zh.md#src-p113), [原书 123](ch04_zh.md#src-p143) <!-- source: pdf=416; section=索引; unit=p0416_b008_u00; entry=idx0611 -->
+    - 允许访问各个寄存器（allowing access to individual registers），[原书 140](ch05_zh.md#src-p160) <!-- source: pdf=416; section=索引; unit=p0416_b009_u00; entry=idx0612 -->
+    - 用方便编程的方式屏蔽原始地址（raw addresses masked by programming niceties），[原书 94](ch04_zh.md#src-p114) <!-- source: pdf=416; section=索引; unit=p0416_b009_u00; entry=idx0613 -->
+    - 使用电路板专用头文件修改引脚（using board-specific header file for pin modifications），[原书 97](ch04_zh.md#src-p117) <!-- source: pdf=416; section=索引; unit=p0416_b009_u00; entry=idx0614 -->
+- 健康信息（设备）（health information (for devices)），[原书 281](ch10_zh.md#src-p301) <!-- source: pdf=416; section=索引; unit=p0416_b009_u00; entry=idx0615 -->
+- 堆（heaps），[原书 129](ch05_zh.md#src-p149), [原书 297](ch11_zh.md#src-p317) <!-- source: pdf=416; section=索引; unit=p0416_b009_u00; entry=idx0616 -->
+    - 碎片化（fragmentation），[原书 295](ch11_zh.md#src-p315) <!-- source: pdf=416; section=索引; unit=p0416_b010_u00; entry=idx0617 -->
+    - malloc 使函数每次运行表现不同（malloc making function run differently），[原书 295](ch11_zh.md#src-p315) <!-- source: pdf=416; section=索引; unit=p0416_b010_u00; entry=idx0618 -->
+    - 显示堆指针的系统 RAM 内存映射（RAM memory map of system showing heap pointers），[原书 129](ch05_zh.md#src-p149) <!-- source: pdf=416; section=索引; unit=p0416_b010_u00; entry=idx0619 -->
+    - 用固定缓冲区替代堆缓冲区（replacing heap buffers with fixed buffers），[原书 261](ch09_zh.md#src-p281) <!-- source: pdf=416; section=索引; unit=p0416_b010_u00,p0416_b011_u00; entry=idx0620 -->
+    - 同一内存位置被两个不同使用者占用（two different users of same memory location），[原书 253](ch09_zh.md#src-p273) <!-- source: pdf=416; section=索引; unit=p0416_b011_u00; entry=idx0621 -->
+- 心跳（heartbeats），[原书 281](ch10_zh.md#src-p301) <!-- source: pdf=416; section=索引; unit=p0416_b011_u00; entry=idx0622 -->
+- 海森堡 bug（Heisenbugs），[原书 246](ch09_zh.md#src-p266) <!-- source: pdf=416; section=索引; unit=p0416_b011_u00; entry=idx0623 -->
+- “hello world”的实现（“hello world” implementation），[原书 9](ch01_zh.md#src-p29) <!-- source: pdf=416; section=索引; unit=p0416_b011_u00; entry=idx0624 -->
+- 十六进制运算（hexadecimal (hex) math），[原书 87](ch04_zh.md#src-p107), [原书 213](ch08_zh.md#src-p233) <!-- source: pdf=416; section=索引; unit=p0416_b012_u00; entry=idx0625 -->
+- 休眠（处理器）（hibernation (processors)），[原书 365](ch13_zh.md#src-p385) <!-- source: pdf=416; section=索引; unit=p0416_b012_u00; entry=idx0626 -->
+- 高水位标记（栈）（high-water mark (stacks)），[原书 261](ch09_zh.md#src-p281) <!-- source: pdf=416; section=索引; unit=p0416_b012_u00; entry=idx0627 -->
+- 原点传感器（电机）（home sensor (motors)），[原书 375](ch14_zh.md#src-p395), [原书 376](ch14_zh.md#src-p396) <!-- source: pdf=416; section=索引; unit=p0416_b012_u00; entry=idx0628 -->
+- 霍纳法则（Horner's scheme），[原书 333](ch12_zh.md#src-p353) <!-- source: pdf=416; section=索引; unit=p0416_b012_u00; entry=idx0629 -->
+
+<!-- source: pdf=416; section=索引; unit=p0416_b013_u00; entry=idx0630 -->
+## I
+
+- I/O，[原书 100](ch04_zh.md#src-p120) <!-- source: pdf=416; section=索引; unit=p0416_b013_u01; entry=idx0631 -->
+    - 另见“输入”；“输出”（(see also inputs; outputs)） <!-- source: pdf=416; section=索引; unit=p0416_b014_u00; entry=idx0632 -->
+    - 出错时翻转的 I/O 线（I/O line that toggles on error condition），[原书 81](ch03_zh.md#src-p101), [原书 83](ch03_zh.md#src-p103) <!-- source: pdf=416; section=索引; unit=p0416_b014_u00,p0416_b015_u00; entry=idx0633 -->
+    - 测试受软件控制的 I/O 线（I/O lines under software control, testing），[原书 72](ch03_zh.md#src-p92) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0634 -->
+    - 描述各条处理器引脚连接的映射（map describing each connection to processor pins），[原书 44](ch03_zh.md#src-p64) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0635 -->
+    - 将 I/O 处理函数作为参数传给 LED 初始化代码（passing I/O handler as parameter to LED initialization code），[原书 109](ch04_zh.md#src-p129) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0636 -->
+    - 用示波器对 I/O 线进行性能分析（profiling I/O lines on an oscilloscope），[原书 304](ch11_zh.md#src-p324) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0637 -->
+    - 电路板上用于调试错误的备用处理器 I/O（spare processor I/Os on board to debug errors），[原书 84](ch03_zh.md#src-p104) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0638 -->
+    - 关闭未使用的 I/O（turning off unused I/O devices），[原书 362](ch13_zh.md#src-p382) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0639 -->
+    - 使用电路板专用头文件（using board-specific header files），[原书 97](ch04_zh.md#src-p117) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0640 -->
+- 空闲或睡眠设置（处理器）（idle or sleep setting (processors)），[原书 365](ch13_zh.md#src-p385) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0641 -->
+- 图像字形：为像素显示器存储和检索（image glyphs, storing and retrieving for pixel displays），[原书 218](ch08_zh.md#src-p238) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0642 -->
+- 间接寄存器（indirect registers），[原书 136](ch05_zh.md#src-p156) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0643 -->
+- 继承（inheritance），[原书 233](ch08_zh.md#src-p253) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0644 -->
+- 内联函数（inline functions），[原书 293](ch11_zh.md#src-p313) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0645 -->
+- 输入（inputs），[原书 87](ch04_zh.md#src-p107), [原书 100](ch04_zh.md#src-p120)-[原书 103](ch04_zh.md#src-p123) <!-- source: pdf=416; section=索引; unit=p0416_b015_u00; entry=idx0646 -->
+    - 带内部上拉的输入（with internal pull-ups），[原书 101](ch04_zh.md#src-p121) <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0647 -->
+    - 矩阵输入（matrix），[原书 211](ch08_zh.md#src-p231) <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0648 -->
+    - 用于输入的行列矩阵与 Charlieplexing（row/column matrix and Charlieplexing used on），[原书 213](ch08_zh.md#src-p233) <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0649 -->
+- 积分（PID 控制中）（integral (in PID control)），[原书 379](ch14_zh.md#src-p399) <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0650 -->
+- 集成电路间总线（见“I²C”）（inter-integrated circuit (see I²C)） <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0651 -->
+- 接口（interfaces） <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0652 -->
+    - 接口适配器（adapters for），[原书 25](ch02_zh.md#src-p45) <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0653 -->
+    - 创建接口（creating），[原书 27](ch02_zh.md#src-p47)-[原书 34](ch02_zh.md#src-p54) <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0654 -->
+    - 驱动程序接口（driver interface），[原书 23](ch02_zh.md#src-p43) <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0655 -->
+    - 与软件 API 的相似性（similarity to software APIs），[原书 126](ch05_zh.md#src-p146) <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0656 -->
+- 中断延迟（interrupt latency），[原书 130](ch05_zh.md#src-p150) <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0657 -->
+- 中断请求（IRQ）（interrupt requests (IRQs)），[原书 127](ch05_zh.md#src-p147) <!-- source: pdf=416; section=索引; unit=p0416_b016_u00; entry=idx0658 -->
+    - 发生过程（occurrence of），[原书 127](ch05_zh.md#src-p147)-[原书 129](ch05_zh.md#src-p149) <!-- source: pdf=416; section=索引; unit=p0416_b017_u00; entry=idx0659 -->
+- 中断服务程序（ISR）（interrupt service routines (ISRs)），[原书 103](ch04_zh.md#src-p123), [原书 127](ch05_zh.md#src-p147) <!-- source: pdf=416; section=索引; unit=p0416_b017_u00; entry=idx0660 -->
+    - 在处理器唤醒时调用（called on processor wake-up），[原书 366](ch13_zh.md#src-p386) <!-- source: pdf=416; section=索引; unit=p0416_b018_u00; entry=idx0661 -->
+    - 调用（calling），[原书 135](ch05_zh.md#src-p155)-[原书 139](ch05_zh.md#src-p159) <!-- source: pdf=416; section=索引; unit=p0416_b018_u00; entry=idx0662 -->
+        - 临界区（critical sections），[原书 138](ch05_zh.md#src-p158) <!-- source: pdf=416; section=索引; unit=p0416_b019_u00; entry=idx0663 -->
+        - 调用期间禁用中断（disabling interrupts during），[原书 138](ch05_zh.md#src-p158) <!-- source: pdf=416; section=索引; unit=p0416_b019_u00; entry=idx0664 -->
+    - 在中断向量表中查找（looking up in interrupt vector table），[原书 133](ch05_zh.md#src-p153) <!-- source: pdf=416; section=索引; unit=p0416_b019_u00; entry=idx0665 -->
+    - 调用 ISR 时的中断优先级（priorities of interrupts when ISR is called），[原书 128](ch05_zh.md#src-p148) <!-- source: pdf=416; section=索引; unit=p0416_b019_u00,p0416_b020_u00; entry=idx0666 -->
+    - 从向量表中取得（retrieving from the vector table），[原书 132](ch05_zh.md#src-p152)-[原书 135](ch05_zh.md#src-p155) <!-- source: pdf=417; section=索引; unit=p0417_b000_u00; entry=idx0667 -->
+- 中断向量表（IVT）（interrupt vector table (IVT)），[原书 132](ch05_zh.md#src-p152) <!-- source: pdf=417; section=索引; unit=p0417_b000_u00; entry=idx0668 -->
+    - 初始化（initializing），[原书 132](ch05_zh.md#src-p152) <!-- source: pdf=417; section=索引; unit=p0417_b001_u00; entry=idx0669 -->
+    - 查找 ISR（looking up the ISR），[原书 133](ch05_zh.md#src-p153) <!-- source: pdf=417; section=索引; unit=p0417_b001_u00; entry=idx0670 -->
+- 中断（interrupts），[原书 125](ch05_zh.md#src-p145)-[原书 149](ch05_zh.md#src-p169) <!-- source: pdf=417; section=索引; unit=p0417_b001_u00; entry=idx0671 -->
+    - 带抖动的数字按钮信号上的中断（on bouncy digital button signal），[原书 105](ch04_zh.md#src-p125) <!-- source: pdf=417; section=索引; unit=p0417_b002_u00; entry=idx0672 -->
+    - 按钮按下时触发（on a button press），[原书 104](ch04_zh.md#src-p124) <!-- source: pdf=417; section=索引; unit=p0417_b002_u00; entry=idx0673 -->
+        - 更新以处理瞬时按钮按下（updating for momentary button press），[原书 107](ch04_zh.md#src-p127) <!-- source: pdf=417; section=索引; unit=p0417_b003_u00,p0417_b004_u00; entry=idx0674 -->
+    - 捕获并处理按钮按下（capturing and handling button press），[原书 103](ch04_zh.md#src-p123) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0675 -->
+    - 在主循环中引发事件（causing events in main loop），[原书 171](ch06_zh.md#src-p191) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0676 -->
+    - 配置（configuring），[原书 140](ch05_zh.md#src-p160) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0677 -->
+    - 将引脚配置为中断（configuring pin as interrupt），[原书 104](ch04_zh.md#src-p124) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0678 -->
+    - 禁用（disabling），[原书 138](ch05_zh.md#src-p158) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0679 -->
+    - 访问共享全局变量时禁止中断（disallowing while accessing shared global variables），[原书 154](ch06_zh.md#src-p174) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0680 -->
+    - FIFO 发送与接收中断（FIFO, transmit and receive），[原书 198](ch07_zh.md#src-p218) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0681 -->
+    - 定时器的目标中断频率（goal interrupt frequency for timer），[原书 115](ch04_zh.md#src-p135) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0682 -->
+    - 基于中断的代码流程模型（interrupt-based code flow model），[原书 366](ch13_zh.md#src-p386) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0683 -->
+    - 保持中断处理简短（keeping them short），[原书 135](ch05_zh.md#src-p155) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0684 -->
+    - 为难以实现的定时器目标中断频率做计算（math for difficult goal interrupt frequency for timers），[原书 117](ch04_zh.md#src-p137) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0685 -->
+    - 一个中断对应多个来源（multiple sources for one interrupt），[原书 137](ch05_zh.md#src-p157) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0686 -->
+    - 嵌套中断（nested），[原书 128](ch05_zh.md#src-p148) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0687 -->
+    - 不可屏蔽中断（nonmaskable），[原书 128](ch05_zh.md#src-p148), [原书 248](ch09_zh.md#src-p268) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0688 -->
+    - 优先级（priority），[原书 128](ch05_zh.md#src-p148) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0689 -->
+    - 中断与共享内存中的竞态条件（and race conditions in shared memory），[原书 152](ch06_zh.md#src-p172) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0690 -->
+    - 中断后恢复上下文（restoring context after），[原书 139](ch05_zh.md#src-p159) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00; entry=idx0691 -->
+    - 调用 ISR 前保存上下文（saving the context before calling ISR），[原书 130](ch05_zh.md#src-p150)-[原书 131](ch05_zh.md#src-p151) <!-- source: pdf=417; section=索引; unit=p0417_b004_u00,p0417_b005_u00; entry=idx0692 -->
+    - 处理过程中的步骤（steps in process），[原书 126](ch05_zh.md#src-p146) <!-- source: pdf=417; section=索引; unit=p0417_b005_u00; entry=idx0693 -->
+    - 系统节拍（system tick），[原书 173](ch06_zh.md#src-p193) <!-- source: pdf=417; section=索引; unit=p0417_b005_u00; entry=idx0694 -->
+    - 定时器中断（timer），[原书 119](ch04_zh.md#src-p139) <!-- source: pdf=417; section=索引; unit=p0417_b005_u00; entry=idx0695 -->
+        - 实现脉宽调制（implementing pulse-width modulation），[原书 120](ch04_zh.md#src-p140) <!-- source: pdf=417; section=索引; unit=p0417_b006_u00,p0417_b007_u00; entry=idx0696 -->
+        - 主循环中的定时器中断（in main loop），[原书 168](ch06_zh.md#src-p188) <!-- source: pdf=417; section=索引; unit=p0417_b007_u00; entry=idx0697 -->
+    - 使用循环缓冲区（use of circular buffers），[原书 204](ch07_zh.md#src-p224) <!-- source: pdf=417; section=索引; unit=p0417_b007_u00; entry=idx0698 -->
+    - 唤醒处理器（waking up the processor），[原书 364](ch13_zh.md#src-p384), [原书 365](ch13_zh.md#src-p385) <!-- source: pdf=417; section=索引; unit=p0417_b007_u00; entry=idx0699 -->
+    - 何时使用与何时不使用中断（when and when not to use），[原书 142](ch05_zh.md#src-p162)-[原书 148](ch05_zh.md#src-p168) <!-- source: pdf=417; section=索引; unit=p0417_b007_u00; entry=idx0700 -->
+        - 避免使用中断（avoiding use of interrupts），[原书 142](ch05_zh.md#src-p162) <!-- source: pdf=417; section=索引; unit=p0417_b008_u00; entry=idx0701 -->
+        - 轮询（polling），[原书 143](ch05_zh.md#src-p163) <!-- source: pdf=417; section=索引; unit=p0417_b008_u00; entry=idx0702 -->
+        - 系统节拍（system tick），[原书 143](ch05_zh.md#src-p163) <!-- source: pdf=417; section=索引; unit=p0417_b008_u00; entry=idx0703 -->
+        - 基于时间的事件（time-based events），[原书 145](ch05_zh.md#src-p165) <!-- source: pdf=417; section=索引; unit=p0417_b008_u00; entry=idx0704 -->
+        - 将定时器用作微型调度器（using timer as mini-scheduler），[原书 146](ch05_zh.md#src-p166) <!-- source: pdf=417; section=索引; unit=p0417_b008_u00; entry=idx0705 -->
+- 面试题（interview questions），[原书 2](ch01_zh.md#src-p22) <!-- source: pdf=417; section=索引; unit=p0417_b008_u00; entry=idx0706 -->
+    - 选择处理器（choosing a processor），[原书 210](ch07_zh.md#src-p230) <!-- source: pdf=417; section=索引; unit=p0417_b009_u00; entry=idx0707 -->
+    - 创建架构（creating an architecture），[原书 40](ch02_zh.md#src-p60) <!-- source: pdf=417; section=索引; unit=p0417_b009_u00; entry=idx0708 -->
+    - 设计系统（designing a system），[原书 240](ch08_zh.md#src-p260) <!-- source: pdf=417; section=索引; unit=p0417_b009_u00; entry=idx0709 -->
+    - 让山羊安全过河（getting a goat safely across a river），[原书 283](ch10_zh.md#src-p303) <!-- source: pdf=417; section=索引; unit=p0417_b009_u00; entry=idx0710 -->
+    - 处理很大的数（handling very large numbers），[原书 353](ch12_zh.md#src-p373) <!-- source: pdf=417; section=索引; unit=p0417_b009_u00; entry=idx0711 -->
+    - “hello world”的实现（“hello world” implementation），[原书 9](ch01_zh.md#src-p29) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0712 -->
+    - H 桥如何工作？（How does an H-bridge work?），[原书 387](ch14_zh.md#src-p407) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0713 -->
+    - 冰箱灯亮着吗？（Is the fridge light on?），[原书 371](ch13_zh.md#src-p391) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0714 -->
+    - 反转一个字节中的各位（reversing bits in a byte），[原书 321](ch11_zh.md#src-p341) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0715 -->
+    - 路口的红绿灯控制（stoplight control of an intersection），[原书 178](ch06_zh.md#src-p198) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0716 -->
+    - 喘口气（taking a breather），[原书 262](ch09_zh.md#src-p282) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0717 -->
+    - 谈论失败（talking about failure），[原书 85](ch03_zh.md#src-p105) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0718 -->
+    - 哪些事不该做（what not to do），[原书 148](ch05_zh.md#src-p168) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0719 -->
+    - 这段代码哪里有问题？（What’s wrong with this code?），[原书 124](ch04_zh.md#src-p144) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0720 -->
+- 反相逻辑（inverted logic），[原书 96](ch04_zh.md#src-p116) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0721 -->
+- ioctl 函数（ioctl function），[原书 24](ch02_zh.md#src-p44) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0722 -->
+- iostream 函数（iostream function），[原书 29](ch02_zh.md#src-p49) <!-- source: pdf=417; section=索引; unit=p0417_b010_u00; entry=idx0723 -->
+    - 其中的浮点数处理（floating-point handling in），[原书 346](ch12_zh.md#src-p366) <!-- source: pdf=417; section=索引; unit=p0417_b011_u00; entry=idx0724 -->
+- ISR（见“中断服务程序”）（ISRs (see interrupt service routines)） <!-- source: pdf=417; section=索引; unit=p0417_b011_u00; entry=idx0725 -->
+- IVT（见“中断向量表”）（IVT (see interrupt vector table)） <!-- source: pdf=417; section=索引; unit=p0417_b011_u00; entry=idx0726 -->
+- I²C（集成电路间总线）（I²C (inter-integrated circuit)），[原书 26](ch02_zh.md#src-p46), [原书 181](ch07_zh.md#src-p201), [原书 182](ch07_zh.md#src-p202), [原书 191](ch07_zh.md#src-p211), [原书 237](ch08_zh.md#src-p257), [原书 263](ch10_zh.md#src-p283) <!-- source: pdf=417; section=索引; unit=p0417_b011_u00,p0417_b012_u00; entry=idx0727 -->
+    - 通过 I²C 与 ADC 通信（communicating with an ADC via），[原书 268](ch10_zh.md#src-p288) <!-- source: pdf=417; section=索引; unit=p0417_b012_u00; entry=idx0728 -->
+    - 与 ISO-7816 的比较（ISO-7816 versus），[原书 194](ch07_zh.md#src-p214) <!-- source: pdf=417; section=索引; unit=p0417_b012_u00; entry=idx0729 -->
+    - I²C 与 TWI（and TWI），[原书 189](ch07_zh.md#src-p209) <!-- source: pdf=417; section=索引; unit=p0417_b012_u00; entry=idx0730 -->
+
+<!-- source: pdf=417; section=索引; unit=p0417_b013_u00; entry=idx0731 -->
+## J
+
+- 抖动（jitter），[原书 144](ch05_zh.md#src-p164) <!-- source: pdf=417; section=索引; unit=p0417_b013_u01; entry=idx0732 -->
+- JTAG，[原书 3](ch01_zh.md#src-p23), [原书 28](ch02_zh.md#src-p48), [原书 95](ch04_zh.md#src-p115) <!-- source: pdf=417; section=索引; unit=p0417_b013_u01; entry=idx0733 -->
+    - 编程器向处理器供电（programmers providing power to the processor），[原书 357](ch13_zh.md#src-p377) <!-- source: pdf=417; section=索引; unit=p0417_b014_u00; entry=idx0734 -->
+    - 防止经 JTAG 读取代码（protecting code from being read via），[原书 271](ch10_zh.md#src-p291) <!-- source: pdf=417; section=索引; unit=p0417_b014_u00; entry=idx0735 -->
+
+<!-- source: pdf=417; section=索引; unit=p0417_b015_u00; entry=idx0736 -->
+## K
+
+- 按键矩阵（key matrices），[原书 211](ch08_zh.md#src-p231)-[原书 213](ch08_zh.md#src-p233) <!-- source: pdf=417; section=索引; unit=p0417_b015_u01; entry=idx0737 -->
+    - 使用行列扫描实现（implementing with row/column scans），[原书 211](ch08_zh.md#src-p231) <!-- source: pdf=417; section=索引; unit=p0417_b016_u00; entry=idx0738 -->
+    - 行列扫描式按键矩阵原理图（row/column scan-style key matrix, schematic），[原书 212](ch08_zh.md#src-p232) <!-- source: pdf=417; section=索引; unit=p0417_b016_u00; entry=idx0739 -->
+- 键值（KV）存储（key-value (KV) stores），[原书 224](ch08_zh.md#src-p244), [原书 239](ch08_zh.md#src-p259) <!-- source: pdf=417; section=索引; unit=p0417_b016_u00; entry=idx0740 -->
+- 密钥（密码学）（keys (cryptographic)） <!-- source: pdf=417; section=索引; unit=p0417_b016_u00; entry=idx0741 -->
+    - 每台设备单独的密钥提供高安全性（high security with per-device keys），[原书 277](ch10_zh.md#src-p297) <!-- source: pdf=417; section=索引; unit=p0417_b016_u00; entry=idx0742 -->
+    - 保护密钥（protecting），[原书 271](ch10_zh.md#src-p291) <!-- source: pdf=417; section=索引; unit=p0417_b016_u00; entry=idx0743 -->
+- “喂狗”（“kicking the dog”），[原书 166](ch06_zh.md#src-p186) <!-- source: pdf=417; section=索引; unit=p0417_b016_u00; entry=idx0744 -->
+- KV 存储（见“键值存储”）（KV stores (see key-value stores)） <!-- source: pdf=417; section=索引; unit=p0417_b016_u00; entry=idx0745 -->
+
+<!-- source: pdf=417; section=索引; unit=p0417_b017_u00; entry=idx0746 -->
+## L
+
+- 语言（本地化）：显示资源中的支持（languages (localization), support in display assets），[原书 221](ch08_zh.md#src-p241) <!-- source: pdf=417; section=索引; unit=p0417_b017_u01; entry=idx0747 -->
+- 通信分层模型（OSI）（layered model of communication (OSI)），[原书 186](ch07_zh.md#src-p206) <!-- source: pdf=417; section=索引; unit=p0417_b017_u01; entry=idx0748 -->
+- 分层图（layering diagrams），[原书 20](ch02_zh.md#src-p40), [原书 38](ch02_zh.md#src-p58) <!-- source: pdf=417; section=索引; unit=p0417_b017_u01; entry=idx0749 -->
+- LCD（液晶显示器）（LCDs），[原书 214](ch08_zh.md#src-p234) <!-- source: pdf=417; section=索引; unit=p0417_b017_u01; entry=idx0750 -->
+    - 自动刷新（automatic refresh），[原书 217](ch08_zh.md#src-p237) <!-- source: pdf=417; section=索引; unit=p0417_b018_u00; entry=idx0751 -->
+    - 矩阵连接与 LCD（matrixing and），[原书 214](ch08_zh.md#src-p234) <!-- source: pdf=417; section=索引; unit=p0417_b018_u00; entry=idx0752 -->
+    - 优化显示驱动程序（optimizing display drivers），[原书 310](ch11_zh.md#src-p330) <!-- source: pdf=417; section=索引; unit=p0417_b018_u00; entry=idx0753 -->
+- LED（LEDs），[原书 61](ch03_zh.md#src-p81) <!-- source: pdf=418; section=索引; unit=p0418_b000_u00; entry=idx0754 -->
+    - Arduino 电路板原理图中的 LED（in Arduino board schematic），[原书 63](ch03_zh.md#src-p83) <!-- source: pdf=418; section=索引; unit=p0418_b001_u00; entry=idx0755 -->
+    - 使用带定时器中断的主循环控制（controlling using main loop with timer interrupt），[原书 168](ch06_zh.md#src-p188) <!-- source: pdf=418; section=索引; unit=p0418_b001_u00; entry=idx0756 -->
+    - 使用脉宽调制调光（dimming using pulse-width modulation），[原书 119](ch04_zh.md#src-p139)-[原书 121](ch04_zh.md#src-p141) <!-- source: pdf=418; section=索引; unit=p0418_b001_u00,p0418_b002_u00; entry=idx0757 -->
+    - 用于 LED 闪烁的外观接口（facade for blinking LED），[原书 100](ch04_zh.md#src-p120) <!-- source: pdf=418; section=索引; unit=p0418_b002_u00; entry=idx0758 -->
+    - 配置与闪烁 LED 的处理器无关代码（processor-independent code to configure and blink LED），[原书 97](ch04_zh.md#src-p117) <!-- source: pdf=418; section=索引; unit=p0418_b002_u00; entry=idx0759 -->
+    - 段式显示器中的 LED（in segmented displays），[原书 214](ch08_zh.md#src-p234) <!-- source: pdf=418; section=索引; unit=p0418_b002_u00; entry=idx0760 -->
+    - 翻转 LED 的最简单主循环（simplest main loop toggling an LED），[原书 167](ch06_zh.md#src-p187) <!-- source: pdf=418; section=索引; unit=p0418_b002_u00; entry=idx0761 -->
+    - 翻转（toggling），[原书 92](ch04_zh.md#src-p112)-[原书 96](ch04_zh.md#src-p116) <!-- source: pdf=418; section=索引; unit=p0418_b002_u00; entry=idx0762 -->
+        - 让 LED 闪烁（blinking the LED），[原书 95](ch04_zh.md#src-p115) <!-- source: pdf=418; section=索引; unit=p0418_b003_u00; entry=idx0763 -->
+        - 排查 LED 不亮的原因（troubleshooting why LED won't turn on），[原书 95](ch04_zh.md#src-p115) <!-- source: pdf=418; section=索引; unit=p0418_b003_u00,p0418_b004_u00; entry=idx0764 -->
+        - 点亮 LED（turning on the LED），[原书 94](ch04_zh.md#src-p114) <!-- source: pdf=418; section=索引; unit=p0418_b004_u00; entry=idx0765 -->
+        - 使用定时器（using a timer），[原书 111](ch04_zh.md#src-p131)-[原书 119](ch04_zh.md#src-p139) <!-- source: pdf=418; section=索引; unit=p0418_b004_u00; entry=idx0766 -->
+    - 出错时翻转（toggling on error condition），[原书 81](ch03_zh.md#src-p101) <!-- source: pdf=418; section=索引; unit=p0418_b004_u00; entry=idx0767 -->
+- 库（libraries），[原书 17](ch02_zh.md#src-p37), [原书 288](ch11_zh.md#src-p308) <!-- source: pdf=418; section=索引; unit=p0418_b004_u00; entry=idx0768 -->
+    - 更换库与适配器模式（changing, adapter pattern and），[原书 25](ch02_zh.md#src-p45) <!-- source: pdf=418; section=索引; unit=p0418_b005_u00; entry=idx0769 -->
+    - 由链接器合并为可执行文件（combined by linker into executable file），[原书 257](ch09_zh.md#src-p277) <!-- source: pdf=418; section=索引; unit=p0418_b005_u00; entry=idx0770 -->
+    - 将每个芯片视作独立的库（considering each chip as separate library），[原书 46](ch03_zh.md#src-p66) <!-- source: pdf=418; section=索引; unit=p0418_b005_u00; entry=idx0771 -->
+    - 错误处理库或日志库的优点（error or logging, advantages of），[原书 84](ch03_zh.md#src-p104) <!-- source: pdf=418; section=索引; unit=p0418_b005_u00; entry=idx0772 -->
+    - 利用外观模式简化使用（making easier to use with facade pattern），[原书 100](ch04_zh.md#src-p120) <!-- source: pdf=418; section=索引; unit=p0418_b005_u00,p0418_b006_u00; entry=idx0773 -->
+    - 减少库占用的代码空间（reducing in code space），[原书 291](ch11_zh.md#src-p311) <!-- source: pdf=418; section=索引; unit=p0418_b006_u00; entry=idx0774 -->
+    - 标准 C/C++ 库中的错误处理（standard C/C++ libraries, error handling in），[原书 83](ch03_zh.md#src-p103) <!-- source: pdf=418; section=索引; unit=p0418_b006_u00,p0418_b007_u00; entry=idx0775 -->
+    - 库中未使用的代码（unused code in），[原书 287](ch11_zh.md#src-p307) <!-- source: pdf=418; section=索引; unit=p0418_b007_u00; entry=idx0776 -->
+- 限位开关（limit switches），[原书 381](ch14_zh.md#src-p401) <!-- source: pdf=418; section=索引; unit=p0418_b007_u00; entry=idx0777 -->
+- 线性编码器（linear encoders），[原书 376](ch14_zh.md#src-p396) <!-- source: pdf=418; section=索引; unit=p0418_b007_u00; entry=idx0778 -->
+- 线性插值（linear interpolation），[原书 341](ch12_zh.md#src-p361) <!-- source: pdf=418; section=索引; unit=p0418_b007_u00; entry=idx0779 -->
+    - 用于显式查找表的点与点之间（using between points on explicit lookup table），[原书 343](ch12_zh.md#src-p363) <!-- source: pdf=418; section=索引; unit=p0418_b008_u00; entry=idx0780 -->
+- 直线电机（linear motors），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=418; section=索引; unit=p0418_b008_u00; entry=idx0781 -->
+- 链接寄存器（lr）（link register (lr)），[原书 259](ch09_zh.md#src-p279) <!-- source: pdf=418; section=索引; unit=p0418_b008_u00; entry=idx0782 -->
+- 链接器脚本（linker scripts），[原书 133](ch05_zh.md#src-p153) <!-- source: pdf=418; section=索引; unit=p0418_b008_u00; entry=idx0783 -->
+    - 延伸阅读（further reading on），[原书 262](ch09_zh.md#src-p282) <!-- source: pdf=418; section=索引; unit=p0418_b009_u00; entry=idx0784 -->
+    - 其中的堆与栈分配（heap and stack allocation in），[原书 297](ch11_zh.md#src-p317) <!-- source: pdf=418; section=索引; unit=p0418_b009_u00; entry=idx0785 -->
+    - 入门介绍（introduction to），[原书 257](ch09_zh.md#src-p277)-[原书 259](ch09_zh.md#src-p279) <!-- source: pdf=418; section=索引; unit=p0418_b009_u00; entry=idx0786 -->
+    - 修改脚本以覆盖复用 RAM 缓冲区（modifying to overlay RAM buffers），[原书 303](ch11_zh.md#src-p323) <!-- source: pdf=418; section=索引; unit=p0418_b009_u00; entry=idx0787 -->
+    - 阅读输出的映射文件（output map file, reading），[原书 286](ch11_zh.md#src-p306)-[原书 289](ch11_zh.md#src-p309) <!-- source: pdf=418; section=索引; unit=p0418_b009_u00; entry=idx0788 -->
+- 列表文件（.lst）（list files (.lst)），[原书 300](ch11_zh.md#src-p320) <!-- source: pdf=418; section=索引; unit=p0418_b009_u00; entry=idx0789 -->
+- 局部变量（local variables），[原书 127](ch05_zh.md#src-p147), [原书 246](ch09_zh.md#src-p266) <!-- source: pdf=418; section=索引; unit=p0418_b009_u00; entry=idx0790 -->
+    - 栈帧上的局部变量与函数调用（and function calls on stack frame），[原书 129](ch05_zh.md#src-p149), [原书 252](ch09_zh.md#src-p272) <!-- source: pdf=418; section=索引; unit=p0418_b010_u00; entry=idx0791 -->
+    - 局部变量消耗的 RAM（RAM consumed by），[原书 298](ch11_zh.md#src-p318) <!-- source: pdf=418; section=索引; unit=p0418_b010_u00; entry=idx0792 -->
+- 日志记录（logging） <!-- source: pdf=418; section=索引; unit=p0418_b010_u00; entry=idx0793 -->
+    - 运行时按子系统开启／关闭调试（turning debugging on/off per subsystem at runtime），[原书 294](ch11_zh.md#src-p314) <!-- source: pdf=418; section=索引; unit=p0418_b010_u00; entry=idx0794 -->
+- 日志接口（示例）（logging interface (example)），[原书 27](ch02_zh.md#src-p47)-[原书 34](ch02_zh.md#src-p54) <!-- source: pdf=418; section=索引; unit=p0418_b010_u00; entry=idx0795 -->
+    - 定义需求（defining requirements），[原书 27](ch02_zh.md#src-p47) <!-- source: pdf=418; section=索引; unit=p0418_b011_u00; entry=idx0796 -->
+    - 从需求到接口（from requirements to an interface），[原书 28](ch02_zh.md#src-p48) <!-- source: pdf=418; section=索引; unit=p0418_b011_u00; entry=idx0797 -->
+    - 共享私有全局变量（sharing private globals），[原书 33](ch02_zh.md#src-p53) <!-- source: pdf=418; section=索引; unit=p0418_b011_u00; entry=idx0798 -->
+    - 日志系统的状态（state of logging），[原书 30](ch02_zh.md#src-p50) <!-- source: pdf=418; section=索引; unit=p0418_b011_u00; entry=idx0799 -->
+    - 全局关闭日志系统（turning off logging system globally），[原书 29](ch02_zh.md#src-p49) <!-- source: pdf=418; section=索引; unit=p0418_b011_u00; entry=idx0800 -->
+    - 使用单例模式（using singleton pattern），[原书 32](ch02_zh.md#src-p52) <!-- source: pdf=418; section=索引; unit=p0418_b011_u00; entry=idx0801 -->
+- 逻辑分析仪（logic analyzers），[原书 67](ch03_zh.md#src-p87) <!-- source: pdf=418; section=索引; unit=p0418_b011_u00; entry=idx0802 -->
+- 逻辑运算符（logical operators），[原书 89](ch04_zh.md#src-p109) <!-- source: pdf=418; section=索引; unit=p0418_b011_u00; entry=idx0803 -->
+- 查找表（lookup tables），[原书 317](ch11_zh.md#src-p337), [原书 321](ch11_zh.md#src-p341), [原书 338](ch12_zh.md#src-p358)-[原书 344](ch12_zh.md#src-p364) <!-- source: pdf=418; section=索引; unit=p0418_b011_u00; entry=idx0804 -->
+    - 增加半步使结果居中（addition of half step to center result），[原书 340](ch12_zh.md#src-p360) <!-- source: pdf=418; section=索引; unit=p0418_b012_u00; entry=idx0805 -->
+    - 查找表中的线性插值（linear interpolation in），[原书 341](ch12_zh.md#src-p361) <!-- source: pdf=418; section=索引; unit=p0418_b012_u00; entry=idx0806 -->
+    - 输入范围与可接受误差（range of input and acceptable error），[原书 338](ch12_zh.md#src-p358) <!-- source: pdf=418; section=索引; unit=p0418_b012_u00; entry=idx0807 -->
+- 循环（loops） <!-- source: pdf=418; section=索引; unit=p0418_b012_u00; entry=idx0808 -->
+    - 减少循环中的运算（reducing math in），[原书 313](ch11_zh.md#src-p333) <!-- source: pdf=418; section=索引; unit=p0418_b012_u00; entry=idx0809 -->
+    - 循环展开（unrolling），[原书 315](ch11_zh.md#src-p335), [原书 321](ch11_zh.md#src-p341) <!-- source: pdf=418; section=索引; unit=p0418_b012_u00; entry=idx0810 -->
+
+<!-- source: pdf=418; section=索引; unit=p0418_b013_u00; entry=idx0811 -->
+## M
+
+- mA（见“毫安”）（mA (see milliamps)） <!-- source: pdf=418; section=索引; unit=p0418_b013_u01; entry=idx0812 -->
+- 机器学习（ML）（machine learning (ML)），[原书 351](ch12_zh.md#src-p371) <!-- source: pdf=418; section=索引; unit=p0418_b013_u01; entry=idx0813 -->
+- 宏（macros） <!-- source: pdf=418; section=索引; unit=p0418_b013_u01; entry=idx0814 -->
+    - 宏与函数：确定哪种更小（functions versus, determining which are smaller），[原书 292](ch11_zh.md#src-p312) <!-- source: pdf=418; section=索引; unit=p0418_b013_u01; entry=idx0815 -->
+    - 与函数比较的优化评分表（optimization scorecard versus functions），[原书 293](ch11_zh.md#src-p313) <!-- source: pdf=418; section=索引; unit=p0418_b013_u01,p0418_b014_u00; entry=idx0816 -->
+    - 在减少 RAM 占用中的作用（role in RAM reduction），[原书 301](ch11_zh.md#src-p321) <!-- source: pdf=418; section=索引; unit=p0418_b014_u00; entry=idx0817 -->
+- mAh（毫安时）（mAh (milliamp hours)），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=418; section=索引; unit=p0418_b014_u00; entry=idx0818 -->
+- 邮箱（mailboxes），[原书 154](ch06_zh.md#src-p174) <!-- source: pdf=418; section=索引; unit=p0418_b014_u00; entry=idx0819 -->
+- 主循环（main loops），[原书 99](ch04_zh.md#src-p119), [原书 166](ch06_zh.md#src-p186)-[原书 177](ch06_zh.md#src-p197), [原书 367](ch13_zh.md#src-p387) <!-- source: pdf=418; section=索引; unit=p0418_b014_u00; entry=idx0820 -->
+    - 主动对象（active objects），[原书 174](ch06_zh.md#src-p194)-[原书 177](ch06_zh.md#src-p197) <!-- source: pdf=418; section=索引; unit=p0418_b015_u00; entry=idx0821 -->
+    - 中断引发事件（interrupts causing events），[原书 171](ch06_zh.md#src-p191) <!-- source: pdf=418; section=索引; unit=p0418_b015_u00; entry=idx0822 -->
+    - 由中断完成全部工作（interrupts doing everything in），[原书 169](ch06_zh.md#src-p189)-[原书 171](ch06_zh.md#src-p191) <!-- source: pdf=418; section=索引; unit=p0418_b015_u00; entry=idx0823 -->
+    - 轮询与等待（polling and waiting），[原书 166](ch06_zh.md#src-p186)-[原书 167](ch06_zh.md#src-p187) <!-- source: pdf=418; section=索引; unit=p0418_b015_u00; entry=idx0824 -->
+    - 定时器中断（timer interrupt），[原书 168](ch06_zh.md#src-p188) <!-- source: pdf=418; section=索引; unit=p0418_b015_u00; entry=idx0825 -->
+    - 使用极小的调度器（using very small scheduler），[原书 173](ch06_zh.md#src-p193)-[原书 174](ch06_zh.md#src-p194) <!-- source: pdf=418; section=索引; unit=p0418_b015_u00; entry=idx0826 -->
+- malloc 函数（malloc function），[原书 32](ch02_zh.md#src-p52) <!-- source: pdf=418; section=索引; unit=p0418_b015_u00; entry=idx0827 -->
+    - 不可重入（nonreentrant），[原书 134](ch05_zh.md#src-p154) <!-- source: pdf=418; section=索引; unit=p0418_b016_u00; entry=idx0828 -->
+    - 移除 malloc（removing），[原书 295](ch11_zh.md#src-p315) <!-- source: pdf=418; section=索引; unit=p0418_b016_u00; entry=idx0829 -->
+- 制造（manufacturing），[原书 282](ch10_zh.md#src-p302) <!-- source: pdf=418; section=索引; unit=p0418_b016_u00; entry=idx0830 -->
+    - 制造过程中用于给电路板编程的连接器（connectors used to program boards in），[原书 64](ch03_zh.md#src-p84) <!-- source: pdf=418; section=索引; unit=p0418_b017_u00; entry=idx0831 -->
+    - 嵌入式系统的制造（of embedded systems），[原书 5](ch01_zh.md#src-p25) <!-- source: pdf=418; section=索引; unit=p0418_b017_u00; entry=idx0832 -->
+    - 高密度电路板设计中的制造错误（errors in dense board designs），[原书 65](ch03_zh.md#src-p85) <!-- source: pdf=418; section=索引; unit=p0418_b017_u00; entry=idx0833 -->
+    - 合同制造的延伸阅读（further reading on contract manufacturing），[原书 282](ch10_zh.md#src-p302) <!-- source: pdf=418; section=索引; unit=p0418_b017_u00,p0418_b018_u00; entry=idx0834 -->
+- 映射文件（map files） <!-- source: pdf=418; section=索引; unit=p0418_b018_u00; entry=idx0835 -->
+    - 与二进制文件一同提交（committing with binaries），[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=418; section=索引; unit=p0418_b018_u00; entry=idx0836 -->
+    - 阅读（reading），[原书 286](ch11_zh.md#src-p306)-[原书 289](ch11_zh.md#src-p309) <!-- source: pdf=418; section=索引; unit=p0418_b018_u00; entry=idx0837 -->
+    - 读取 RAM 相关信息（reading for information about RAM），[原书 296](ch11_zh.md#src-p316) <!-- source: pdf=418; section=索引; unit=p0418_b018_u00; entry=idx0838 -->
+- 屏蔽中断（masking interrupts），[原书 141](ch05_zh.md#src-p161) <!-- source: pdf=418; section=索引; unit=p0418_b018_u00; entry=idx0839 -->
+- 数学运算（math），[原书 323](ch12_zh.md#src-p343)-[原书 354](ch12_zh.md#src-p374) <!-- source: pdf=418; section=索引; unit=p0418_b018_u00; entry=idx0840 -->
+    - 准确度与精度（accuracy versus precision），[原书 323](ch12_zh.md#src-p343) <!-- source: pdf=418; section=索引; unit=p0418_b019_u00; entry=idx0841 -->
+    - 二进制与十六进制（binary and hexadecimal），[原书 87](ch04_zh.md#src-p107) <!-- source: pdf=419; section=索引; unit=p0419_b000_u00; entry=idx0842 -->
+    - 配置定时器所需的运算（to configure a timer），[原书 114](ch04_zh.md#src-p134) <!-- source: pdf=419; section=索引; unit=p0419_b000_u00; entry=idx0843 -->
+    - 设计算法与修改算法（designing and modifying algorithms），[原书 332](ch12_zh.md#src-p352)-[原书 344](ch12_zh.md#src-p364) <!-- source: pdf=419; section=索引; unit=p0419_b000_u00,p0419_b001_u00; entry=idx0844 -->
+    - 模拟浮点数（fake floating-point numbers），[原书 345](ch12_zh.md#src-p365)-[原书 351](ch12_zh.md#src-p371) <!-- source: pdf=419; section=索引; unit=p0419_b001_u00; entry=idx0845 -->
+    - 快速与缓慢的运算（fast and slow operations），[原书 324](ch12_zh.md#src-p344)-[原书 329](ch12_zh.md#src-p349) <!-- source: pdf=419; section=索引; unit=p0419_b001_u00; entry=idx0846 -->
+        - 平均值（averages），[原书 325](ch12_zh.md#src-p345)-[原书 329](ch12_zh.md#src-p349) <!-- source: pdf=419; section=索引; unit=p0419_b002_u00; entry=idx0847 -->
+    - 延伸阅读（further reading on），[原书 352](ch12_zh.md#src-p372) <!-- source: pdf=419; section=索引; unit=p0419_b002_u00; entry=idx0848 -->
+    - 为定时器目标中断频率进行计算（for goal interrupt frequency in timers），[原书 117](ch04_zh.md#src-p137) <!-- source: pdf=419; section=索引; unit=p0419_b002_u00; entry=idx0849 -->
+    - 面试题：处理很大的数（interview question, handling very large numbers），[原书 353](ch12_zh.md#src-p373) <!-- source: pdf=419; section=索引; unit=p0419_b002_u00; entry=idx0850 -->
+    - 机器学习（machine learning），[原书 351](ch12_zh.md#src-p371) <!-- source: pdf=419; section=索引; unit=p0419_b002_u00; entry=idx0851 -->
+    - 优化算法：查找答案（optimizing algorithms, looking up the answer），[原书 352](ch12_zh.md#src-p372) <!-- source: pdf=419; section=索引; unit=p0419_b002_u00; entry=idx0852 -->
+    - 减少循环中的运算（reducing in loops），[原书 313](ch11_zh.md#src-p333) <!-- source: pdf=419; section=索引; unit=p0419_b002_u00; entry=idx0853 -->
+    - 辅助 PID 控制的工具（tools to help with PID control），[原书 381](ch14_zh.md#src-p401) <!-- source: pdf=419; section=索引; unit=p0419_b002_u00; entry=idx0854 -->
+    - 使用已有算法（using an existing algorithm），[原书 329](ch12_zh.md#src-p349)-[原书 332](ch12_zh.md#src-p352) <!-- source: pdf=419; section=索引; unit=p0419_b002_u00; entry=idx0855 -->
+- 矩阵（matrices），[原书 212](ch08_zh.md#src-p232) <!-- source: pdf=419; section=索引; unit=p0419_b002_u00; entry=idx0856 -->
+    - 另见“Charlieplexing”（(see also Charlieplexing)） <!-- source: pdf=419; section=索引; unit=p0419_b003_u00; entry=idx0857 -->
+    - 按键矩阵（key），[原书 211](ch08_zh.md#src-p231)-[原书 213](ch08_zh.md#src-p233) <!-- source: pdf=419; section=索引; unit=p0419_b003_u00; entry=idx0858 -->
+    - LCD 矩阵（LCD），[原书 214](ch08_zh.md#src-p234) <!-- source: pdf=419; section=索引; unit=p0419_b003_u00; entry=idx0859 -->
+    - LED 矩阵（LED），[原书 214](ch08_zh.md#src-p234) <!-- source: pdf=419; section=索引; unit=p0419_b003_u00; entry=idx0860 -->
+- 均值（mean），[原书 327](ch12_zh.md#src-p347) <!-- source: pdf=419; section=索引; unit=p0419_b003_u00; entry=idx0861 -->
+    - 方差函数中的均值（in variance function），[原书 330](ch12_zh.md#src-p350) <!-- source: pdf=419; section=索引; unit=p0419_b004_u00; entry=idx0862 -->
+- 中位数（median average），[原书 327](ch12_zh.md#src-p347) <!-- source: pdf=419; section=索引; unit=p0419_b004_u00; entry=idx0863 -->
+- 内存（memory） <!-- source: pdf=419; section=索引; unit=p0419_b004_u00; entry=idx0864 -->
+    - 内存 bug（bugs in），[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=419; section=索引; unit=p0419_b004_u00; entry=idx0865 -->
+    - 直接存储器访问（direct memory access），[原书 199](ch07_zh.md#src-p219) <!-- source: pdf=419; section=索引; unit=p0419_b004_u00; entry=idx0866 -->
+    - 来自堆的动态分配内存（dynamically allocated, coming from heap），[原书 129](ch05_zh.md#src-p149) <!-- source: pdf=419; section=索引; unit=p0419_b004_u00,p0419_b005_u00; entry=idx0867 -->
+    - 错误的或未对齐的访问（incorrect or unaligned access），[原书 251](ch09_zh.md#src-p271) <!-- source: pdf=419; section=索引; unit=p0419_b005_u00; entry=idx0868 -->
+    - 减少内存使用的建议（reducing usage of, tips on），[原书 320](ch11_zh.md#src-p340) <!-- source: pdf=419; section=索引; unit=p0419_b005_u00; entry=idx0869 -->
+    - 返回指向栈内存的指针（returning pointer to stack memory），[原书 252](ch09_zh.md#src-p272) <!-- source: pdf=419; section=索引; unit=p0419_b005_u00; entry=idx0870 -->
+    - 吞吐量与缓冲（throughput and buffering），[原书 238](ch08_zh.md#src-p258) <!-- source: pdf=419; section=索引; unit=p0419_b005_u00; entry=idx0871 -->
+    - 内存时序（timing），[原书 309](ch11_zh.md#src-p329) <!-- source: pdf=419; section=索引; unit=p0419_b005_u00; entry=idx0872 -->
+    - 向内存地址零写入（writing to memory address zero），[原书 250](ch09_zh.md#src-p270) <!-- source: pdf=419; section=索引; unit=p0419_b005_u00; entry=idx0873 -->
+- 内存映射（memory maps），[原书 25](ch02_zh.md#src-p45), [原书 320](ch11_zh.md#src-p340) <!-- source: pdf=419; section=索引; unit=p0419_b005_u00; entry=idx0874 -->
+    - 另见“映射文件”（(see also map files)） <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0875 -->
+- 内存覆盖（memory overlays），[原书 302](ch11_zh.md#src-p322) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0876 -->
+- 存储器映射寄存器（memory-mapped registers），[原书 87](ch04_zh.md#src-p107), [原书 136](ch05_zh.md#src-p156) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0877 -->
+- 网状网络（mesh networks），[原书 266](ch10_zh.md#src-p286) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0878 -->
+- 消息泵（message pump），[原书 176](ch06_zh.md#src-p196) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0879 -->
+- 消息队列（message queues），[原书 154](ch06_zh.md#src-p174) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0880 -->
+- 元数据（metadata），[原书 226](ch08_zh.md#src-p246) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0881 -->
+- 微安（μA）（microamps (μA)），[原书 358](ch13_zh.md#src-p378), [原书 359](ch13_zh.md#src-p379) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0882 -->
+- 毫安时（mAh）（milliamp hours (mAh)），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0883 -->
+- 毫安（mA）（milliamps (mA)），[原书 66](ch03_zh.md#src-p86), [原书 357](ch13_zh.md#src-p377), [原书 359](ch13_zh.md#src-p379), [原书 360](ch13_zh.md#src-p380) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0884 -->
+- 混合信号示波器（mixed signal oscilloscopes），[原书 67](ch03_zh.md#src-p87) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0885 -->
+- 模型—视图—控制器（MVC）模式（model-view-controller (MVC) pattern），[原书 34](ch02_zh.md#src-p54)-[原书 37](ch02_zh.md#src-p57) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0886 -->
+- 调制解调器：连接（modems, connecting to），[原书 267](ch10_zh.md#src-p287) <!-- source: pdf=419; section=索引; unit=p0419_b006_u00; entry=idx0887 -->
+- 取模运算（modulo arithmetic），[原书 206](ch07_zh.md#src-p226), [原书 207](ch07_zh.md#src-p227), [原书 324](ch12_zh.md#src-p344) <!-- source: pdf=419; section=索引; unit=p0419_b007_u00; entry=idx0888 -->
+- 运动（motion） <!-- source: pdf=419; section=索引; unit=p0419_b007_u00; entry=idx0889 -->
+    - 运动方程（equations of），[原书 378](ch14_zh.md#src-p398) <!-- source: pdf=419; section=索引; unit=p0419_b007_u00; entry=idx0890 -->
+    - 加加速度及更高阶导数：jerk、snap、crackle 和 pop（jerk, snap, crackle, and pop），[原书 378](ch14_zh.md#src-p398) <!-- source: pdf=419; section=索引; unit=p0419_b007_u00; entry=idx0891 -->
+    - 运动曲线（profiles），[原书 382](ch14_zh.md#src-p402)-[原书 384](ch14_zh.md#src-p404) <!-- source: pdf=419; section=索引; unit=p0419_b007_u00; entry=idx0892 -->
+- 电机与运动（motors and movement），[原书 373](ch14_zh.md#src-p393)-[原书 388](ch14_zh.md#src-p408) <!-- source: pdf=419; section=索引; unit=p0419_b007_u00; entry=idx0893 -->
+    - 产生运动（creating movement），[原书 373](ch14_zh.md#src-p393)-[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=419; section=索引; unit=p0419_b008_u00; entry=idx0894 -->
+        - 电机的类型（types of motors），[原书 374](ch14_zh.md#src-p394) <!-- source: pdf=419; section=索引; unit=p0419_b009_u00; entry=idx0895 -->
+    - 使用 PWM 驱动简单的直流电机（driving simple DC motor with PWM），[原书 376](ch14_zh.md#src-p396)-[原书 379](ch14_zh.md#src-p399) <!-- source: pdf=419; section=索引; unit=p0419_b009_u00,p0419_b010_u00; entry=idx0896 -->
+    - 电机控制（motor control），[原书 379](ch14_zh.md#src-p399)-[原书 384](ch14_zh.md#src-p404) <!-- source: pdf=419; section=索引; unit=p0419_b010_u00; entry=idx0897 -->
+        - 运动曲线（motion profiles），[原书 382](ch14_zh.md#src-p402)-[原书 384](ch14_zh.md#src-p404) <!-- source: pdf=419; section=索引; unit=p0419_b011_u00; entry=idx0898 -->
+        - PID 控制（PID control），[原书 379](ch14_zh.md#src-p399)-[原书 382](ch14_zh.md#src-p402) <!-- source: pdf=419; section=索引; unit=p0419_b011_u00; entry=idx0899 -->
+    - 位置编码（position encoding），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=419; section=索引; unit=p0419_b011_u00; entry=idx0900 -->
+- 乘法（multiplication），[原书 324](ch12_zh.md#src-p344) <!-- source: pdf=419; section=索引; unit=p0419_b011_u00; entry=idx0901 -->
+    - 模拟浮点数的乘法（of fake floating-point numbers），[原书 349](ch12_zh.md#src-p369) <!-- source: pdf=419; section=索引; unit=p0419_b012_u00; entry=idx0902 -->
+- 互斥锁（mutexes），[原书 154](ch06_zh.md#src-p174), [原书 239](ch08_zh.md#src-p259) <!-- source: pdf=419; section=索引; unit=p0419_b012_u00; entry=idx0903 -->
+- 互斥（见“互斥锁”）（mutual exclusion (see mutexes)） <!-- source: pdf=419; section=索引; unit=p0419_b012_u00; entry=idx0904 -->
+- MVC（模型—视图—控制器）模式（MVC (model-view-controller) pattern），[原书 34](ch02_zh.md#src-p54)-[原书 37](ch02_zh.md#src-p57) <!-- source: pdf=419; section=索引; unit=p0419_b012_u00; entry=idx0905 -->
+
+<!-- source: pdf=419; section=索引; unit=p0419_b013_u00; entry=idx0906 -->
+## N
+
+- 嵌套中断（nested interrupts），[原书 128](ch05_zh.md#src-p148), [原书 138](ch05_zh.md#src-p158) <!-- source: pdf=419; section=索引; unit=p0419_b013_u01; entry=idx0907 -->
+- 联网（networking） <!-- source: pdf=419; section=索引; unit=p0419_b013_u01; entry=idx0908 -->
+    - 增加引导加载程序以进行代码更新（bootloader added to use for code updates），[原书 272](ch10_zh.md#src-p292) <!-- source: pdf=419; section=索引; unit=p0419_b013_u01,p0419_b014_u00; entry=idx0909 -->
+    - 通过调制解调器连接（connecting via modems），[原书 267](ch10_zh.md#src-p287) <!-- source: pdf=419; section=索引; unit=p0419_b014_u00; entry=idx0910 -->
+    - 连接方法（connection methodologies），[原书 264](ch10_zh.md#src-p284) <!-- source: pdf=419; section=索引; unit=p0419_b014_u00; entry=idx0911 -->
+    - 直接连接：以太网与 WiFi（direct connections, Ethernet and WiFi），[原书 265](ch10_zh.md#src-p285) <!-- source: pdf=419; section=索引; unit=p0419_b014_u00; entry=idx0912 -->
+    - 网络中的日常物品（everyday objects in networks），[原书 263](ch10_zh.md#src-p283) <!-- source: pdf=419; section=索引; unit=p0419_b014_u00; entry=idx0913 -->
+    - 延伸阅读（further reading），[原书 282](ch10_zh.md#src-p302) <!-- source: pdf=419; section=索引; unit=p0419_b014_u00; entry=idx0914 -->
+    - 通过网关（through a gateway），[原书 266](ch10_zh.md#src-p286) <!-- source: pdf=419; section=索引; unit=p0419_b014_u00; entry=idx0915 -->
+    - 通过网状网络（through a mesh），[原书 266](ch10_zh.md#src-p286) <!-- source: pdf=419; section=索引; unit=p0419_b014_u00; entry=idx0916 -->
+- 网络协议（networking protocols），[原书 265](ch10_zh.md#src-p285) <!-- source: pdf=419; section=索引; unit=p0419_b014_u00; entry=idx0917 -->
+- 半字节（nibbles），[原书 88](ch04_zh.md#src-p108) <!-- source: pdf=419; section=索引; unit=p0419_b014_u00; entry=idx0918 -->
+- 噪声（noise），[原书 228](ch08_zh.md#src-p248), [原书 230](ch08_zh.md#src-p250) <!-- source: pdf=419; section=索引; unit=p0419_b014_u00; entry=idx0919 -->
+    - 作为噪声的精度（precision as），[原书 324](ch12_zh.md#src-p344) <!-- source: pdf=419; section=索引; unit=p0419_b015_u00; entry=idx0920 -->
+- 不可屏蔽中断（NMI）（nonmaskable interrupts (NMIs)），[原书 128](ch05_zh.md#src-p148), [原书 248](ch09_zh.md#src-p268) <!-- source: pdf=419; section=索引; unit=p0419_b015_u00; entry=idx0921 -->
+- 不可重入函数（nonreentrant functions），[原书 134](ch05_zh.md#src-p154) <!-- source: pdf=419; section=索引; unit=p0419_b015_u00; entry=idx0922 -->
+- 非易失性存储器（nonvolatile memory），[原书 72](ch03_zh.md#src-p92), [原书 220](ch08_zh.md#src-p240) <!-- source: pdf=419; section=索引; unit=p0419_b015_u00; entry=idx0923 -->
+
+<!-- source: pdf=419; section=索引; unit=p0419_b016_u00; entry=idx0924 -->
+## O
+
+- 面向对象编程（object-oriented programming），[原书 3](ch01_zh.md#src-p23) <!-- source: pdf=419; section=索引; unit=p0419_b016_u01; entry=idx0925 -->
+    - 在 C 中进行（in C），[原书 31](ch02_zh.md#src-p51) <!-- source: pdf=419; section=索引; unit=p0419_b017_u00; entry=idx0926 -->
+    - 面向对象设计（object-oriented design），[原书 3](ch01_zh.md#src-p23) <!-- source: pdf=419; section=索引; unit=p0419_b017_u00; entry=idx0927 -->
+    - 单例模式（singleton pattern），[原书 32](ch02_zh.md#src-p52) <!-- source: pdf=419; section=索引; unit=p0419_b017_u00; entry=idx0928 -->
+    - 状态机实现（state machine implementation），[原书 160](ch06_zh.md#src-p180) <!-- source: pdf=419; section=索引; unit=p0419_b017_u00; entry=idx0929 -->
+- 差一错误（off-by-one errors），[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=419; section=索引; unit=p0419_b017_u00; entry=idx0930 -->
+- 欧姆符号（Ω）（Ohm symbol (Ω)），[原书 66](ch03_zh.md#src-p86) <!-- source: pdf=419; section=索引; unit=p0419_b017_u00; entry=idx0931 -->
+- 欧姆定律（Ohm’s law），[原书 356](ch13_zh.md#src-p376) <!-- source: pdf=419; section=索引; unit=p0419_b017_u00; entry=idx0932 -->
+- 1-wire 总线（1-wire bus），[原书 182](ch07_zh.md#src-p202), [原书 191](ch07_zh.md#src-p211) <!-- source: pdf=420; section=索引; unit=p0420_b000_u00; entry=idx0933 -->
+- 开放系统互连（见“OSI 模型”）（Open Systems Interconnection (see OSI model)） <!-- source: pdf=420; section=索引; unit=p0420_b000_u00; entry=idx0934 -->
+- 操作系统（operating systems），[原书 8](ch01_zh.md#src-p28) <!-- source: pdf=420; section=索引; unit=p0420_b000_u00; entry=idx0935 -->
+    - 另见“实时操作系统”（(see also real-time operating systems)） <!-- source: pdf=420; section=索引; unit=p0420_b001_u00; entry=idx0936 -->
+    - 操作系统的功能（functions of），[原书 151](ch06_zh.md#src-p171)-[原书 155](ch06_zh.md#src-p175) <!-- source: pdf=420; section=索引; unit=p0420_b001_u00; entry=idx0937 -->
+- 光学编码器（optical encoders），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=420; section=索引; unit=p0420_b001_u00; entry=idx0938 -->
+- 优化（optimizations），[原书 285](ch11_zh.md#src-p305)-[原书 322](ch11_zh.md#src-p342) <!-- source: pdf=420; section=索引; unit=p0420_b001_u00; entry=idx0939 -->
+    - 编译器优化（compiler），[原书 290](ch11_zh.md#src-p310) <!-- source: pdf=420; section=索引; unit=p0420_b002_u00; entry=idx0940 -->
+        - 限制变量作用域（limiting variable scope），[原书 299](ch11_zh.md#src-p319) <!-- source: pdf=420; section=索引; unit=p0420_b003_u00; entry=idx0941 -->
+        - 相关问题（problems with），[原书 244](ch09_zh.md#src-p264)-[原书 246](ch09_zh.md#src-p266) <!-- source: pdf=420; section=索引; unit=p0420_b003_u00; entry=idx0942 -->
+    - 向商科学生解释优化（explaining to a business major），[原书 316](ch11_zh.md#src-p336) <!-- source: pdf=420; section=索引; unit=p0420_b003_u00; entry=idx0943 -->
+    - 缩小代码（making code smaller），[原书 291](ch11_zh.md#src-p311)-[原书 294](ch11_zh.md#src-p314) <!-- source: pdf=420; section=索引; unit=p0420_b003_u00; entry=idx0944 -->
+        - 常量与字符串（constants and strings），[原书 294](ch11_zh.md#src-p314) <!-- source: pdf=420; section=索引; unit=p0420_b004_u00; entry=idx0945 -->
+        - 函数与宏（functions and macros），[原书 292](ch11_zh.md#src-p312) <!-- source: pdf=420; section=索引; unit=p0420_b004_u00; entry=idx0946 -->
+        - 库（libraries），[原书 291](ch11_zh.md#src-p311) <!-- source: pdf=420; section=索引; unit=p0420_b004_u00; entry=idx0947 -->
+    - 针对处理器周期进行优化（optimizing for processor cycles），[原书 308](ch11_zh.md#src-p328)-[原书 318](ch11_zh.md#src-p338) <!-- source: pdf=420; section=索引; unit=p0420_b004_u00; entry=idx0948 -->
+        - 使用汇编语言编程（coding in assembly language），[原书 318](ch11_zh.md#src-p338) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0949 -->
+        - 考虑指令（considering the instructions），[原书 312](ch11_zh.md#src-p332) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0950 -->
+        - 函数调用链（function chains），[原书 310](ch11_zh.md#src-p330)-[原书 312](ch11_zh.md#src-p332) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0951 -->
+        - 查找表（lookup tables），[原书 317](ch11_zh.md#src-p337) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0952 -->
+        - 循环展开（loop unrolling），[原书 315](ch11_zh.md#src-p335) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0953 -->
+        - 内存时序（memory timing），[原书 309](ch11_zh.md#src-p329) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0954 -->
+        - 减少循环中的运算（reducing math in loops），[原书 313](ch11_zh.md#src-p333) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0955 -->
+        - 变量大小（variable size），[原书 309](ch11_zh.md#src-p329) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0956 -->
+    - 针对处理器速度进行优化（optimizing for processor speed），[原书 363](ch13_zh.md#src-p383) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0957 -->
+    - 过早优化（premature），[原书 7](ch01_zh.md#src-p27) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0958 -->
+    - RAM 使用量（RAM use），[原书 295](ch11_zh.md#src-p315)-[原书 303](ch11_zh.md#src-p323) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0959 -->
+    - 资源优化方法（resource optimization techniques），[原书 285](ch11_zh.md#src-p305) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0960 -->
+    - 评分表示例（scorecard example），[原书 290](ch11_zh.md#src-p310) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0961 -->
+- 软件架构的组织结构图（organizational diagrams of software architecture），[原书 17](ch02_zh.md#src-p37), [原书 38](ch02_zh.md#src-p58) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0962 -->
+- 示波器（oscilloscopes），[原书 67](ch03_zh.md#src-p87) <!-- source: pdf=420; section=索引; unit=p0420_b005_u00; entry=idx0963 -->
+    - 对 I/O 线进行性能分析（profiling I/O lines on），[原书 304](ch11_zh.md#src-p324) <!-- source: pdf=420; section=索引; unit=p0420_b006_u00; entry=idx0964 -->
+    - 设置（setting up），[原书 67](ch03_zh.md#src-p87)-[原书 70](ch03_zh.md#src-p90) <!-- source: pdf=420; section=索引; unit=p0420_b006_u00; entry=idx0965 -->
+- OSI 模型（OSI model） <!-- source: pdf=420; section=索引; unit=p0420_b006_u00; entry=idx0966 -->
+    - 通信分层模型（layered model of communication），[原书 186](ch07_zh.md#src-p206) <!-- source: pdf=420; section=索引; unit=p0420_b006_u00; entry=idx0967 -->
+    - I²C 通信中的层（layers in I²C communication），[原书 190](ch07_zh.md#src-p210) <!-- source: pdf=420; section=索引; unit=p0420_b006_u00; entry=idx0968 -->
+    - 所需层次越多，实现越复杂（more layers needed, more complicated implementation），[原书 193](ch07_zh.md#src-p213) <!-- source: pdf=420; section=索引; unit=p0420_b006_u00; entry=idx0969 -->
+    - 物理层与数据链路层（physical and data link layers），[原书 185](ch07_zh.md#src-p205) <!-- source: pdf=420; section=索引; unit=p0420_b006_u00; entry=idx0970 -->
+- 输出（outputs），[原书 87](ch04_zh.md#src-p107) <!-- source: pdf=420; section=索引; unit=p0420_b006_u00; entry=idx0971 -->
+    - 将行连接配置为输出（configuring row connections as），[原书 212](ch08_zh.md#src-p232) <!-- source: pdf=420; section=索引; unit=p0420_b007_u00; entry=idx0972 -->
+    - 显示输出的矩阵连接（matrixing display outputs），[原书 214](ch08_zh.md#src-p234) <!-- source: pdf=420; section=索引; unit=p0420_b007_u00; entry=idx0973 -->
+    - 用于输出的行列矩阵与 Charlieplexing（row/column matrix and Charlieplexing used on），[原书 213](ch08_zh.md#src-p233) <!-- source: pdf=420; section=索引; unit=p0420_b007_u00; entry=idx0974 -->
+    - 翻转输出（toggling an output），[原书 92](ch04_zh.md#src-p112)-[原书 96](ch04_zh.md#src-p116) <!-- source: pdf=420; section=索引; unit=p0420_b007_u00; entry=idx0975 -->
+        - 将 I/O 引脚设置为输出（setting I/O pin as output），[原书 92](ch04_zh.md#src-p112) <!-- source: pdf=420; section=索引; unit=p0420_b008_u00; entry=idx0976 -->
+- 空中下载（OTA）更新（over-the-air (OTA) updates），[原书 272](ch10_zh.md#src-p292) <!-- source: pdf=420; section=索引; unit=p0420_b008_u00; entry=idx0977 -->
+
+<!-- source: pdf=420; section=索引; unit=p0420_b009_u00; entry=idx0978 -->
+## P
+
+- 并行通信（parallel communication），[原书 191](ch07_zh.md#src-p211)-[原书 192](ch07_zh.md#src-p212) <!-- source: pdf=420; section=索引; unit=p0420_b009_u01; entry=idx0979 -->
+- 寄生供电（parasitic power），[原书 191](ch07_zh.md#src-p211) <!-- source: pdf=420; section=索引; unit=p0420_b009_u01; entry=idx0980 -->
+- 奇偶校验（parity），[原书 185](ch07_zh.md#src-p205), [原书 187](ch07_zh.md#src-p207) <!-- source: pdf=420; section=索引; unit=p0420_b009_u01; entry=idx0981 -->
+- 按引用传递（passing by reference），[原书 298](ch11_zh.md#src-p318) <!-- source: pdf=420; section=索引; unit=p0420_b009_u01; entry=idx0982 -->
+- 按值传递（passing by value），[原书 298](ch11_zh.md#src-p318) <!-- source: pdf=420; section=索引; unit=p0420_b009_u01; entry=idx0983 -->
+- PCBA（印制电路板组装）（PCBA (printed circuit board assembly)），[原书 44](ch03_zh.md#src-p64) <!-- source: pdf=420; section=索引; unit=p0420_b009_u01; entry=idx0984 -->
+- PCB（印制电路板）（PCBs (printed circuit boards)），[原书 44](ch03_zh.md#src-p64) <!-- source: pdf=420; section=索引; unit=p0420_b009_u01; entry=idx0985 -->
+    - 印在板上的元件编号（component ID printed on），[原书 60](ch03_zh.md#src-p80) <!-- source: pdf=420; section=索引; unit=p0420_b010_u00; entry=idx0986 -->
+- 外设（peripherals） <!-- source: pdf=420; section=索引; unit=p0420_b010_u00; entry=idx0987 -->
+    - 与外设通信（communicating with），[原书 181](ch07_zh.md#src-p201)-[原书 210](ch07_zh.md#src-p230) <!-- source: pdf=420; section=索引; unit=p0420_b010_u00; entry=idx0988 -->
+        - 通信实践（communications in practice），[原书 195](ch07_zh.md#src-p215)-[原书 203](ch07_zh.md#src-p223) <!-- source: pdf=420; section=索引; unit=p0420_b011_u00; entry=idx0989 -->
+        - 串行通信（serial communication），[原书 181](ch07_zh.md#src-p201)-[原书 195](ch07_zh.md#src-p215) <!-- source: pdf=420; section=索引; unit=p0420_b011_u00; entry=idx0990 -->
+        - 使用循环缓冲区（using circular buffers），[原书 203](ch07_zh.md#src-p223)-[原书 209](ch07_zh.md#src-p229) <!-- source: pdf=420; section=索引; unit=p0420_b011_u00; entry=idx0991 -->
+    - 数据手册作为外设的 API 手册（datasheets as API manuals for），[原书 46](ch03_zh.md#src-p66) <!-- source: pdf=420; section=索引; unit=p0420_b011_u00; entry=idx0992 -->
+    - 中断（interrupts），[原书 127](ch05_zh.md#src-p147) <!-- source: pdf=420; section=索引; unit=p0420_b011_u00; entry=idx0993 -->
+        - 检查外设中断（checking for），[原书 137](ch05_zh.md#src-p157) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx0994 -->
+    - 外设专用的中断使能（peripheral-specific interrupt-enable），[原书 141](ch05_zh.md#src-p161) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx0995 -->
+    - 关闭外设（turning off），[原书 362](ch13_zh.md#src-p382) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx0996 -->
+- PID（比例、积分、微分）控制（PID (proportional, integral, and derivative) control），[原书 379](ch14_zh.md#src-p399)-[原书 382](ch14_zh.md#src-p402) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx0997 -->
+- 压电蜂鸣器（piezo buzzers），[原书 373](ch14_zh.md#src-p393) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx0998 -->
+- 乒乓缓冲区（ping-pong buffers），[原书 199](ch07_zh.md#src-p219), [原书 296](ch11_zh.md#src-p316) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx0999 -->
+- 引脚（pins） <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1000 -->
+    - 用作 PWM 输出（acting as PWM outputs），[原书 121](ch04_zh.md#src-p141) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1001 -->
+    - 为行列矩阵与 Charlieplexing 配置引脚（configuring for row/column matrix and Charlieplexing），[原书 212](ch08_zh.md#src-p232) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1002 -->
+    - 配置 I/O 引脚以触发中断（configuring I/O pin to trigger interrupt），[原书 104](ch04_zh.md#src-p124) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1003 -->
+    - 使用 I/O 处理代码配置（configuring using I/O handling code），[原书 98](ch04_zh.md#src-p118) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1004 -->
+    - 数据手册中的引脚描述（descriptions on datasheets），[原书 49](ch03_zh.md#src-p69) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1005 -->
+    - 输入或输出的数字状态（digital states of input or output），[原书 92](ch04_zh.md#src-p112) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1006 -->
+    - 输入引脚与上拉电阻（input, pull-up resistors），[原书 101](ch04_zh.md#src-p121) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1007 -->
+    - 使用电路板专用头文件修改引脚（modifications of, using board-specific header file），[原书 97](ch04_zh.md#src-p117) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1008 -->
+    - 各种可用封装的引脚排列（pinout for each type of package available），[原书 48](ch03_zh.md#src-p68) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1009 -->
+    - 将 I/O 引脚设为输出（setting I/O pin to be an output），[原书 92](ch04_zh.md#src-p112) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1010 -->
+    - 排查 LED 不亮的原因（troubleshooting why LED won't turn on），[原书 95](ch04_zh.md#src-p115) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1011 -->
+- 管道（pipelines），[原书 233](ch08_zh.md#src-p253), [原书 240](ch08_zh.md#src-p260) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1012 -->
+- 像素显示器（pixel displays），[原书 215](ch08_zh.md#src-p235)-[原书 220](ch08_zh.md#src-p240) <!-- source: pdf=420; section=索引; unit=p0420_b012_u00; entry=idx1013 -->
+    - 可变数据：使用享元模式与工厂模式（changeable data, flyweight and factory patterns for），[原书 218](ch08_zh.md#src-p238) <!-- source: pdf=420; section=索引; unit=p0420_b013_u00; entry=idx1014 -->
+    - 显示资源（display assets），[原书 215](ch08_zh.md#src-p235) <!-- source: pdf=420; section=索引; unit=p0420_b013_u00; entry=idx1015 -->
+- PLL（锁相环）时钟（PLL (phase lock loop) clocks），[原书 112](ch04_zh.md#src-p132) <!-- source: pdf=420; section=索引; unit=p0420_b013_u00; entry=idx1016 -->
+- 指针运算（pointer arithmetic），[原书 313](ch11_zh.md#src-p333) <!-- source: pdf=420; section=索引; unit=p0420_b013_u00; entry=idx1017 -->
+- 指针（pointers） <!-- source: pdf=420; section=索引; unit=p0420_b013_u00; entry=idx1018 -->
+    - 带多个指针的循环缓冲区（circular buffer with multiple pointers），[原书 208](ch07_zh.md#src-p228) <!-- source: pdf=420; section=索引; unit=p0420_b013_u00; entry=idx1019 -->
+    - 指针故障（failures of），[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=420; section=索引; unit=p0420_b013_u00; entry=idx1020 -->
+    - 通过指针传递参数（passing arguments by），[原书 298](ch11_zh.md#src-p318) <!-- source: pdf=420; section=索引; unit=p0420_b013_u00; entry=idx1021 -->
+    - 返回指向栈内存的指针（returning pointer to stack memory），[原书 252](ch09_zh.md#src-p272) <!-- source: pdf=420; section=索引; unit=p0420_b013_u00; entry=idx1022 -->
+    - Cortex-M 处理器中的栈指针（stack pointers in Cortex-M processor），[原书 255](ch09_zh.md#src-p275) <!-- source: pdf=420; section=索引; unit=p0420_b013_u00; entry=idx1023 -->
+    - 未初始化的指针（uninitialized），[原书 250](ch09_zh.md#src-p270) <!-- source: pdf=421; section=索引; unit=p0421_b000_u00; entry=idx1024 -->
+- 轮询（polling），[原书 103](ch04_zh.md#src-p123), [原书 143](ch05_zh.md#src-p163) <!-- source: pdf=421; section=索引; unit=p0421_b000_u00; entry=idx1025 -->
+    - 轮询矩阵按钮（of matrixed buttons），[原书 212](ch08_zh.md#src-p232) <!-- source: pdf=421; section=索引; unit=p0421_b001_u00; entry=idx1026 -->
+    - 主循环中的轮询与等待（and waiting in main loop），[原书 166](ch06_zh.md#src-p186) <!-- source: pdf=421; section=索引; unit=p0421_b001_u00; entry=idx1027 -->
+- 多项式（polynomials） <!-- source: pdf=421; section=索引; unit=p0421_b001_u00; entry=idx1028 -->
+    - 因式分解（factoring），[原书 332](ch12_zh.md#src-p352) <!-- source: pdf=421; section=索引; unit=p0421_b001_u00; entry=idx1029 -->
+    - 使用泰勒级数（using Taylor series with），[原书 333](ch12_zh.md#src-p353) <!-- source: pdf=421; section=索引; unit=p0421_b001_u00; entry=idx1030 -->
+- 位置编码（position encoding），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=421; section=索引; unit=p0421_b001_u00; entry=idx1031 -->
+- POST（上电自检）（POST (power-on self-test)），[原书 70](ch03_zh.md#src-p90) <!-- source: pdf=421; section=索引; unit=p0421_b001_u00; entry=idx1032 -->
+    - 闪存测试示例中的 POST（in flash test example），[原书 73](ch03_zh.md#src-p93) <!-- source: pdf=421; section=索引; unit=p0421_b002_u00; entry=idx1033 -->
+- 功率与功耗（power），[原书 355](ch13_zh.md#src-p375)-[原书 371](ch13_zh.md#src-p391) <!-- source: pdf=421; section=索引; unit=p0421_b002_u00; entry=idx1034 -->
+    - 电机的功耗（consumption by motors），[原书 377](ch14_zh.md#src-p397) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1035 -->
+    - 产生转矩需要大电流（generation of torque, high current requirement），[原书 377](ch14_zh.md#src-p397) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1036 -->
+    - 带内部上拉的输入（inputs with internal pull-ups），[原书 101](ch04_zh.md#src-p121) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1037 -->
+    - 寄生供电（parasitic），[原书 191](ch07_zh.md#src-p211) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1038 -->
+    - 功耗分析工具（profiler tools），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1039 -->
+    - 通过让处理器睡眠来降低功耗（reducing consumption by putting the processor to sleep），[原书 364](ch13_zh.md#src-p384)-[原书 370](ch13_zh.md#src-p390) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1040 -->
+        - 避免频繁唤醒（avoiding frequent wake-ups），[原书 369](ch13_zh.md#src-p389) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1041 -->
+        - 协同工作的处理器（chained processors），[原书 370](ch13_zh.md#src-p390) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1042 -->
+        - 在主循环中处理中断（handling interrupts in main loop），[原书 367](ch13_zh.md#src-p387) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1043 -->
+        - 基于中断的代码流程模型（interrupt-based code flow model），[原书 366](ch13_zh.md#src-p386) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1044 -->
+        - 处理器看门狗（processor watchdog），[原书 369](ch13_zh.md#src-p389) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1045 -->
+    - 关闭元件或降低元件的耗电（turning off or reducing power drain from components），[原书 361](ch13_zh.md#src-p381)-[原书 364](ch13_zh.md#src-p384) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1046 -->
+        - 处理精度不同的多个时钟源（dealing with multiple clock sources of different accuracies），[原书 363](ch13_zh.md#src-p383) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1047 -->
+        - 降速以节省能量（slowing down to conserve energy），[原书 363](ch13_zh.md#src-p383) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1048 -->
+        - 关闭外设（turning off peripherals），[原书 362](ch13_zh.md#src-p382) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1049 -->
+        - 关闭处理器子系统（turning off processor subsystems），[原书 363](ch13_zh.md#src-p383) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1050 -->
+        - 关闭未使用的 I/O（turning off unused I/O devices），[原书 362](ch13_zh.md#src-p382) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00; entry=idx1051 -->
+    - 理解功耗（understanding power consumption），[原书 356](ch13_zh.md#src-p376)-[原书 361](ch13_zh.md#src-p381) <!-- source: pdf=421; section=索引; unit=p0421_b003_u00,p0421_b004_u00; entry=idx1052 -->
+        - 面向低功耗的设计（designing for lower power consumption），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=421; section=索引; unit=p0421_b004_u00,p0421_b005_u00; entry=idx1053 -->
+        - 测量功耗（measuring power consumption），[原书 357](ch13_zh.md#src-p377) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1054 -->
+        - 测量功率的公式（measuring power, equations for），[原书 356](ch13_zh.md#src-p376) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1055 -->
+- 掉电设置（处理器）（power down setting (processors)），[原书 365](ch13_zh.md#src-p385) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1056 -->
+- 电源（power supply） <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1057 -->
+    - 数字电源（digital），[原书 359](ch13_zh.md#src-p379) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1058 -->
+    - 用电源测量电流（measuring current with），[原书 357](ch13_zh.md#src-p377) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1059 -->
+- 系统的上电行为（power-on behavior of systems），[原书 10](ch01_zh.md#src-p30) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1060 -->
+- 上电自检（POST）（power-on self-test (POST)），[原书 70](ch03_zh.md#src-p90) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1061 -->
+- 精度（precision） <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1062 -->
+    - 与准确度的区别（accuracy versus），[原书 323](ch12_zh.md#src-p343) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1063 -->
+    - 模拟浮点数的精度（of fake floating-point numbers），[原书 347](ch12_zh.md#src-p367) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1064 -->
+    - 模拟浮点数加法和乘法中的精度不足（lack of in addition and multiplication of fake floating-point numbers），[原书 351](ch12_zh.md#src-p371) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1065 -->
+    - 查找表的精度随步长变化（lookup table, changed by step size），[原书 339](ch12_zh.md#src-p359) <!-- source: pdf=421; section=索引; unit=p0421_b005_u00; entry=idx1066 -->
+    - 正弦查找表的精度（sine lookup table），[原书 339](ch12_zh.md#src-p359) <!-- source: pdf=421; section=索引; unit=p0421_b006_u00; entry=idx1067 -->
+- 抢占式调度（preemptive scheduling），[原书 173](ch06_zh.md#src-p193) <!-- source: pdf=421; section=索引; unit=p0421_b006_u00; entry=idx1068 -->
+- 预分频寄存器（prescaler register），[原书 112](ch04_zh.md#src-p132), [原书 113](ch04_zh.md#src-p133) <!-- source: pdf=421; section=索引; unit=p0421_b006_u00; entry=idx1069 -->
+    - 根据目标中断频率计算（calculating for goal interrupt frequency），[原书 116](ch04_zh.md#src-p136) <!-- source: pdf=421; section=索引; unit=p0421_b007_u00; entry=idx1070 -->
+- 印制电路板组装（PCBA）（printed circuit board assembly (PCBA)），[原书 44](ch03_zh.md#src-p64) <!-- source: pdf=421; section=索引; unit=p0421_b007_u00; entry=idx1071 -->
+    - 测试（testing），[原书 45](ch03_zh.md#src-p65) <!-- source: pdf=421; section=索引; unit=p0421_b008_u00; entry=idx1072 -->
+- 印制电路板（PCB）（printed circuit boards (PCBs)），[原书 44](ch03_zh.md#src-p64) <!-- source: pdf=421; section=索引; unit=p0421_b008_u00; entry=idx1073 -->
+- printf 函数（printf function），[原书 29](ch02_zh.md#src-p49) <!-- source: pdf=421; section=索引; unit=p0421_b008_u00; entry=idx1074 -->
+    - 通过 printf 调试（debugging via），[原书 4](ch01_zh.md#src-p24) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1075 -->
+    - 浮点数处理（floating-point handling in），[原书 346](ch12_zh.md#src-p366) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1076 -->
+    - 不可重入（nonreentrant），[原书 134](ch05_zh.md#src-p154) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1077 -->
+    - 用不接收可变参数的函数替代（replacing with functions that don't take variable arguments），[原书 291](ch11_zh.md#src-p311) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1078 -->
+- 优先级反转（priority inversion），[原书 138](ch05_zh.md#src-p158), [原书 154](ch06_zh.md#src-p174) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1079 -->
+- 面向隐私的设计（privacy, designing for），[原书 272](ch10_zh.md#src-p292) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1080 -->
+- 处理器（processors） <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1081 -->
+    - 密码学硬件加速（cryptographic hardware acceleration），[原书 270](ch10_zh.md#src-p290) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1082 -->
+    - 直接存储器访问（direct memory access），[原书 199](ch07_zh.md#src-p219) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1083 -->
+    - 了解处理器（learning about），[原书 56](ch03_zh.md#src-p76)-[原书 58](ch03_zh.md#src-p78) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1084 -->
+    - 针对处理器周期进行优化（optimizing for processor cycles），[原书 308](ch11_zh.md#src-p328)-[原书 318](ch11_zh.md#src-p338) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00; entry=idx1085 -->
+    - 降低功耗与成本的压力（pressures to decrease power usage and cost），[原书 355](ch13_zh.md#src-p375) <!-- source: pdf=421; section=索引; unit=p0421_b009_u00,p0421_b010_u00; entry=idx1086 -->
+    - 为小型处理器编程（programming small processor），[原书 177](ch06_zh.md#src-p197) <!-- source: pdf=421; section=索引; unit=p0421_b010_u00; entry=idx1087 -->
+    - 让处理器睡眠（putting to sleep），[原书 364](ch13_zh.md#src-p384)-[原书 370](ch13_zh.md#src-p390) <!-- source: pdf=421; section=索引; unit=p0421_b010_u00; entry=idx1088 -->
+        - 协同工作的处理器（chained processors），[原书 370](ch13_zh.md#src-p390) <!-- source: pdf=421; section=索引; unit=p0421_b011_u00; entry=idx1089 -->
+        - 处理器的各种睡眠选择（range of processor sleep possibilities），[原书 365](ch13_zh.md#src-p385) <!-- source: pdf=421; section=索引; unit=p0421_b011_u00; entry=idx1090 -->
+    - 置位寄存器与清位寄存器（register to set and register to clear），[原书 141](ch05_zh.md#src-p161) <!-- source: pdf=421; section=索引; unit=p0421_b011_u00; entry=idx1091 -->
+    - 描述故障的寄存器（registers describing faults），[原书 255](ch09_zh.md#src-p275) <!-- source: pdf=421; section=索引; unit=p0421_b011_u00; entry=idx1092 -->
+    - 复位（resets），[原书 82](ch03_zh.md#src-p102), [原书 127](ch05_zh.md#src-p147), [原书 164](ch06_zh.md#src-p184), [原书 377](ch14_zh.md#src-p397), [原书 385](ch14_zh.md#src-p405) <!-- source: pdf=421; section=索引; unit=p0421_b011_u00; entry=idx1093 -->
+    - 带 LED 与按钮的处理器原理图（schematic with LED and a button），[原书 100](ch04_zh.md#src-p120) <!-- source: pdf=421; section=索引; unit=p0421_b011_u00; entry=idx1094 -->
+    - 连接 LED 的处理器原理图（schematics of processor with LED attached），[原书 92](ch04_zh.md#src-p112) <!-- source: pdf=421; section=索引; unit=p0421_b011_u00,p0421_b012_u00; entry=idx1095 -->
+    - 与软件 API 的相似性（similarity to software APIs），[原书 126](ch05_zh.md#src-p146) <!-- source: pdf=421; section=索引; unit=p0421_b012_u00; entry=idx1096 -->
+    - 关闭处理器子系统（turning off processor subsystems），[原书 363](ch13_zh.md#src-p383) <!-- source: pdf=421; section=索引; unit=p0421_b012_u00; entry=idx1097 -->
+- 曲线（运动）（profiles (motion)），[原书 382](ch14_zh.md#src-p402) <!-- source: pdf=421; section=索引; unit=p0421_b012_u00; entry=idx1098 -->
+- 性能分析（profiling），[原书 304](ch11_zh.md#src-p324)-[原书 308](ch11_zh.md#src-p328) <!-- source: pdf=421; section=索引; unit=p0421_b012_u00; entry=idx1099 -->
+    - 功耗分析工具（power profiler tools），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1100 -->
+    - 使用 I/O 线与示波器（using I/O lines and an O-scope），[原书 304](ch11_zh.md#src-p324) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1101 -->
+    - 使用采样分析器（using sampling profiler），[原书 308](ch11_zh.md#src-p328) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1102 -->
+    - 使用定时器分析器 1（函数计时器）（using timer profiler 1 (function timer)），[原书 305](ch11_zh.md#src-p325) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1103 -->
+    - 使用定时器分析器 2（响应计时器）（using timer profiler 2 (response timer)），[原书 307](ch11_zh.md#src-p327) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1104 -->
+- 程序设置的断点（programmatic breakpoints），[原书 82](ch03_zh.md#src-p102) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1105 -->
+- 项目：理想的进度表示例（projects, ideal schedule example），[原书 41](ch03_zh.md#src-p61) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1106 -->
+- 比例、积分与微分（见“PID 控制”）（proportional, integral, and derivative (see PID control)） <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1107 -->
+- 设备配置（provisioning），[原书 282](ch10_zh.md#src-p302) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1108 -->
+- 发布／订阅模式（publish/subscribe pattern），[原书 147](ch05_zh.md#src-p167) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1109 -->
+- 下拉（pull-downs），[原书 62](ch03_zh.md#src-p82), [原书 362](ch13_zh.md#src-p382) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1110 -->
+- 上拉（pull-ups），[原书 61](ch03_zh.md#src-p81), [原书 362](ch13_zh.md#src-p382) <!-- source: pdf=421; section=索引; unit=p0421_b013_u00; entry=idx1111 -->
+    - 内部上拉（internal），[原书 101](ch04_zh.md#src-p121) <!-- source: pdf=421; section=索引; unit=p0421_b014_u00; entry=idx1112 -->
+    - 列连接上的内部上拉电阻（internal pull-up resistors on column connections），[原书 212](ch08_zh.md#src-p232) <!-- source: pdf=422; section=索引; unit=p0422_b000_u00; entry=idx1113 -->
+- 脉宽调制（PWM）（pulse-width modulation (PWM)），[原书 119](ch04_zh.md#src-p139)-[原书 121](ch04_zh.md#src-p141), [原书 374](ch14_zh.md#src-p394) <!-- source: pdf=422; section=索引; unit=p0422_b000_u00; entry=idx1114 -->
+    - 使用 PWM 驱动简单的直流电机（driving simple DC motor with），[原书 376](ch14_zh.md#src-p396)-[原书 379](ch14_zh.md#src-p399) <!-- source: pdf=422; section=索引; unit=p0422_b001_u00; entry=idx1115 -->
+    - 占空比（duty cycle），[原书 380](ch14_zh.md#src-p400) <!-- source: pdf=422; section=索引; unit=p0422_b001_u00; entry=idx1116 -->
+    - 用 PWM 线连接电机的电机系统（motor system with PWM lines to a motor），[原书 376](ch14_zh.md#src-p396) <!-- source: pdf=422; section=索引; unit=p0422_b001_u00,p0422_b002_u00; entry=idx1117 -->
+- 将图像转换为 C 代码的 Python 脚本（Python scripts to turn images into C code），[原书 221](ch08_zh.md#src-p241) <!-- source: pdf=422; section=索引; unit=p0422_b002_u00; entry=idx1118 -->
+
+<!-- source: pdf=422; section=索引; unit=p0422_b003_u00; entry=idx1119 -->
+## Q
+
+- 四线 SPI 总线（quad SPI bus），[原书 192](ch07_zh.md#src-p212) <!-- source: pdf=422; section=索引; unit=p0422_b003_u01; entry=idx1120 -->
+- 质量保证（quality assurance），[原书 7](ch01_zh.md#src-p27) <!-- source: pdf=422; section=索引; unit=p0422_b003_u01; entry=idx1121 -->
+
+<!-- source: pdf=422; section=索引; unit=p0422_b004_u00; entry=idx1122 -->
+## R
+
+- 竞态条件（race conditions） <!-- source: pdf=422; section=索引; unit=p0422_b004_u01; entry=idx1123 -->
+    - 避免竞态（avoiding），[原书 154](ch06_zh.md#src-p174) <!-- source: pdf=422; section=索引; unit=p0422_b004_u01; entry=idx1124 -->
+    - 临界区中的竞态（in critical sections），[原书 138](ch05_zh.md#src-p158) <!-- source: pdf=422; section=索引; unit=p0422_b004_u01; entry=idx1125 -->
+    - 共享内存中的竞态（in shared memory），[原书 152](ch06_zh.md#src-p172) <!-- source: pdf=422; section=索引; unit=p0422_b004_u01; entry=idx1126 -->
+- RAM，[原书 129](ch05_zh.md#src-p149), [原书 295](ch11_zh.md#src-p315)-[原书 303](ch11_zh.md#src-p323) <!-- source: pdf=422; section=索引; unit=p0422_b004_u01; entry=idx1127 -->
+    - 依赖注入消耗的 RAM（consumed by dependency injection），[原书 110](ch04_zh.md#src-p130) <!-- source: pdf=422; section=索引; unit=p0422_b005_u00; entry=idx1128 -->
+    - 寄存器与局部变量消耗的 RAM（consumed by registers and local variables），[原书 298](ch11_zh.md#src-p318)-[原书 300](ch11_zh.md#src-p320) <!-- source: pdf=422; section=索引; unit=p0422_b005_u00,p0422_b006_u00; entry=idx1129 -->
+    - 将关键函数复制到零等待状态 RAM（copying critical function to zero wait state RAM），[原书 309](ch11_zh.md#src-p329) <!-- source: pdf=422; section=索引; unit=p0422_b006_u00; entry=idx1130 -->
+    - 让两个子系统共享 RAM 以释放空间（freeing by having two subsystems share it），[原书 285](ch11_zh.md#src-p305) <!-- source: pdf=422; section=索引; unit=p0422_b006_u00,p0422_b007_u00; entry=idx1131 -->
+    - RAM 中的函数调用链（function chains in），[原书 300](ch11_zh.md#src-p320) <!-- source: pdf=422; section=索引; unit=p0422_b007_u00; entry=idx1132 -->
+    - RAM 中的全局变量（global variables in），[原书 302](ch11_zh.md#src-p322) <!-- source: pdf=422; section=索引; unit=p0422_b007_u00; entry=idx1133 -->
+        - 节省 RAM（saving on RAM），[原书 302](ch11_zh.md#src-p322) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1134 -->
+    - 存放在 RAM 中的查找表（lookup tables based in），[原书 317](ch11_zh.md#src-p337) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1135 -->
+    - 显示堆指针与栈指针的系统内存映射（memory map of system showing heap and stack pointers），[原书 129](ch05_zh.md#src-p149) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1136 -->
+    - 内存覆盖（memory overlays），[原书 302](ch11_zh.md#src-p322) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1137 -->
+    - 用作临时存储的片外 RAM（off-chip RAM for temporary storage），[原书 237](ch08_zh.md#src-p257) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1138 -->
+    - 阅读映射文件了解 RAM（reading map file for information on），[原书 296](ch11_zh.md#src-p316) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1139 -->
+    - 移除 malloc（removing malloc），[原书 295](ch11_zh.md#src-p315) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1140 -->
+    - 在本地 RAM 中存储错误数据（storing error data locally in），[原书 84](ch03_zh.md#src-p104) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1141 -->
+    - 关闭外部 RAM（turning off external RAM），[原书 362](ch13_zh.md#src-p382) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1142 -->
+    - 向 RAM 写入核心转储（writing core dumps to），[原书 256](ch09_zh.md#src-p276) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1143 -->
+- 实时时钟（RTC）（real-time clock (RTC)），[原书 226](ch08_zh.md#src-p246) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1144 -->
+- 实时操作系统（RTOS）（real-time operating systems (RTOS)），[原书 8](ch01_zh.md#src-p28), [原书 154](ch06_zh.md#src-p174) <!-- source: pdf=422; section=索引; unit=p0422_b008_u00; entry=idx1145 -->
+    - 调度器（scheduler），[原书 173](ch06_zh.md#src-p193) <!-- source: pdf=422; section=索引; unit=p0422_b009_u00; entry=idx1146 -->
+- 重新启动的原因（reboots, cause for），[原书 281](ch10_zh.md#src-p301) <!-- source: pdf=422; section=索引; unit=p0422_b009_u00; entry=idx1147 -->
+- 红区中的缓冲区（red zones, buffers in），[原书 261](ch09_zh.md#src-p281) <!-- source: pdf=422; section=索引; unit=p0422_b009_u00; entry=idx1148 -->
+- 可重入函数（reentrant functions），[原书 134](ch05_zh.md#src-p154), [原书 302](ch11_zh.md#src-p322) <!-- source: pdf=422; section=索引; unit=p0422_b009_u00; entry=idx1149 -->
+- register 关键字（register keyword），[原书 298](ch11_zh.md#src-p318) <!-- source: pdf=422; section=索引; unit=p0422_b009_u00; entry=idx1150 -->
+- 寄存器（registers），[原书 87](ch04_zh.md#src-p107)-[原书 91](ch04_zh.md#src-p111) <!-- source: pdf=422; section=索引; unit=p0422_b009_u00; entry=idx1151 -->
+    - 通过结构体访问（accessing through a structure），[原书 94](ch04_zh.md#src-p114) <!-- source: pdf=422; section=索引; unit=p0422_b010_u00; entry=idx1152 -->
+    - 寄存器的二进制与十六进制运算（binary and hexadecimal math with），[原书 87](ch04_zh.md#src-p107) <!-- source: pdf=422; section=索引; unit=p0422_b010_u00; entry=idx1153 -->
+    - 位运算（bitwise operations），[原书 89](ch04_zh.md#src-p109) <!-- source: pdf=422; section=索引; unit=p0422_b011_u00; entry=idx1154 -->
+    - 调用 ISR 前保存寄存器内容（contents saved before calling ISRs），[原书 130](ch05_zh.md#src-p150) <!-- source: pdf=422; section=索引; unit=p0422_b011_u00; entry=idx1155 -->
+    - 故障状态寄存器（fault status），[原书 255](ch09_zh.md#src-p275) <!-- source: pdf=422; section=索引; unit=p0422_b011_u00; entry=idx1156 -->
+    - 链接寄存器（link register），[原书 259](ch09_zh.md#src-p279) <!-- source: pdf=422; section=索引; unit=p0422_b011_u00; entry=idx1157 -->
+    - 存储器映射寄存器：用于设置中断（memory mapped, use in setting up interrupts），[原书 140](ch05_zh.md#src-p160) <!-- source: pdf=422; section=索引; unit=p0422_b011_u00; entry=idx1158 -->
+    - 预分频寄存器（prescaler），[原书 112](ch04_zh.md#src-p132) <!-- source: pdf=422; section=索引; unit=p0422_b011_u00; entry=idx1159 -->
+    - 读取、修改并写回寄存器值（reading, modifying, and writing back register value），[原书 93](ch04_zh.md#src-p113) <!-- source: pdf=422; section=索引; unit=p0422_b011_u00; entry=idx1160 -->
+    - 写入间接寄存器（writing an indirect register），[原书 136](ch05_zh.md#src-p156) <!-- source: pdf=422; section=索引; unit=p0422_b011_u00; entry=idx1161 -->
+- 复现 bug（reproducing the bug），[原书 246](ch09_zh.md#src-p266) <!-- source: pdf=422; section=索引; unit=p0422_b011_u00; entry=idx1162 -->
+- 电阻（resistance），[原书 61](ch03_zh.md#src-p81) <!-- source: pdf=422; section=索引; unit=p0422_b011_u00; entry=idx1163 -->
+    - 测定电路板上两点之间的电阻（determining between two points on a board），[原书 66](ch03_zh.md#src-p86) <!-- source: pdf=422; section=索引; unit=p0422_b012_u00,p0422_b013_u00; entry=idx1164 -->
+    - 减小电阻（reducing），[原书 357](ch13_zh.md#src-p377) <!-- source: pdf=422; section=索引; unit=p0422_b013_u00; entry=idx1165 -->
+- 电阻测量模式（DMM）（resistance check mode (of DMM)），[原书 66](ch03_zh.md#src-p86) <!-- source: pdf=422; section=索引; unit=p0422_b013_u00; entry=idx1166 -->
+- 电阻器（resistors），[原书 61](ch03_zh.md#src-p81) <!-- source: pdf=422; section=索引; unit=p0422_b013_u00; entry=idx1167 -->
+    - 变化的电流与数量级问题（changing current and orders of magnitude problem），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1168 -->
+    - 连接到处理器与电源的电阻器（connected to the processor and power），[原书 61](ch03_zh.md#src-p81) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1169 -->
+    - 将电路作为电阻测量（electrical circuits measured as），[原书 356](ch13_zh.md#src-p376) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1170 -->
+    - 输入引脚中的内部上拉电阻（internal pull-up resistors in input pins），[原书 101](ch04_zh.md#src-p121) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1171 -->
+    - 电阻器的功耗（power consumption by），[原书 359](ch13_zh.md#src-p379) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1172 -->
+    - 使用串联电阻测量系统电流（using resistor in series to measure current in a system），[原书 358](ch13_zh.md#src-p378) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1173 -->
+- 响应时间：系统响应按钮按下（response times, system responding to button press），[原书 102](ch04_zh.md#src-p122) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1174 -->
+- 风险分析（risk analysis），[原书 271](ch10_zh.md#src-p291) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1175 -->
+- RLE（游程编码）（RLE (run-length encoding)），[原书 216](ch08_zh.md#src-p236) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1176 -->
+- 面向健壮性的设计（robustness, designing for），[原书 272](ch10_zh.md#src-p292) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1177 -->
+- .rodata 段（映射文件）（.rodata section (map files)），[原书 289](ch11_zh.md#src-p309) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1178 -->
+- 滚动平均（rolling average），[原书 325](ch12_zh.md#src-p345) <!-- source: pdf=422; section=索引; unit=p0422_b014_u00; entry=idx1179 -->
+    - 与累积平均及中位数的比较（cumulative and median averages versus），[原书 327](ch12_zh.md#src-p347) <!-- source: pdf=422; section=索引; unit=p0422_b015_u00; entry=idx1180 -->
+    - 截断导致的失效（truncation failure in），[原书 328](ch12_zh.md#src-p348) <!-- source: pdf=422; section=索引; unit=p0422_b015_u00; entry=idx1181 -->
+- 旋转编码器（rotary encoders），[原书 376](ch14_zh.md#src-p396) <!-- source: pdf=422; section=索引; unit=p0422_b015_u00; entry=idx1182 -->
+- 行列扫描（row/column scans），[原书 211](ch08_zh.md#src-p231), [原书 214](ch08_zh.md#src-p234) <!-- source: pdf=422; section=索引; unit=p0422_b015_u00; entry=idx1183 -->
+- RS-232 串行通信（RS-232 serial），[原书 185](ch07_zh.md#src-p205) <!-- source: pdf=422; section=索引; unit=p0422_b015_u00; entry=idx1184 -->
+    - 不足之处（deficiencies of），[原书 187](ch07_zh.md#src-p207) <!-- source: pdf=422; section=索引; unit=p0422_b016_u00; entry=idx1185 -->
+- RS-485 协议（RS-485 protocol），[原书 194](ch07_zh.md#src-p214) <!-- source: pdf=422; section=索引; unit=p0422_b016_u00; entry=idx1186 -->
+- RSA、DES 与 AES 加密算法（RSA, DES, and AES encryption algorithms），[原书 271](ch10_zh.md#src-p291) <!-- source: pdf=422; section=索引; unit=p0422_b016_u00; entry=idx1187 -->
+- RTC（见“实时时钟”）（RTC (see real-time clock)） <!-- source: pdf=422; section=索引; unit=p0422_b016_u00; entry=idx1188 -->
+- RTOS（见“实时操作系统”）（RTOS (see real-time operating systems)） <!-- source: pdf=422; section=索引; unit=p0422_b016_u00; entry=idx1189 -->
+- 游程编码（RLE）（run-length encoding (RLE)），[原书 216](ch08_zh.md#src-p236) <!-- source: pdf=422; section=索引; unit=p0422_b016_u00; entry=idx1190 -->
+- 运行时不确定性（runtime uncertainty），[原书 108](ch04_zh.md#src-p128)-[原书 110](ch04_zh.md#src-p130) <!-- source: pdf=422; section=索引; unit=p0422_b016_u00; entry=idx1191 -->
+    - 依赖注入（dependency injection），[原书 109](ch04_zh.md#src-p129) <!-- source: pdf=422; section=索引; unit=p0422_b017_u00; entry=idx1192 -->
+    - 提高代码灵活性（increasing code flexibility），[原书 108](ch04_zh.md#src-p128) <!-- source: pdf=422; section=索引; unit=p0422_b017_u00; entry=idx1193 -->
+
+<!-- source: pdf=422; section=索引; unit=p0422_b018_u00; entry=idx1194 -->
+## S
+
+- S 形运动曲线（S-curve motion profile），[原书 384](ch14_zh.md#src-p404) <!-- source: pdf=422; section=索引; unit=p0422_b018_u01; entry=idx1195 -->
+- 采样分析器（sampling profiler），[原书 308](ch11_zh.md#src-p328) <!-- source: pdf=422; section=索引; unit=p0422_b018_u01; entry=idx1196 -->
+- 沙箱环境：使用 MVC 模式（sandbox environment, using MVC pattern in），[原书 35](ch02_zh.md#src-p55)-[原书 37](ch02_zh.md#src-p57) <!-- source: pdf=423; section=索引; unit=p0423_b000_u00,p0423_b001_u00; entry=idx1197 -->
+- 扫描（读取）按钮按下（scanning (reading) for button presses），[原书 212](ch08_zh.md#src-p232) <!-- source: pdf=423; section=索引; unit=p0423_b001_u00; entry=idx1198 -->
+- 调度器（scheduler），[原书 152](ch06_zh.md#src-p172) <!-- source: pdf=423; section=索引; unit=p0423_b001_u00; entry=idx1199 -->
+    - 将定时器用作微型调度器（using timer as mini-scheduler），[原书 146](ch05_zh.md#src-p166), [原书 173](ch06_zh.md#src-p193)-[原书 174](ch06_zh.md#src-p194) <!-- source: pdf=423; section=索引; unit=p0423_b002_u00; entry=idx1200 -->
+- 调度（scheduling），[原书 151](ch06_zh.md#src-p171)-[原书 155](ch06_zh.md#src-p175) <!-- source: pdf=423; section=索引; unit=p0423_b002_u00; entry=idx1201 -->
+    - 避免竞态条件（avoiding race conditions），[原书 154](ch06_zh.md#src-p174) <!-- source: pdf=423; section=索引; unit=p0423_b003_u00; entry=idx1202 -->
+    - 任务之间的通信（communication between tasks），[原书 152](ch06_zh.md#src-p172) <!-- source: pdf=423; section=索引; unit=p0423_b003_u00; entry=idx1203 -->
+    - 优先级反转（priority inversion），[原书 154](ch06_zh.md#src-p174) <!-- source: pdf=423; section=索引; unit=p0423_b003_u00; entry=idx1204 -->
+    - 任务调度（of tasks），[原书 151](ch06_zh.md#src-p171) <!-- source: pdf=423; section=索引; unit=p0423_b003_u00; entry=idx1205 -->
+- 原理图（schematics），[原书 58](ch03_zh.md#src-p78)-[原书 62](ch03_zh.md#src-p82) <!-- source: pdf=423; section=索引; unit=p0423_b003_u00; entry=idx1206 -->
+    - 与最初的软件／硬件框图比较（comparison with initial software/hardware block diagrams），[原书 14](ch02_zh.md#src-p34) <!-- source: pdf=423; section=索引; unit=p0423_b004_u00; entry=idx1207 -->
+    - 创建原理图（creation of），[原书 43](ch03_zh.md#src-p63) <!-- source: pdf=423; section=索引; unit=p0423_b004_u00; entry=idx1208 -->
+    - 练习阅读 Arduino 原理图（practice reading an Arduino schematic），[原书 62](ch03_zh.md#src-p82)-[原书 64](ch03_zh.md#src-p84) <!-- source: pdf=423; section=索引; unit=p0423_b004_u00,p0423_b005_u00; entry=idx1209 -->
+    - 数据手册中的示例原理图（sample schematics in datasheets），[原书 49](ch03_zh.md#src-p69) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1210 -->
+- SCK、CLK 或 SCLK 线（SCK, CLK, or SCLK lines），[原书 188](ch07_zh.md#src-p208) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1211 -->
+- 作用域（变量）（scope (variables)） <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1212 -->
+    - 使用 static 关键字限制作用域（limiting with use of static keyword），[原书 287](ch11_zh.md#src-p307) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1213 -->
+    - 尽量缩小作用域（minimizing），[原书 299](ch11_zh.md#src-p319) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1214 -->
+- 示波器（scopes） <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1215 -->
+    - 示波器与逻辑分析仪（oscilloscopes and logic analyzers），[原书 67](ch03_zh.md#src-p87) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1216 -->
+    - 设置（setting up），[原书 67](ch03_zh.md#src-p87)-[原书 70](ch03_zh.md#src-p90) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1217 -->
+- 安全性（security） <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1218 -->
+    - 联网设备使用的加密与身份认证（encryption and authentication used with connected devices），[原书 270](ch10_zh.md#src-p290) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1219 -->
+    - 固件更新安全性（firmware updates），[原书 275](ch10_zh.md#src-p295) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1220 -->
+    - 每台设备独立的密钥提供高安全性（high security with per-unit keys），[原书 277](ch10_zh.md#src-p297) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1221 -->
+    - 风险分析（risk analysis），[原书 271](ch10_zh.md#src-p291) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1222 -->
+- 段式显示器（segmented displays），[原书 213](ch08_zh.md#src-p233)-[原书 214](ch08_zh.md#src-p234) <!-- source: pdf=423; section=索引; unit=p0423_b005_u00; entry=idx1223 -->
+    - 将显示器上的人类可读数据与代码表示解耦（decoupling of human-readable data on display from code representation），[原书 213](ch08_zh.md#src-p233) <!-- source: pdf=423; section=索引; unit=p0423_b006_u00; entry=idx1224 -->
+- 传感器（sensors），[原书 227](ch08_zh.md#src-p247) <!-- source: pdf=423; section=索引; unit=p0423_b006_u00; entry=idx1225 -->
+    - 模拟传感器（analog），[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=423; section=索引; unit=p0423_b007_u00; entry=idx1226 -->
+    - 数字传感器（digital），[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=423; section=索引; unit=p0423_b007_u00; entry=idx1227 -->
+    - 分布式传感器网络（distributed sensor networks），[原书 263](ch10_zh.md#src-p283) <!-- source: pdf=423; section=索引; unit=p0423_b007_u00; entry=idx1228 -->
+    - 编码器（encoders），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=423; section=索引; unit=p0423_b007_u00; entry=idx1229 -->
+    - 电机中的原点传感器（home sensor in motors），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=423; section=索引; unit=p0423_b007_u00; entry=idx1230 -->
+- 关注点分离（separation of concerns），[原书 99](ch04_zh.md#src-p119), [原书 170](ch06_zh.md#src-p190) <!-- source: pdf=423; section=索引; unit=p0423_b007_u00; entry=idx1231 -->
+- 串行通信（serial communication），[原书 181](ch07_zh.md#src-p201)-[原书 195](ch07_zh.md#src-p215) <!-- source: pdf=423; section=索引; unit=p0423_b007_u00; entry=idx1232 -->
+    - 外设通信方法的比较（comparison of peripheral communication methods），[原书 183](ch07_zh.md#src-p203) <!-- source: pdf=423; section=索引; unit=p0423_b008_u00; entry=idx1233 -->
+    - 评估新通信总线时的考虑因素（considerations in evaluating a new communication bus），[原书 183](ch07_zh.md#src-p203) <!-- source: pdf=423; section=索引; unit=p0423_b008_u00; entry=idx1234 -->
+    - 考虑其他协议（considering other protocols），[原书 193](ch07_zh.md#src-p213)-[原书 195](ch07_zh.md#src-p215) <!-- source: pdf=423; section=索引; unit=p0423_b008_u00; entry=idx1235 -->
+    - 双线与四线 SPI（dual and quad SPI），[原书 192](ch07_zh.md#src-p212) <!-- source: pdf=423; section=索引; unit=p0423_b008_u00; entry=idx1236 -->
+    - I²C 与 TWI（I²C and TWI），[原书 189](ch07_zh.md#src-p209) <!-- source: pdf=423; section=索引; unit=p0423_b008_u00; entry=idx1237 -->
+    - 通过调制解调器连接通信（through modem connection），[原书 268](ch10_zh.md#src-p288) <!-- source: pdf=423; section=索引; unit=p0423_b008_u00; entry=idx1238 -->
+    - 1-wire，[原书 191](ch07_zh.md#src-p211) <!-- source: pdf=423; section=索引; unit=p0423_b008_u00; entry=idx1239 -->
+    - 并行通信（parallel），[原书 191](ch07_zh.md#src-p211)-[原书 192](ch07_zh.md#src-p212) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1240 -->
+    - RS-232 串行通信（RS-232 serial），[原书 185](ch07_zh.md#src-p205) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1241 -->
+    - SPI，[原书 187](ch07_zh.md#src-p207) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1242 -->
+    - TTL 串行通信（TTL serial），[原书 184](ch07_zh.md#src-p204) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1243 -->
+    - USB，[原书 193](ch07_zh.md#src-p213) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1244 -->
+- 从嵌入式系统到 PC 的串行连接（serial connection from embedded system to PC），[原书 185](ch07_zh.md#src-p205) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1245 -->
+- 串行外设接口（见“SPI 协议”）（Serial Peripheral Interface (see SPI protocol)） <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1246 -->
+- 串口转以太网转换器（serial-to-Ethernet converters），[原书 186](ch07_zh.md#src-p206) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1247 -->
+- 序列化（serialization），[原书 268](ch10_zh.md#src-p288) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1248 -->
+- 伺服电机（servo motors），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1249 -->
+- 伺服机构（servos），[原书 385](ch14_zh.md#src-p405) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1250 -->
+- 七段显示器（seven-segment displays），[原书 213](ch08_zh.md#src-p233) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1251 -->
+- 共享资源（shared resources） <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1252 -->
+    - 分层图中的共享资源（in layering diagram），[原书 20](ch02_zh.md#src-p40) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1253 -->
+    - 含共享资源的组织结构图（organizational diagram with shared resource），[原书 18](ch02_zh.md#src-p38) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1254 -->
+- 信噪比（SNR）（signal-to-noise (SNR) ratio），[原书 228](ch08_zh.md#src-p248) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1255 -->
+- 信号（signals），[原书 60](ch03_zh.md#src-p80) <!-- source: pdf=423; section=索引; unit=p0423_b009_u00; entry=idx1256 -->
+    - 模拟信号（analog），[原书 227](ch08_zh.md#src-p247)-[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=423; section=索引; unit=p0423_b010_u00; entry=idx1257 -->
+    - 带抖动的数字按钮信号（bouncy digital button signal），[原书 105](ch04_zh.md#src-p125) <!-- source: pdf=423; section=索引; unit=p0423_b010_u00; entry=idx1258 -->
+    - 按钮信号的不同视图（different views of button signals），[原书 103](ch04_zh.md#src-p123) <!-- source: pdf=423; section=索引; unit=p0423_b010_u00; entry=idx1259 -->
+    - 通信总线上的信号传输距离（how far they travel, in communication bus），[原书 183](ch07_zh.md#src-p203) <!-- source: pdf=423; section=索引; unit=p0423_b010_u00,p0423_b011_u00; entry=idx1260 -->
+    - RS-232 信号传输距离（RS-232, distance of travel），[原书 186](ch07_zh.md#src-p206) <!-- source: pdf=423; section=索引; unit=p0423_b011_u00; entry=idx1261 -->
+    - USB 中的信号（in USB），[原书 193](ch07_zh.md#src-p213) <!-- source: pdf=423; section=索引; unit=p0423_b011_u00; entry=idx1262 -->
+- 有符号数的表示（signed numbers, representing），[原书 205](ch07_zh.md#src-p225) <!-- source: pdf=423; section=索引; unit=p0423_b011_u00; entry=idx1263 -->
+- 代码签名（见“数字签名”）（signing code (see digital signatures)） <!-- source: pdf=423; section=索引; unit=p0423_b011_u00; entry=idx1264 -->
+- 泰勒级数中的正弦函数（sine function in Taylor series），[原书 333](ch12_zh.md#src-p353) <!-- source: pdf=423; section=索引; unit=p0423_b011_u00; entry=idx1265 -->
+    - 比较正弦偏移查找表输出与半步居中输出（comparing sine offset lookup table output with half-step centered output），[原书 339](ch12_zh.md#src-p359) <!-- source: pdf=423; section=索引; unit=p0423_b012_u00; entry=idx1266 -->
+    - 除以常量（dividing by a constant），[原书 335](ch12_zh.md#src-p355) <!-- source: pdf=423; section=索引; unit=p0423_b012_u00; entry=idx1267 -->
+    - 输入缩放（scaling the input），[原书 336](ch12_zh.md#src-p356) <!-- source: pdf=423; section=索引; unit=p0423_b012_u00; entry=idx1268 -->
+- 单例模式（singleton pattern），[原书 32](ch02_zh.md#src-p52) <!-- source: pdf=423; section=索引; unit=p0423_b012_u00; entry=idx1269 -->
+- 睡眠（sleep） <!-- source: pdf=423; section=索引; unit=p0423_b012_u00; entry=idx1270 -->
+    - 睡眠期间的电流消耗（current consumption during），[原书 360](ch13_zh.md#src-p380) <!-- source: pdf=423; section=索引; unit=p0423_b012_u00; entry=idx1271 -->
+    - 睡眠期间的功耗（power consumption during），[原书 361](ch13_zh.md#src-p381) <!-- source: pdf=423; section=索引; unit=p0423_b012_u00; entry=idx1272 -->
+    - 让处理器睡眠（putting the processor to sleep），[原书 364](ch13_zh.md#src-p384)-[原书 370](ch13_zh.md#src-p390) <!-- source: pdf=423; section=索引; unit=p0423_b012_u00; entry=idx1273 -->
+        - 处理器的各种睡眠选择（range of processor sleep possibilities），[原书 365](ch13_zh.md#src-p385) <!-- source: pdf=423; section=索引; unit=p0423_b013_u00; entry=idx1274 -->
+- 螺线管（solenoids），[原书 373](ch14_zh.md#src-p393) <!-- source: pdf=423; section=索引; unit=p0423_b013_u00; entry=idx1275 -->
+- 速度（speed），[原书 303](ch11_zh.md#src-p323)-[原书 318](ch11_zh.md#src-p338) <!-- source: pdf=423; section=索引; unit=p0423_b013_u00; entry=idx1276 -->
+    - 针对处理器周期进行优化（optimizing for processor cycles），[原书 308](ch11_zh.md#src-p328)-[原书 318](ch11_zh.md#src-p338) <!-- source: pdf=423; section=索引; unit=p0423_b014_u00; entry=idx1277 -->
+    - 针对处理器速度进行优化（optimizing for processor speed），[原书 363](ch13_zh.md#src-p383) <!-- source: pdf=423; section=索引; unit=p0423_b014_u00; entry=idx1278 -->
+    - 应用程序性能分析（profiling your application），[原书 304](ch11_zh.md#src-p324)-[原书 308](ch11_zh.md#src-p328) <!-- source: pdf=423; section=索引; unit=p0423_b014_u00; entry=idx1279 -->
+- 系统的速度与数据供给能力（speeds and feeds (system)），[原书 236](ch08_zh.md#src-p256)-[原书 239](ch08_zh.md#src-p259) <!-- source: pdf=423; section=索引; unit=p0423_b014_u00; entry=idx1280 -->
+    - 数据带宽（data bandwidth），[原书 236](ch08_zh.md#src-p256) <!-- source: pdf=423; section=索引; unit=p0423_b015_u00; entry=idx1281 -->
+    - 内存吞吐量与缓冲（memory throughput and buffering），[原书 238](ch08_zh.md#src-p258) <!-- source: pdf=423; section=索引; unit=p0423_b015_u00; entry=idx1282 -->
+- SPI（串行外设接口）协议（SPI (Serial Peripheral Interface) protocol），[原书 14](ch02_zh.md#src-p34), [原书 181](ch07_zh.md#src-p201), [原书 194](ch07_zh.md#src-p214), [原书 263](ch10_zh.md#src-p283) <!-- source: pdf=423; section=索引; unit=p0423_b015_u00,p0423_b016_u00; entry=idx1283 -->
+    - 与并行总线结合（combined with parallel buses），[原书 192](ch07_zh.md#src-p212) <!-- source: pdf=423; section=索引; unit=p0423_b016_u00; entry=idx1284 -->
+    - 通过 SPI 与 ADC 通信（communicating with an ADC via），[原书 268](ch10_zh.md#src-p288) <!-- source: pdf=424; section=索引; unit=p0424_b000_u00; entry=idx1285 -->
+    - 通过 SPI 与闪存器件通信（communication to flash memory device via），[原书 72](ch03_zh.md#src-p92) <!-- source: pdf=424; section=索引; unit=p0424_b000_u00,p0424_b001_u00; entry=idx1286 -->
+    - 双线与四线 SPI（dual and quad SPI），[原书 192](ch07_zh.md#src-p212) <!-- source: pdf=424; section=索引; unit=p0424_b001_u00; entry=idx1287 -->
+    - 外部 ADC 示例：数据就绪信号与 SPI（external ADC example, data ready with SPI），[原书 196](ch07_zh.md#src-p216)-[原书 197](ch07_zh.md#src-p217) <!-- source: pdf=424; section=索引; unit=p0424_b001_u00,p0424_b002_u00; entry=idx1288 -->
+    - 外部 ADC 示例：SPI 与 DMA（external ADC example, SPI and DMA），[原书 200](ch07_zh.md#src-p220)-[原书 203](ch07_zh.md#src-p223) <!-- source: pdf=424; section=索引; unit=p0424_b002_u00,p0424_b003_u00; entry=idx1289 -->
+    - 通过 SPI 通信的闪存（flash memory communicating via），[原书 26](ch02_zh.md#src-p46) <!-- source: pdf=424; section=索引; unit=p0424_b003_u00; entry=idx1290 -->
+    - 通过 SPI 控制的闪存（flash memory controlled via），[原书 221](ch08_zh.md#src-p241) <!-- source: pdf=424; section=索引; unit=p0424_b003_u00; entry=idx1291 -->
+    - 以 44.1 kHz 采样的四通道 16 位 ADC（four-channel 16-bit ADC sampling at 44.1 kHz），[原书 236](ch08_zh.md#src-p256) <!-- source: pdf=424; section=索引; unit=p0424_b003_u00; entry=idx1292 -->
+    - 经 SPI 进行外设通信（peripheral communication over），[原书 187](ch07_zh.md#src-p207) <!-- source: pdf=424; section=索引; unit=p0424_b003_u00; entry=idx1294 -->
+    - SPI 端口与 I/O 子系统共享的引脚（pin shared between SPI port and I/O subsystem），[原书 93](ch04_zh.md#src-p113) <!-- source: pdf=424; section=索引; unit=p0424_b003_u00; entry=idx1295 -->
+    - 在闪存测试中验证 I/O 线已配置为 SPI 端口（verifying I/O lines configured to work as SPI port in flash test），[原书 73](ch03_zh.md#src-p93) <!-- source: pdf=424; section=索引; unit=p0424_b003_u00; entry=idx1296 -->
+- 栈溢出（stack overflows），[原书 129](ch05_zh.md#src-p149), [原书 260](ch09_zh.md#src-p280) <!-- source: pdf=424; section=索引; unit=p0424_b003_u00; entry=idx1297 -->
+    - 导致设备被攻破（leading to device hacking），[原书 253](ch09_zh.md#src-p273) <!-- source: pdf=424; section=索引; unit=p0424_b004_u00; entry=idx1298 -->
+- 栈（stacks），[原书 129](ch05_zh.md#src-p149), [原书 297](ch11_zh.md#src-p317) <!-- source: pdf=424; section=索引; unit=p0424_b004_u00; entry=idx1299 -->
+    - 函数返回内存引起的损坏（corruption from returning memory from function），[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=424; section=索引; unit=p0424_b005_u00; entry=idx1300 -->
+    - 确定栈大小（determining size of），[原书 297](ch11_zh.md#src-p317) <!-- source: pdf=424; section=索引; unit=p0424_b005_u00; entry=idx1301 -->
+    - 栈中的函数调用链（function chains in），[原书 300](ch11_zh.md#src-p320) <!-- source: pdf=424; section=索引; unit=p0424_b005_u00; entry=idx1302 -->
+    - 全局变量与栈（global variables and），[原书 302](ch11_zh.md#src-p322) <!-- source: pdf=424; section=索引; unit=p0424_b005_u00; entry=idx1303 -->
+    - 显示栈指针的系统 RAM 内存映射（RAM memory map of system showing stack pointers），[原书 129](ch05_zh.md#src-p149) <!-- source: pdf=424; section=索引; unit=p0424_b005_u00; entry=idx1304 -->
+    - 返回指向栈内存的指针（returning pointer to stack memory），[原书 252](ch09_zh.md#src-p272) <!-- source: pdf=424; section=索引; unit=p0424_b005_u00; entry=idx1305 -->
+    - 系统调用栈（system call stack），[原书 129](ch05_zh.md#src-p149) <!-- source: pdf=424; section=索引; unit=p0424_b005_u00; entry=idx1306 -->
+- 分阶段发布（staged rollout），[原书 280](ch10_zh.md#src-p300) <!-- source: pdf=424; section=索引; unit=p0424_b005_u00; entry=idx1307 -->
+- 标准差（standard deviation） <!-- source: pdf=424; section=索引; unit=p0424_b005_u00; entry=idx1308 -->
+    - 使用两个等价公式计算（calculating, using two equivalent equations），[原书 329](ch12_zh.md#src-p349) <!-- source: pdf=424; section=索引; unit=p0424_b005_u00,p0424_b006_u00; entry=idx1309 -->
+    - 计算中近似求平方根的方法（methods of approximating square root in calculations），[原书 332](ch12_zh.md#src-p352) <!-- source: pdf=424; section=索引; unit=p0424_b006_u00; entry=idx1310 -->
+- 状态机（state machines），[原书 156](ch06_zh.md#src-p176)-[原书 164](ch06_zh.md#src-p184) <!-- source: pdf=424; section=索引; unit=p0424_b006_u00; entry=idx1311 -->
+    - 选择实现方式（choosing an implementation），[原书 163](ch06_zh.md#src-p183) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1312 -->
+    - 以事件为中心（event-centric），[原书 159](ch06_zh.md#src-p179) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1313 -->
+    - I²C 驱动程序或处理器硬件中的状态机（in I²C drivers or processor hardware），[原书 190](ch07_zh.md#src-p210) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1314 -->
+    - 表示为有限状态自动机（representation as finite state automata），[原书 156](ch06_zh.md#src-p176) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1315 -->
+    - 表示为流程图（representation as flowcharts），[原书 156](ch06_zh.md#src-p176) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1316 -->
+    - 状态模式（state pattern），[原书 160](ch06_zh.md#src-p180) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1317 -->
+    - 以状态为中心（state-centric），[原书 157](ch06_zh.md#src-p177) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1318 -->
+    - 含隐藏转换的、以状态为中心的状态机（state-centric with hidden transitions），[原书 158](ch06_zh.md#src-p178) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1319 -->
+    - 红绿灯控制器示例（stoplight controller example），[原书 156](ch06_zh.md#src-p176) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1320 -->
+    - 表驱动状态机（table-driven），[原书 161](ch06_zh.md#src-p181)-[原书 163](ch06_zh.md#src-p183) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1321 -->
+- 状态模式（state pattern），[原书 156](ch06_zh.md#src-p176), [原书 160](ch06_zh.md#src-p180) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1322 -->
+- 状态（states） <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1323 -->
+    - 设备状态与功耗（device states and power consumption），[原书 361](ch13_zh.md#src-p381) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1324 -->
+    - 日志系统的状态（of logging），[原书 30](ch02_zh.md#src-p50) <!-- source: pdf=424; section=索引; unit=p0424_b007_u00; entry=idx1325 -->
+    - 系统各状态的功耗（system, power draw in），[原书 361](ch13_zh.md#src-p381) <!-- source: pdf=424; section=索引; unit=p0424_b008_u00; entry=idx1326 -->
+- static 关键字（static keyword），[原书 32](ch02_zh.md#src-p52), [原书 33](ch02_zh.md#src-p53) <!-- source: pdf=424; section=索引; unit=p0424_b008_u00; entry=idx1327 -->
+- 静态变量（static variables），[原书 129](ch05_zh.md#src-p149) <!-- source: pdf=424; section=索引; unit=p0424_b008_u00; entry=idx1328 -->
+    - 映射文件中未初始化的静态变量（uninitialized, in map file），[原书 297](ch11_zh.md#src-p317) <!-- source: pdf=424; section=索引; unit=p0424_b009_u00; entry=idx1329 -->
+    - 未初始化的变量在初始化时置零（uninitialized, set to zero on initialization），[原书 246](ch09_zh.md#src-p266) <!-- source: pdf=424; section=索引; unit=p0424_b009_u00,p0424_b010_u00; entry=idx1330 -->
+- 处理器 FIFO 使用的状态标志（status flags used by processor FIFOs），[原书 198](ch07_zh.md#src-p218) <!-- source: pdf=424; section=索引; unit=p0424_b010_u00; entry=idx1331 -->
+- 状态寄存器（status registers），[原书 135](ch05_zh.md#src-p155) <!-- source: pdf=424; section=索引; unit=p0424_b010_u00; entry=idx1332 -->
+    - 读取寄存器会修改其内容（reading the register modifying its contents），[原书 136](ch05_zh.md#src-p156) <!-- source: pdf=424; section=索引; unit=p0424_b011_u00,p0424_b012_u00; entry=idx1333 -->
+- 步进电机（stepper motors），[原书 374](ch14_zh.md#src-p394) <!-- source: pdf=424; section=索引; unit=p0424_b012_u00; entry=idx1334 -->
+    - 依据电机步数计算相对位置（relative position calculated on motor steps），[原书 375](ch14_zh.md#src-p395) <!-- source: pdf=424; section=索引; unit=p0424_b013_u00,p0424_b014_u00; entry=idx1335 -->
+- 粘滞位（sticky bits），[原书 75](ch03_zh.md#src-p95) <!-- source: pdf=424; section=索引; unit=p0424_b014_u00; entry=idx1336 -->
+- 策略模式（strategy pattern），[原书 232](ch08_zh.md#src-p252) <!-- source: pdf=424; section=索引; unit=p0424_b014_u00; entry=idx1337 -->
+    - 与模板模式结合（combining with template pattern），[原书 233](ch08_zh.md#src-p253) <!-- source: pdf=424; section=索引; unit=p0424_b015_u00; entry=idx1338 -->
+- 字符串（strings） <!-- source: pdf=424; section=索引; unit=p0424_b015_u00; entry=idx1339 -->
+    - 减少代码空间中的调试字符串（reducing debug strings in code space），[原书 294](ch11_zh.md#src-p314) <!-- source: pdf=424; section=索引; unit=p0424_b015_u00; entry=idx1340 -->
+    - 替换 strcpy 以排除字符串库（replacing strcpy to exclude the strings library），[原书 291](ch11_zh.md#src-p311) <!-- source: pdf=424; section=索引; unit=p0424_b015_u00; entry=idx1341 -->
+- 结构体（structures） <!-- source: pdf=424; section=索引; unit=p0424_b015_u00; entry=idx1342 -->
+    - 传递给函数（passing to a function），[原书 298](ch11_zh.md#src-p318) <!-- source: pdf=424; section=索引; unit=p0424_b015_u00; entry=idx1343 -->
+    - 指向结构体的指针（pointers to），[原书 141](ch05_zh.md#src-p161) <!-- source: pdf=424; section=索引; unit=p0424_b015_u00; entry=idx1344 -->
+    - 指向某个外设的处理器寄存器内存映射（pointing to memory map of processor registers for a peripheral），[原书 141](ch05_zh.md#src-p161) <!-- source: pdf=424; section=索引; unit=p0424_b015_u00; entry=idx1345 -->
+- switch 语句（switch statement），[原书 78](ch03_zh.md#src-p98) <!-- source: pdf=424; section=索引; unit=p0424_b015_u00; entry=idx1346 -->
+    - 发生变化时的状态函数（state function when change occurs），[原书 159](ch06_zh.md#src-p179) <!-- source: pdf=424; section=索引; unit=p0424_b016_u00; entry=idx1347 -->
+    - 用 switch 表示状态机（state machines as），[原书 157](ch06_zh.md#src-p177) <!-- source: pdf=424; section=索引; unit=p0424_b016_u00; entry=idx1348 -->
+    - 替代 if-else 使用（used in place of if-else），[原书 318](ch11_zh.md#src-p338) <!-- source: pdf=424; section=索引; unit=p0424_b016_u00; entry=idx1349 -->
+- 开关（switches），[原书 61](ch03_zh.md#src-p81) <!-- source: pdf=424; section=索引; unit=p0424_b016_u00; entry=idx1350 -->
+    - 去抖（debouncing），[原书 105](ch04_zh.md#src-p125)-[原书 108](ch04_zh.md#src-p128) <!-- source: pdf=424; section=索引; unit=p0424_b017_u00; entry=idx1351 -->
+- 系统架构（system architecture），[原书 11](ch02_zh.md#src-p31)-[原书 40](ch02_zh.md#src-p60) <!-- source: pdf=424; section=索引; unit=p0424_b017_u00; entry=idx1352 -->
+    - 创建接口（creating interfaces），[原书 27](ch02_zh.md#src-p47)-[原书 34](ch02_zh.md#src-p54) <!-- source: pdf=424; section=索引; unit=p0424_b018_u00; entry=idx1353 -->
+    - 创建系统图（creating system diagrams），[原书 13](ch02_zh.md#src-p33)-[原书 21](ch02_zh.md#src-p41), [原书 38](ch02_zh.md#src-p58) <!-- source: pdf=424; section=索引; unit=p0424_b018_u00; entry=idx1354 -->
+        - 框图（block diagram），[原书 14](ch02_zh.md#src-p34) <!-- source: pdf=424; section=索引; unit=p0424_b019_u00; entry=idx1355 -->
+        - 上下文图（context diagram），[原书 13](ch02_zh.md#src-p33) <!-- source: pdf=424; section=索引; unit=p0424_b019_u00; entry=idx1356 -->
+        - 分层图（layering diagram），[原书 20](ch02_zh.md#src-p40) <!-- source: pdf=424; section=索引; unit=p0424_b019_u00; entry=idx1357 -->
+        - 组织结构图（organigram），[原书 17](ch02_zh.md#src-p37) <!-- source: pdf=424; section=索引; unit=p0424_b019_u00; entry=idx1358 -->
+    - 为变化而设计（designing for change），[原书 21](ch02_zh.md#src-p41)-[原书 27](ch02_zh.md#src-p47) <!-- source: pdf=424; section=索引; unit=p0424_b019_u00; entry=idx1359 -->
+        - 适配器模式（adapter pattern），[原书 25](ch02_zh.md#src-p45) <!-- source: pdf=424; section=索引; unit=p0424_b020_u00; entry=idx1360 -->
+        - 任务委派（delegation of tasks），[原书 22](ch02_zh.md#src-p42) <!-- source: pdf=424; section=索引; unit=p0424_b020_u00; entry=idx1361 -->
+        - 驱动程序接口（driver interface），[原书 23](ch02_zh.md#src-p43) <!-- source: pdf=424; section=索引; unit=p0424_b020_u00; entry=idx1362 -->
+        - 封装模块（encapsulating modules），[原书 21](ch02_zh.md#src-p41) <!-- source: pdf=424; section=索引; unit=p0424_b020_u00; entry=idx1363 -->
+    - 入门（getting started with），[原书 12](ch02_zh.md#src-p32) <!-- source: pdf=424; section=索引; unit=p0424_b020_u00; entry=idx1364 -->
+    - 使用 MVC 模式保持算法独立（keeping the algorithm segregated, using MVC pattern），[原书 34](ch02_zh.md#src-p54)-[原书 37](ch02_zh.md#src-p57) <!-- source: pdf=424; section=索引; unit=p0424_b020_u00; entry=idx1365 -->
+- 系统调用栈（system call stack），[原书 129](ch05_zh.md#src-p149) <!-- source: pdf=424; section=索引; unit=p0424_b020_u00; entry=idx1366 -->
+- 系统时钟（system clock），[原书 111](ch04_zh.md#src-p131) <!-- source: pdf=424; section=索引; unit=p0424_b020_u00; entry=idx1367 -->
+- 系统延迟（system latency），[原书 131](ch05_zh.md#src-p151) <!-- source: pdf=424; section=索引; unit=p0424_b020_u00; entry=idx1368 -->
+    - 计算（calculating），[原书 131](ch05_zh.md#src-p151) <!-- source: pdf=424; section=索引; unit=p0424_b021_u00; entry=idx1369 -->
+    - 关闭中断会增大系统延迟（increasing by turning off interrupts），[原书 154](ch06_zh.md#src-p174) <!-- source: pdf=425; section=索引; unit=p0425_b000_u00; entry=idx1370 -->
+    - 中断与系统延迟（interrupts and），[原书 171](ch06_zh.md#src-p191) <!-- source: pdf=425; section=索引; unit=p0425_b000_u00; entry=idx1371 -->
+- 系统需求：速度与数据供给能力（system needs, speeds and feeds），[原书 236](ch08_zh.md#src-p256)-[原书 239](ch08_zh.md#src-p259) <!-- source: pdf=425; section=索引; unit=p0425_b000_u00; entry=idx1372 -->
+- 系统统计信息（system statistics），[原书 111](ch04_zh.md#src-p131) <!-- source: pdf=425; section=索引; unit=p0425_b000_u00; entry=idx1373 -->
+- 系统节拍（system ticks） <!-- source: pdf=425; section=索引; unit=p0425_b000_u00; entry=idx1374 -->
+    - 概述（about），[原书 143](ch05_zh.md#src-p163) <!-- source: pdf=425; section=索引; unit=p0425_b000_u00; entry=idx1375 -->
+    - 中断（interrupts），[原书 173](ch06_zh.md#src-p193) <!-- source: pdf=425; section=索引; unit=p0425_b000_u00; entry=idx1376 -->
+
+<!-- source: pdf=425; section=索引; unit=p0425_b001_u00; entry=idx1377 -->
+## T
+
+- 表驱动状态机（table-driven state machines），[原书 161](ch06_zh.md#src-p181)-[原书 163](ch06_zh.md#src-p183) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1378 -->
+- 尾递归（tail recursion），[原书 301](ch11_zh.md#src-p321) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1379 -->
+- 任务（tasks） <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1380 -->
+    - 主动对象作为操作系统中的真正任务运行（active objects running as true tasks in operating system），[原书 177](ch06_zh.md#src-p197) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1381 -->
+    - 将任务挂到调度器上使其运行（attaching to scheduler so they run），[原书 147](ch05_zh.md#src-p167) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1382 -->
+    - 后台任务（background task），[原书 146](ch05_zh.md#src-p166) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1383 -->
+    - 任务之间的通信（communication between），[原书 152](ch06_zh.md#src-p172) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1384 -->
+    - 任务的内容（contents of），[原书 146](ch05_zh.md#src-p166) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1385 -->
+    - 调度器查找已启用的任务（scheduler finding enabled task），[原书 147](ch05_zh.md#src-p167) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1386 -->
+    - 调度（scheduling），[原书 151](ch06_zh.md#src-p171) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1387 -->
+    - 中断与任务的相似性（similarity of interrupts to），[原书 127](ch05_zh.md#src-p147) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1388 -->
+    - 极小调度器驱动的任务（very small scheduler driving），[原书 173](ch06_zh.md#src-p193) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1389 -->
+- 泰勒级数（Taylor series），[原书 333](ch12_zh.md#src-p353)-[原书 335](ch12_zh.md#src-p355) <!-- source: pdf=425; section=索引; unit=p0425_b001_u01; entry=idx1390 -->
+    - 输入范围与可接受误差（range of input and acceptable error），[原书 338](ch12_zh.md#src-p358) <!-- source: pdf=425; section=索引; unit=p0425_b002_u00; entry=idx1391 -->
+    - 其中的正弦函数：输入缩放（sine function in, scaling the input），[原书 336](ch12_zh.md#src-p356) <!-- source: pdf=425; section=索引; unit=p0425_b002_u00; entry=idx1392 -->
+- 温度（temperature） <!-- source: pdf=425; section=索引; unit=p0425_b002_u00; entry=idx1393 -->
+    - 针对温度校准系统（calibrating your system for），[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=425; section=索引; unit=p0425_b002_u00; entry=idx1394 -->
+    - RTC 与温度（RTC and），[原书 226](ch08_zh.md#src-p246) <!-- source: pdf=425; section=索引; unit=p0425_b002_u00; entry=idx1395 -->
+    - ADC 输入的温度补偿（temperature compensation in ADC input），[原书 345](ch12_zh.md#src-p365) <!-- source: pdf=425; section=索引; unit=p0425_b002_u00,p0425_b003_u00; entry=idx1396 -->
+- 温度传感器（temperature sensors），[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=425; section=索引; unit=p0425_b003_u00; entry=idx1397 -->
+- 模板模式（template pattern），[原书 232](ch08_zh.md#src-p252) <!-- source: pdf=425; section=索引; unit=p0425_b003_u00; entry=idx1398 -->
+- 三目条件运算（?:）（ternary conditional operation (?:)），[原书 292](ch11_zh.md#src-p312) <!-- source: pdf=425; section=索引; unit=p0425_b003_u00; entry=idx1399 -->
+- 测试点（test points），[原书 84](ch03_zh.md#src-p104) <!-- source: pdf=425; section=索引; unit=p0425_b003_u00; entry=idx1400 -->
+- 测试工作（testing），[原书 7](ch01_zh.md#src-p27) <!-- source: pdf=425; section=索引; unit=p0425_b003_u00; entry=idx1401 -->
+    - 定义和编写硬件测试（defining and writing hardware tests），[原书 44](ch03_zh.md#src-p64) <!-- source: pdf=425; section=索引; unit=p0425_b004_u00; entry=idx1402 -->
+    - 硬件与软件测试（of hardware and software），[原书 70](ch03_zh.md#src-p90)-[原书 81](ch03_zh.md#src-p101) <!-- source: pdf=425; section=索引; unit=p0425_b004_u00; entry=idx1403 -->
+        - 建立测试（building tests），[原书 71](ch03_zh.md#src-p91) <!-- source: pdf=425; section=索引; unit=p0425_b005_u00; entry=idx1404 -->
+        - 命令模式（command pattern），[原书 79](ch03_zh.md#src-p99) <!-- source: pdf=425; section=索引; unit=p0425_b005_u00; entry=idx1405 -->
+        - 闪存测试示例（flash test example），[原书 72](ch03_zh.md#src-p92)-[原书 75](ch03_zh.md#src-p95) <!-- source: pdf=425; section=索引; unit=p0425_b005_u00; entry=idx1406 -->
+- 测试（tests） <!-- source: pdf=425; section=索引; unit=p0425_b005_u00; entry=idx1407 -->
+    - 建立（building），[原书 71](ch03_zh.md#src-p91) <!-- source: pdf=425; section=索引; unit=p0425_b005_u00; entry=idx1408 -->
+    - 嵌入式系统的测试类型（types for embedded systems），[原书 70](ch03_zh.md#src-p90) <!-- source: pdf=425; section=索引; unit=p0425_b005_u00; entry=idx1409 -->
+- 文本段（链接器脚本）（text segment (linker script)），[原书 257](ch09_zh.md#src-p277) <!-- source: pdf=425; section=索引; unit=p0425_b005_u00; entry=idx1410 -->
+- 吞吐量（throughput），[原书 229](ch08_zh.md#src-p249) <!-- source: pdf=425; section=索引; unit=p0425_b005_u00; entry=idx1411 -->
+    - 并行接口的高吞吐量（high throughput in parallel interfaces），[原书 191](ch07_zh.md#src-p211) <!-- source: pdf=425; section=索引; unit=p0425_b006_u00; entry=idx1412 -->
+    - 通信总线的最大吞吐量（maximum, of communication bus），[原书 183](ch07_zh.md#src-p203) <!-- source: pdf=425; section=索引; unit=p0425_b006_u00; entry=idx1413 -->
+    - 大多数串行连接的吞吐量（in most serial connections），[原书 185](ch07_zh.md#src-p205) <!-- source: pdf=425; section=索引; unit=p0425_b006_u00; entry=idx1414 -->
+- 节拍（系统）（见“系统节拍”）（ticks (system) (see system ticks)） <!-- source: pdf=425; section=索引; unit=p0425_b006_u00; entry=idx1415 -->
+- 时间（time） <!-- source: pdf=425; section=索引; unit=p0425_b006_u00; entry=idx1416 -->
+    - 跟踪时间流逝（keeping track of time passing），[原书 145](ch05_zh.md#src-p165) <!-- source: pdf=425; section=索引; unit=p0425_b007_u00; entry=idx1417 -->
+    - 功或能量计算中的时间（in measure of work or energy），[原书 356](ch13_zh.md#src-p376) <!-- source: pdf=425; section=索引; unit=p0425_b007_u00; entry=idx1418 -->
+    - 示波器中的时间（in oscilloscopes），[原书 68](ch03_zh.md#src-p88) <!-- source: pdf=425; section=索引; unit=p0425_b007_u00; entry=idx1419 -->
+    - 通过缩短时间减少能量消耗（reducing in energy consumption），[原书 357](ch13_zh.md#src-p377) <!-- source: pdf=425; section=索引; unit=p0425_b007_u00; entry=idx1420 -->
+    - 计时变量的大小（size of timekeeping variable），[原书 145](ch05_zh.md#src-p165) <!-- source: pdf=425; section=索引; unit=p0425_b007_u00; entry=idx1421 -->
+    - 系统节拍：跟踪时间流逝（system tick, tracking time passing），[原书 143](ch05_zh.md#src-p163) <!-- source: pdf=425; section=索引; unit=p0425_b007_u00; entry=idx1422 -->
+    - 基于时间的事件（time-based events），[原书 145](ch05_zh.md#src-p165) <!-- source: pdf=425; section=索引; unit=p0425_b007_u00; entry=idx1423 -->
+- 定时器计数器（timer counter），[原书 112](ch04_zh.md#src-p132) <!-- source: pdf=425; section=索引; unit=p0425_b007_u00; entry=idx1424 -->
+- 定时器（timers），[原书 87](ch04_zh.md#src-p107), [原书 111](ch04_zh.md#src-p131)-[原书 119](ch04_zh.md#src-p139), [原书 141](ch05_zh.md#src-p161) <!-- source: pdf=425; section=索引; unit=p0425_b007_u00; entry=idx1425 -->
+    - 时钟输入（clock input），[原书 111](ch04_zh.md#src-p131) <!-- source: pdf=425; section=索引; unit=p0425_b008_u00; entry=idx1426 -->
+    - 为目标中断频率寻找寄存器值（finding register values for goal interrupt frequency），[原书 115](ch04_zh.md#src-p135) <!-- source: pdf=425; section=索引; unit=p0425_b008_u00; entry=idx1427 -->
+    - 中断（interrupts），[原书 128](ch05_zh.md#src-p148), [原书 133](ch05_zh.md#src-p153) <!-- source: pdf=425; section=索引; unit=p0425_b008_u00; entry=idx1428 -->
+        - 实现（implementing），[原书 135](ch05_zh.md#src-p155) <!-- source: pdf=425; section=索引; unit=p0425_b009_u00; entry=idx1429 -->
+        - 实现系统节拍（implementing system tick），[原书 143](ch05_zh.md#src-p163) <!-- source: pdf=425; section=索引; unit=p0425_b009_u00; entry=idx1430 -->
+        - 主循环中的定时器中断（in main loop），[原书 168](ch06_zh.md#src-p188) <!-- source: pdf=425; section=索引; unit=p0425_b009_u00; entry=idx1431 -->
+        - 设置（setting），[原书 141](ch05_zh.md#src-p161) <!-- source: pdf=425; section=索引; unit=p0425_b009_u00; entry=idx1432 -->
+        - 唤醒处理器（waking the processor），[原书 367](ch13_zh.md#src-p387) <!-- source: pdf=425; section=索引; unit=p0425_b009_u00; entry=idx1433 -->
+        - 看门狗与定时器中断（watchdog and），[原书 165](ch06_zh.md#src-p185) <!-- source: pdf=425; section=索引; unit=p0425_b009_u00; entry=idx1434 -->
+    - 为难以实现的目标中断频率进行计算（math for difficult interrupt goal frequency），[原书 117](ch04_zh.md#src-p137) <!-- source: pdf=425; section=索引; unit=p0425_b009_u00,p0425_b010_u00; entry=idx1435 -->
+    - 预分频与匹配（prescaling and matching），[原书 112](ch04_zh.md#src-p132) <!-- source: pdf=425; section=索引; unit=p0425_b010_u00; entry=idx1436 -->
+    - 定时器分析器（函数计时器）（timer profiler (function timer)），[原书 305](ch11_zh.md#src-p325) <!-- source: pdf=425; section=索引; unit=p0425_b010_u00; entry=idx1437 -->
+    - 定时器分析器（响应计时器）（timer profiler (response timer)），[原书 307](ch11_zh.md#src-p327) <!-- source: pdf=425; section=索引; unit=p0425_b010_u00; entry=idx1438 -->
+    - 用作微型调度器（using as mini-scheduler），[原书 146](ch05_zh.md#src-p166) <!-- source: pdf=425; section=索引; unit=p0425_b010_u00; entry=idx1439 -->
+    - 使用脉宽调制（using pulse-width modulation），[原书 120](ch04_zh.md#src-p140) <!-- source: pdf=425; section=索引; unit=p0425_b010_u00; entry=idx1440 -->
+- 时间戳面临的挑战（timestamps, challenges with），[原书 226](ch08_zh.md#src-p246) <!-- source: pdf=425; section=索引; unit=p0425_b010_u00; entry=idx1441 -->
+- 时序图（数据手册中）（timing diagrams (in datasheets)），[原书 50](ch03_zh.md#src-p70) <!-- source: pdf=425; section=索引; unit=p0425_b010_u00; entry=idx1442 -->
+- 定时错误的调试（timing errors, debugging），[原书 84](ch03_zh.md#src-p104) <!-- source: pdf=425; section=索引; unit=p0425_b010_u00; entry=idx1443 -->
+- 翻转寄存器中的某位（toggling a bit in a register），[原书 91](ch04_zh.md#src-p111) <!-- source: pdf=425; section=索引; unit=p0425_b010_u00; entry=idx1444 -->
+- 翻转输出（toggling an output），[原书 92](ch04_zh.md#src-p112)-[原书 96](ch04_zh.md#src-p116) <!-- source: pdf=425; section=索引; unit=p0425_b010_u00; entry=idx1445 -->
+    - 让 LED 闪烁（blinking the LED），[原书 95](ch04_zh.md#src-p115) <!-- source: pdf=425; section=索引; unit=p0425_b011_u00; entry=idx1446 -->
+    - 排查 LED 不亮的原因（troubleshooting why LED won't turn on），[原书 95](ch04_zh.md#src-p115) <!-- source: pdf=425; section=索引; unit=p0425_b011_u00; entry=idx1447 -->
+    - 点亮 LED（turning on the LED），[原书 94](ch04_zh.md#src-p114) <!-- source: pdf=425; section=索引; unit=p0425_b011_u00; entry=idx1448 -->
+- 自顶向下设计（top-down design），[原书 23](ch02_zh.md#src-p43) <!-- source: pdf=425; section=索引; unit=p0425_b011_u00; entry=idx1449 -->
+- 转矩（torque），[原书 374](ch14_zh.md#src-p394) <!-- source: pdf=425; section=索引; unit=p0425_b011_u00; entry=idx1450 -->
+    - 有刷直流电机转矩对电流的依赖（of brushed DC motor, dependence on current），[原书 374](ch14_zh.md#src-p394) <!-- source: pdf=425; section=索引; unit=p0425_b012_u00; entry=idx1451 -->
+    - 电流控制转矩（current controlling），[原书 377](ch14_zh.md#src-p397) <!-- source: pdf=425; section=索引; unit=p0425_b012_u00; entry=idx1452 -->
+    - 与旋转和力的关系（relation to rotation and force），[原书 378](ch14_zh.md#src-p398) <!-- source: pdf=425; section=索引; unit=p0425_b012_u00; entry=idx1453 -->
+- 晶体管—晶体管逻辑（TTL）（transistor-transistor logic (TTL)），[原书 184](ch07_zh.md#src-p204) <!-- source: pdf=425; section=索引; unit=p0425_b012_u00; entry=idx1454 -->
+- 转换（状态）（transitions (state)），[原书 156](ch06_zh.md#src-p176), [原书 157](ch06_zh.md#src-p177), [原书 160](ch06_zh.md#src-p180) <!-- source: pdf=425; section=索引; unit=p0425_b012_u00; entry=idx1455 -->
+    - 以状态为中心的状态机中的隐藏转换（hidden, in state-centric state machine），[原书 158](ch06_zh.md#src-p178) <!-- source: pdf=425; section=索引; unit=p0425_b013_u00; entry=idx1456 -->
+    - 独立于事件的转换（independent of the event），[原书 159](ch06_zh.md#src-p179) <!-- source: pdf=425; section=索引; unit=p0425_b013_u00; entry=idx1457 -->
+- 梯形运动曲线（trapezoidal motion profile），[原书 382](ch14_zh.md#src-p402) <!-- source: pdf=425; section=索引; unit=p0425_b013_u00; entry=idx1458 -->
+- 三态复用（见“Charlieplexing”）（tri-state multiplexing (see Charlieplexing)） <!-- source: pdf=425; section=索引; unit=p0425_b013_u00; entry=idx1459 -->
+- 三角形运动曲线（triangular motion profile），[原书 382](ch14_zh.md#src-p402) <!-- source: pdf=425; section=索引; unit=p0425_b013_u00; entry=idx1460 -->
+- 截断（truncation） <!-- source: pdf=425; section=索引; unit=p0425_b013_u00; entry=idx1461 -->
+    - 滚动平均中的截断失效（failure in rolling average），[原书 328](ch12_zh.md#src-p348) <!-- source: pdf=425; section=索引; unit=p0425_b013_u00; entry=idx1462 -->
+    - 整数除法中的截断（in integer division），[原书 328](ch12_zh.md#src-p348) <!-- source: pdf=425; section=索引; unit=p0425_b013_u00; entry=idx1463 -->
+    - 当 delta 很小时导致均值为零（leading to means of zero with very small delta），[原书 332](ch12_zh.md#src-p352) <!-- source: pdf=426; section=索引; unit=p0426_b000_u00; entry=idx1464 -->
+- TWI（双线接口）（TWI (two-wire interface)），[原书 189](ch07_zh.md#src-p209) <!-- source: pdf=426; section=索引; unit=p0426_b000_u00; entry=idx1465 -->
+- 二进制补码（two's complement），[原书 205](ch07_zh.md#src-p225) <!-- source: pdf=426; section=索引; unit=p0426_b000_u00; entry=idx1466 -->
+
+<!-- source: pdf=426; section=索引; unit=p0426_b001_u00; entry=idx1467 -->
+## U
+
+- UART，[原书 181](ch07_zh.md#src-p201), [原书 182](ch07_zh.md#src-p202), [原书 184](ch07_zh.md#src-p204) <!-- source: pdf=426; section=索引; unit=p0426_b001_u01; entry=idx1468 -->
+- UML（统一建模语言）（UML (Unified Modeling Language)），[原书 219](ch08_zh.md#src-p239) <!-- source: pdf=426; section=索引; unit=p0426_b001_u01; entry=idx1469 -->
+- 未对齐的内存访问（unaligned memory access），[原书 251](ch09_zh.md#src-p271) <!-- source: pdf=426; section=索引; unit=p0426_b001_u01; entry=idx1470 -->
+- 不确定性（运行时）（uncertainty (runtime)），[原书 108](ch04_zh.md#src-p128)-[原书 110](ch04_zh.md#src-p130), [原书 152](ch06_zh.md#src-p172) <!-- source: pdf=426; section=索引; unit=p0426_b001_u01; entry=idx1471 -->
+- 执行未定义指令（undefined instructions, running），[原书 250](ch09_zh.md#src-p270) <!-- source: pdf=426; section=索引; unit=p0426_b001_u01; entry=idx1472 -->
+- 未初始化的变量（uninitialized variables），[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=426; section=索引; unit=p0426_b001_u01; entry=idx1473 -->
+- 通用异步收发器（见“UART”）（universal asynchronous received/transmitter (see UART)） <!-- source: pdf=426; section=索引; unit=p0426_b001_u01; entry=idx1474 -->
+- 通用同步／异步收发器（见“USART”）（universal synchronous/asynchronous receiver/ transmitter (see USART)） <!-- source: pdf=426; section=索引; unit=p0426_b001_u01; entry=idx1475 -->
+- Unix 系统：驱动程序接口（Unix systems, driver interface），[原书 23](ch02_zh.md#src-p43), [原书 219](ch08_zh.md#src-p239) <!-- source: pdf=426; section=索引; unit=p0426_b001_u01; entry=idx1476 -->
+- 更新代码（updating code），[原书 272](ch10_zh.md#src-p292)-[原书 280](ch10_zh.md#src-p300), [原书 283](ch10_zh.md#src-p303) <!-- source: pdf=426; section=索引; unit=p0426_b001_u01; entry=idx1477 -->
+    - 引导加载程序方案（bootloader solution），[原书 272](ch10_zh.md#src-p292) <!-- source: pdf=426; section=索引; unit=p0426_b002_u00; entry=idx1478 -->
+    - 更新失败时的回退（failback for failures in），[原书 278](ch10_zh.md#src-p298) <!-- source: pdf=426; section=索引; unit=p0426_b002_u00; entry=idx1479 -->
+    - 固件更新安全性（firmware update security），[原书 275](ch10_zh.md#src-p295) <!-- source: pdf=426; section=索引; unit=p0426_b002_u00; entry=idx1480 -->
+    - 多份代码（multiple pieces of code），[原书 277](ch10_zh.md#src-p297) <!-- source: pdf=426; section=索引; unit=p0426_b002_u00; entry=idx1481 -->
+    - 分阶段发布（staged rollout），[原书 279](ch10_zh.md#src-p299) <!-- source: pdf=426; section=索引; unit=p0426_b002_u00; entry=idx1482 -->
+- USART，[原书 182](ch07_zh.md#src-p202) <!-- source: pdf=426; section=索引; unit=p0426_b002_u00; entry=idx1483 -->
+- USB 转串口线缆（USB-to-serial cables），[原书 184](ch07_zh.md#src-p204) <!-- source: pdf=426; section=索引; unit=p0426_b002_u00; entry=idx1484 -->
+
+<!-- source: pdf=426; section=索引; unit=p0426_b003_u00; entry=idx1485 -->
+## V
+
+- 变量（variables） <!-- source: pdf=426; section=索引; unit=p0426_b003_u01; entry=idx1486 -->
+    - 映射文件中的变量信息（information about in map file），[原书 297](ch11_zh.md#src-p317) <!-- source: pdf=426; section=索引; unit=p0426_b003_u01; entry=idx1487 -->
+    - 使变量成为静态变量或全局变量（making static or global），[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=426; section=索引; unit=p0426_b003_u01; entry=idx1488 -->
+    - 尽量缩小作用域（minimizing scope of），[原书 299](ch11_zh.md#src-p319) <!-- source: pdf=426; section=索引; unit=p0426_b003_u01; entry=idx1489 -->
+    - 未初始化的变量（uninitialized），[原书 260](ch09_zh.md#src-p280) <!-- source: pdf=426; section=索引; unit=p0426_b003_u01; entry=idx1490 -->
+- 方差（variance），[原书 330](ch12_zh.md#src-p350) <!-- source: pdf=426; section=索引; unit=p0426_b003_u01; entry=idx1491 -->
+    - 边处理边计算（calculating as you go along），[原书 330](ch12_zh.md#src-p350) <!-- source: pdf=426; section=索引; unit=p0426_b004_u00; entry=idx1492 -->
+- 向量段（链接器脚本）（vector segment (linker script)），[原书 257](ch09_zh.md#src-p277) <!-- source: pdf=426; section=索引; unit=p0426_b005_u00; entry=idx1493 -->
+- 向量表（中断）（vector table (interrupt)），[原书 132](ch05_zh.md#src-p152) <!-- source: pdf=426; section=索引; unit=p0426_b005_u00; entry=idx1494 -->
+    - 初始化（initializing），[原书 132](ch05_zh.md#src-p152) <!-- source: pdf=426; section=索引; unit=p0426_b006_u00; entry=idx1495 -->
+- 振动电机（vibration motors），[原书 373](ch14_zh.md#src-p393) <!-- source: pdf=426; section=索引; unit=p0426_b006_u00; entry=idx1496 -->
+- 视图（MVC 中）（view (in MVC)），[原书 34](ch02_zh.md#src-p54) <!-- source: pdf=426; section=索引; unit=p0426_b006_u00; entry=idx1497 -->
+- 虚拟盒子（virtual box），[原书 35](ch02_zh.md#src-p55) <!-- source: pdf=426; section=索引; unit=p0426_b006_u00; entry=idx1498 -->
+    - 另见“沙箱环境：使用 MVC 模式”（(see also sandbox environment, using MVC pattern in)） <!-- source: pdf=426; section=索引; unit=p0426_b007_u00; entry=idx1499 -->
+- volatile 关键字（volatile keyword），[原书 104](ch04_zh.md#src-p124), [原书 124](ch04_zh.md#src-p144), [原书 221](ch08_zh.md#src-p241) <!-- source: pdf=426; section=索引; unit=p0426_b007_u00; entry=idx1500 -->
+- 电压（voltage） <!-- source: pdf=426; section=索引; unit=p0426_b007_u00; entry=idx1501 -->
+    - 用 DMM 测量（measured on DMM），[原书 358](ch13_zh.md#src-p378) <!-- source: pdf=426; section=索引; unit=p0426_b007_u00; entry=idx1502 -->
+    - 降低电压（reducing），[原书 357](ch13_zh.md#src-p377) <!-- source: pdf=426; section=索引; unit=p0426_b007_u00; entry=idx1503 -->
+- 电压模式（DMM）（voltage mode (of DMM)），[原书 66](ch03_zh.md#src-p86), [原书 358](ch13_zh.md#src-p378) <!-- source: pdf=426; section=索引; unit=p0426_b007_u00; entry=idx1504 -->
+
+<!-- source: pdf=426; section=索引; unit=p0426_b008_u00; entry=idx1505 -->
+## W
+
+- 等待状态（内存）（wait states (memory)），[原书 309](ch11_zh.md#src-p329) <!-- source: pdf=426; section=索引; unit=p0426_b008_u01; entry=idx1506 -->
+- 唤醒（处理器）（wake-ups (processor)），[原书 364](ch13_zh.md#src-p384) <!-- source: pdf=426; section=索引; unit=p0426_b008_u01; entry=idx1507 -->
+    - 避免频繁唤醒（frequent, avoiding），[原书 369](ch13_zh.md#src-p389) <!-- source: pdf=426; section=索引; unit=p0426_b009_u00; entry=idx1508 -->
+- 看门狗（watchdog），[原书 164](ch06_zh.md#src-p184)-[原书 166](ch06_zh.md#src-p186) <!-- source: pdf=426; section=索引; unit=p0426_b009_u00; entry=idx1509 -->
+    - 带定时器中断的主循环中的看门狗（in main loop with timer interrupt），[原书 168](ch06_zh.md#src-p188) <!-- source: pdf=426; section=索引; unit=p0426_b010_u00; entry=idx1510 -->
+    - 睡眠模式中的处理器看门狗（processor in sleep modes），[原书 369](ch13_zh.md#src-p389) <!-- source: pdf=426; section=索引; unit=p0426_b010_u00; entry=idx1511 -->
+    - 术语（terminology），[原书 166](ch06_zh.md#src-p186) <!-- source: pdf=426; section=索引; unit=p0426_b010_u00; entry=idx1512 -->
+- 观察点（watchpoints），[原书 250](ch09_zh.md#src-p270) <!-- source: pdf=426; section=索引; unit=p0426_b010_u00; entry=idx1513 -->
+- 无线网络（WiFi）（wireless networks (WiFi)），[原书 265](ch10_zh.md#src-p285) <!-- source: pdf=426; section=索引; unit=p0426_b010_u00; entry=idx1514 -->
+- 包装器模式（wrapper pattern），[原书 25](ch02_zh.md#src-p45) <!-- source: pdf=426; section=索引; unit=p0426_b010_u00; entry=idx1515 -->
+
+<!-- source: pdf=426; section=索引; unit=p0426_b011_u00; entry=idx1516 -->
+## X
+
+- 按位异或运算符（\^）（XOR bitwise operator (\^)），[原书 89](ch04_zh.md#src-p109), [原书 91](ch04_zh.md#src-p111) <!-- source: pdf=426; section=索引; unit=p0426_b011_u01; entry=idx1517 -->
+
+<!-- source: pdf=426; section=索引; unit=p0426_b012_u00; entry=idx1518 -->
+## Z
+
+- 除以零（zero, dividing by），[原书 248](ch09_zh.md#src-p268) <!-- source: pdf=426; section=索引; unit=p0426_b012_u01; entry=idx1519 -->
+- 零欧姆电阻（导线）（zero-ohm resistor (wire)），[原书 359](ch13_zh.md#src-p379) <!-- source: pdf=426; section=索引; unit=p0426_b012_u01; entry=idx1520 -->
